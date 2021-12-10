@@ -4,11 +4,11 @@
   "primary_color": "#0f5764",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-gray"
   },
   "bg_color": "#fa0000",
   "repository": "ecomplus-stores/joaovictor",
-  "logo": "/img/uploads/logo.png",
+  "logo": "/img/uploads/transparent-logo-v1.png",
   "name": "Macbuy Brasil",
   "short_name": "Macbuy",
   "lang": "pt_br",
