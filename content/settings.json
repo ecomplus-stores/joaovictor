@@ -1,12 +1,12 @@
 {
   "domain": "joaovictor.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#212121",
+  "primary_color": "#4f4f4f",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#0f5764",
+  "bg_color": "#ffffff",
   "repository": "ecomplus-stores/joaovictor",
   "logo": "/img/uploads/transparent-logo-v1.png",
   "name": "Macbuy Brasil",
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "secondary_color": "#454545",
+  "secondary_color": "#4f4f4f",
   "icon": "/img/icon.png",
   "store_id": 19130,
   "description": "A Macbuy é um ascendente e-commerce do varejo brasileiro focada na comercialização de Macbooks e outros produtos Apple. Graças, principalmente, a um inovador sistema de logística somos capazes de oferecer os mais competitivos preços do mercado.",
