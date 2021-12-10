@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Frete grátis em compras a partir de R$ 200,00",
+    "link": "/promotion",
+    "background": "#0f5764",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [
