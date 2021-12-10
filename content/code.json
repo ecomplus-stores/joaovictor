@@ -1,5 +1,5 @@
 {
   "css": ".product__short-stock {\ndisplay: none !important;\n}",
-  "html_head": "",
+  "html_head": "          <button\n            class=\"d-lg-none btn btn-lg\"\n            id=\"mobile-search-btn\"\n            type=\"button\"\n            data-toggle=\"collapse\"\n            data-target=\"#search-bar\"\n            aria-expanded=\"true\"\n            aria-controls=\"search-bar\"\n            aria-controls=\"search-bar\"\n            title=\"<%= _.dictionary('searchProducts') %>\"\n          >\n            <i class=\"fas fa-search\"></i>\n          </button>",
   "html_body": ""
 }
