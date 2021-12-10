@@ -26,7 +26,8 @@
       "/iphone?iPhone",
       "/watch?Watch",
       "/airpods?Airpods",
-      "/tv?TV"
+      "/tv?TV",
+      "/acessorios?Acessórios"
     ],
     "random": 0,
     "full_width": true
