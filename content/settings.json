@@ -4,7 +4,7 @@
   "primary_color": "#0f5764",
   "theme": {
     "bootswatch": "_",
-    "custom": "clean-white"
+    "custom": "clean-gray"
   },
   "bg_color": "#0f5764",
   "repository": "ecomplus-stores/joaovictor",
