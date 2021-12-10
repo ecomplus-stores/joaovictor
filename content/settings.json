@@ -1,24 +1,24 @@
 {
-  "store_id": 19130,
-  "name": "joaovictor",
   "domain": "joaovictor.netlify.app",
-  "short_name": "joaovictor",
-  "description": "joaovictor",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/joaovictor",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Macbuy Brasil",
+  "short_name": "Macbuy",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/joaovictor"
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 19130,
+  "description": "joaovictor",
+  "large_icon": "/img/large-icon.png"
 }
