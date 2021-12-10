@@ -17,6 +17,10 @@
       "title": "Quem comprou este produto, também comprou:"
     },
     {
+      "type": "custom-content",
+      "markdown": "Teste de conteúdo customizado"
+    },
+    {
       "type": "product-description",
       "enabled": true
     },
