@@ -1,5 +1,14 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "mac",
+    "ipad",
+    "iphone",
+    "watch",
+    "airpods",
+    "tv",
+    "acessorios"
+  ],
   "phone_wpp": true,
-  "socials": true
+  "socials": true,
+  "alphabetical_order": false
 }
