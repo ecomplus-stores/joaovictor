@@ -3,7 +3,7 @@
   "active": true,
   "desktopOnly": false,
   "options": {
-    "buyText": "",
+    "buyText": "Adicionar à sacola",
     "buy": "",
     "lowQuantityToWarn": 5,
     "maxVariationOptionsBtns": 6
