@@ -1,7 +1,7 @@
 {
   "domain": "joaovictor.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#4f4f4f",
+  "primary_color": "#f1f1f1",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
