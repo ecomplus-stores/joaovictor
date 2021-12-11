@@ -1,5 +1,5 @@
 {
-  "css": ".product__short-stock {\ndisplay: none !important;\n}\n\n#product .prices_value {\ncolor: blue;\n}\n\n.product__buy button {\ncolor: #ffffff;\nbackground-color: #58C22E;\nborder-color: #58C22E;\nwidth: 100%;\nborder-radius: 15px 15px 15px 15px;\n}\n.product__buy button:hover {\nbackground: #48A524;\nborder-color: #48A524;\n}",
+  "css": ".product__short-stock {\ndisplay: none !important;\n}\n\n#product .prices_value {\ncolor: blue;\n}\n\n.product__buy button {\ncolor: #ffffff;\nbackground-color: #58C22E;\nborder-color: #58C22E;\nwidth: 100%;\nborder-radius: 15px 15px 15px 15px;\n}\n.product__buy button:hover {\nbackground: #48A524;\nborder-color: #48A524;\n}\n\n.btn-primary {\n    color: #fff;\n    background-color: #58C22E;\n    border-color: #58C22E;\n}",
   "html_head": "",
   "html_body": ""
 }
