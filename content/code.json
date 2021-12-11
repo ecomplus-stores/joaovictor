@@ -1,5 +1,5 @@
 {
-  "css": ".product__short-stock {\ndisplay: none !important;\n}",
+  "css": ".product__short-stock {\ndisplay: none !important;\n}\n\n#product .prices_value {\ncolor: blue;\n}",
   "html_head": "",
   "html_body": ""
 }
