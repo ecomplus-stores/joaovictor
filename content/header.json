@@ -2,8 +2,8 @@
   "marketing_stripe": {
     "text": "Frete grátis em compras a partir de R$ 200,00 | Produtos Apple até 35% OFF",
     "link": "",
-    "background": "#f3f3f3",
-    "color": "#212121"
+    "background": "#e5e5e5",
+    "color": "#383838"
   },
   "contacts_stripe": {
     "pages": [
