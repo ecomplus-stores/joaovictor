@@ -8,11 +8,16 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Nosso Blog",
-        "link": "/blog"
+        "title": "Blog",
+        "link": "https://macmagazine.com.br/"
       },
       {
-        "title": "Podcast"
+        "title": "Podcast",
+        "link": "https://macmagazine.com.br/categoria/podcast/"
+      },
+      {
+        "title": "Fórum",
+        "link": "https://forum.macmagazine.com.br/"
       },
       {
         "title": "F.A.Q.",
