@@ -14,11 +14,11 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/favicon-1x1.png",
   "country_code": "BR",
   "secondary_color": "#4f4f4f",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/app-icon.png",
   "store_id": 19130,
   "description": "A Macbuy é um ascendente e-commerce do varejo brasileiro focada na comercialização de Macbooks e outros produtos Apple. Graças, principalmente, a um inovador sistema de logística somos capazes de oferecer os mais competitivos preços do mercado.",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/transparent-logo-v1.png"
 }
