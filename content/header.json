@@ -8,7 +8,7 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Blog",
+        "title": "Nosso Blog",
         "link": "/blog"
       },
       {
@@ -17,6 +17,12 @@
       {
         "title": "F.A.Q.",
         "link": "/posts/esta-loja-e-um-pwa"
+      },
+      {
+        "title": "Ajuda"
+      },
+      {
+        "title": "Segurança"
       }
     ],
     "phone_wpp": true,
