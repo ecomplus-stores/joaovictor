@@ -4,7 +4,7 @@
   "desktopOnly": false,
   "options": {
     "buyText": "ADICIONAR À SACOLA",
-    "buy": "",
+    "buy": "<div class=\"product__buy\"><span><button type=\"button\" class=\"btn btn-lg btn-primary\"><span><i class=\"fas fa-shopping-bag mr-1\"></i> ADICIONAR À SACOLA</span></button></span></div>",
     "footer": ""
   }
 }
