@@ -26,7 +26,9 @@
       "alt": "Secure connection"
     },
     {
-      "src": "/img/uploads/ff4296ed88e08787fbda7fdb5d70070da9ca14c3.png"
+      "src": "/img/uploads/ff4296ed88e08787fbda7fdb5d70070da9ca14c3.png",
+      "link": "https://safeweb.norton.com/report/show?url=macbuy.com.br",
+      "alt": "Norton"
     }
   ],
   "payment_methods": {
