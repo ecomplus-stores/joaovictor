@@ -24,6 +24,9 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
+    },
+    {
+      "src": "/img/uploads/ff4296ed88e08787fbda7fdb5d70070da9ca14c3.png"
     }
   ],
   "payment_methods": {
@@ -46,5 +49,5 @@
     "amex": true,
     "itau": true
   },
-  "credits": ""
+  "credits": "CRÉDITOS (OPCIONAL)"
 }
