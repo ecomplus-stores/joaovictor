@@ -29,6 +29,10 @@
       "src": "/img/uploads/ff4296ed88e08787fbda7fdb5d70070da9ca14c3.png",
       "link": "https://safeweb.norton.com/report/show?url=macbuy.com.br",
       "alt": "Norton"
+    },
+    {
+      "src": "/img/uploads/google_loja_segura.svg",
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.macbuy.com.br"
     }
   ],
   "payment_methods": {
