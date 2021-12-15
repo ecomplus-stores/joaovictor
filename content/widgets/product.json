@@ -3,8 +3,8 @@
   "active": true,
   "desktopOnly": false,
   "options": {
-    "buyText": "ADICIONAR À SACOLA",
-    "buy": "",
+    "buyText": "COMPRAR",
+    "buy": "<div class=\"product__buy\"><span><button type=\"button\" class=\"btn btn-lg btn-primary\"><span><i class=\"fas fa-shopping-bag mr-1\"></i> ADICIONAR À SACOLA</span></button></span></div>",
     "lowQuantityToWarn": 5,
     "maxVariationOptionsBtns": 6
   }
