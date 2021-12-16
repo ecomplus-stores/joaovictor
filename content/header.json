@@ -35,15 +35,15 @@
   },
   "categories_list": {
     "featured": [
+      "/categorias?Produtos por categoria",
+      "/produtos-por-marca?Produtos por marca",
       "/mac?Mac",
       "/iphone?iPhone",
       "/ipad?iPad",
       "/watch?Watch",
       "/airpods?Airpods",
       "/tv?TV",
-      "/acessorios?Acessórios",
-      "/categorias?Produtos por categoria",
-      "/produtos-por-marca?Produtos por marca"
+      "/acessorios?Acessórios"
     ],
     "random": 0,
     "full_width": true
