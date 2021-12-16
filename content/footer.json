@@ -51,7 +51,7 @@
     "citibank": false,
     "hiper": true,
     "diners": true,
-    "mais": false,
+    "mais": true,
     "amex": true,
     "itau": false
   },
