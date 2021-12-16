@@ -41,7 +41,9 @@
       "/watch?Watch",
       "/airpods?Airpods",
       "/tv?TV",
-      "/acessorios?Acessórios"
+      "/acessorios?Acessórios",
+      "/categorias?Produtos por categoria",
+      "/produtos-por-marca?Produtos por marca"
     ],
     "random": 0,
     "full_width": true
