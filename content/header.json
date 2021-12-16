@@ -30,7 +30,7 @@
         "title": "Segurança"
       }
     ],
-    "phone_wpp": true,
+    "phone_wpp": false,
     "socials": true
   },
   "categories_list": {
