@@ -10,7 +10,7 @@
   "repository": "ecomplus-stores/joaovictor",
   "logo": "/img/uploads/transparent-logo-v2.png",
   "name": "Macbuy® Brasil",
-  "short_name": "Macbuy®",
+  "short_name": "Macbuy® Brasil",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -19,6 +19,6 @@
   "secondary_color": "#4f4f4f",
   "icon": "/img/uploads/app-icon.png",
   "store_id": 19130,
-  "description": "A Macbuy é um ascendente e-commerce do varejo brasileiro focada na comercialização de Macbooks e outros produtos Apple. Graças, principalmente, a um inovador sistema de logística somos capazes de oferecer os mais competitivos preços do mercado.",
+  "description": "A Macbuy é um ascendente e-commerce do varejo brasileiro focada na distribuição de computadores MAC, além de outros produtos da marca Apple Inc e variados itens de tecnologia. Graças, principalmente, a um inovador e diferenciado sistema de logística somos capazes criar ofertas competitivas e atrativas, tornando produtos de alto padrão mais acessíveis ao bolso do brasileiro.",
   "large_icon": "/img/uploads/app-icon.png"
 }
