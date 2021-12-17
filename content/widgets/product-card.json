@@ -3,8 +3,8 @@
   "active": true,
   "desktopOnly": false,
   "options": {
-    "buyText": "DETALHES",
-    "buy": "<div class=\"product__buy\"><span><button type=\"button\" class=\"btn btn-lg btn-primary\"><span><i class=\"far fa-eye mr-1\"></i> Detalhes</span></button></span></div>",
+    "buyText": "Detalhes",
+    "buy": "",
     "footer": ""
   }
 }
