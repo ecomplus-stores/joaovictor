@@ -34,7 +34,18 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/categorias?Por categoria",
+      "/produtos-por-marca?Por marca",
+      "/macbook?MacBook",
+      "/mac-mini?iMac",
+      "/iphone?iPhone",
+      "/ipad?iPad",
+      "/watch?Watch",
+      "/airpods?Airpods",
+      "/tv?TV",
+      "/acessorios?Acessórios"
+    ],
     "random": 0,
     "full_width": true
   },
