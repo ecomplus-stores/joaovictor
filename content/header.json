@@ -35,10 +35,11 @@
   },
   "categories_list": {
     "featured": [
-      "/categorias?Por categoria",
-      "/produtos-por-marca?Por marca",
+      "/categorias?Categorias",
+      "/marcas?Marcas",
       "/macbook?MacBook",
-      "/mac-mini?iMac",
+      "/mac-mini?Mac mini",
+      "/imac?iMac",
       "/iphone?iPhone",
       "/ipad?iPad",
       "/watch?Watch",
