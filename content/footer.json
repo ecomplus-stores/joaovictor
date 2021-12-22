@@ -1,7 +1,7 @@
 {
   "description": {
-    "title": "",
-    "text": ""
+    "title": "Macbuy® Brasil (descrição)",
+    "text": "A Macbuy é um ascendente e-commerce do varejo brasileiro focada na distribuição de computadores MAC, além de outros produtos da marca Apple Inc e variados itens de tecnologia. Graças, principalmente, a um inovador e diferenciado sistema de logística somos capazes criar ofertas competitivas e atrativas, tornando produtos de alto padrão mais acessíveis ao bolso do brasileiro."
   },
   "links_1": {
     "list_pages": true,
@@ -14,7 +14,7 @@
     "list": []
   },
   "contacts": {
-    "title": "Contatos",
+    "title": "Informações",
     "phone_wpp": true,
     "socials": true,
     "email": true,
