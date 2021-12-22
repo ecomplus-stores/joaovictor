@@ -1,8 +1,12 @@
 {
   "sort_categories": [
-    "mac",
-    "ipad",
+    "categorias",
+    "marcas",
+    "macbook",
+    "mac-mini",
+    "imac",
     "iphone",
+    "ipad",
     "watch",
     "airpods",
     "tv",
