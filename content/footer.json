@@ -56,7 +56,7 @@
   "stamps": [
     {
       "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection"
+      "alt": "Conexão segura"
     },
     {
       "src": "/img/uploads/ff4296ed88e08787fbda7fdb5d70070da9ca14c3.png",
@@ -64,8 +64,16 @@
       "alt": "Norton"
     },
     {
-      "src": "/img/uploads/google_loja_segura.svg",
+      "src": "/img/uploads/5-.png",
       "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.macbuy.com.br"
+    },
+    {
+      "src": "/img/uploads/3-.png"
+    },
+    {
+      "src": "/img/uploads/4-.png",
+      "alt": "",
+      "link": "https://servicos.receita.fazenda.gov.br/servicos/cnpjreva/cnpjreva_solicitacao.asp"
     }
   ],
   "payment_methods": {
