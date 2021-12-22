@@ -9,9 +9,38 @@
     "list": []
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categorias",
-    "list": []
+    "list": [
+      {
+        "text": "Smartphones",
+        "url": "https://macbuy.com.br/collections/smartphones"
+      },
+      {
+        "text": "Tablets",
+        "url": "https://macbuy.com.br/collections/tablets"
+      },
+      {
+        "text": "Notebooks",
+        "url": "https://macbuy.com.br/collections/notebooks"
+      },
+      {
+        "text": "Desktops",
+        "url": "https://macbuy.com.br/collections/desktops"
+      },
+      {
+        "text": "Smartwatches",
+        "url": "https://macbuy.com.br/collections/smartwatches"
+      },
+      {
+        "text": "Drones",
+        "url": "https://macbuy.com.br/collections/drones"
+      },
+      {
+        "text": "TV & Casa",
+        "url": "https://macbuy.com.br/collections/tvecasa"
+      }
+    ]
   },
   "contacts": {
     "title": "Informações",
