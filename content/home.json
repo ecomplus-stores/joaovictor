@@ -29,6 +29,13 @@
       "limit": 12,
       "collection_id": null,
       "sort": "news"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 22,
+      "offset": 0,
+      "sort": "name",
+      "autoplay": 3
     }
   ]
 }
