@@ -38,6 +38,17 @@
         "61b24e830c7c727225c2773c"
       ],
       "notes": "Descrição auxiliar sobre a promoção"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": "name",
+      "autoplay": 1000
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
