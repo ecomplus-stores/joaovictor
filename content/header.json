@@ -8,29 +8,29 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Blog",
+        "title": "blog",
         "link": "https://macmagazine.com.br/"
       },
       {
-        "title": "Fórum",
+        "title": "fórum",
         "link": "https://forum.macmagazine.com.br/"
       },
       {
-        "title": "Podcast",
+        "title": "podcast",
         "link": "https://macmagazine.com.br/categoria/podcast/"
       },
       {
-        "title": "Políticas"
+        "title": "políticas"
       },
       {
-        "title": "F.A.Q.",
+        "title": "f.a.q.",
         "link": "/posts/esta-loja-e-um-pwa"
       },
       {
-        "title": "Segurança"
+        "title": "segurança"
       },
       {
-        "title": "Rastrear pedido",
+        "title": "rastreio rápido",
         "link": "https://tracking.skypostal.com/single-tracking.aspx?"
       }
     ],
