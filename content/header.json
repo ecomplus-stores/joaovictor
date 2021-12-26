@@ -8,8 +8,11 @@
   "contacts_stripe": {
     "pages": [
       {
+        "title": "guia de segurança"
+      },
+      {
         "title": "blog",
-        "link": "<a href=\"https://macmagazine.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\">blog<!-- a--></a>"
+        "link": "https://macmagazine.com.br/"
       },
       {
         "title": "fórum",
@@ -25,9 +28,6 @@
       {
         "title": "f.a.q.",
         "link": "/posts/esta-loja-e-um-pwa"
-      },
-      {
-        "title": "segurança"
       },
       {
         "title": "rastreio rápido",
