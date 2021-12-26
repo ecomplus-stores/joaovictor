@@ -9,7 +9,7 @@
     "pages": [
       {
         "title": "blog",
-        "link": "https://macmagazine.com.br/"
+        "link": "<a href=\"https://macmagazine.com.br/\" target=\"_blank\" rel=\"noopener noreferrer\">blog<!-- a--></a>"
       },
       {
         "title": "fórum",
