@@ -8,30 +8,29 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "guia de segurança"
+        "title": "assessoria de imprensa"
       },
       {
         "title": "blog",
         "link": "https://macmagazine.com.br/"
       },
       {
-        "title": "fórum",
-        "link": "https://forum.macmagazine.com.br/"
+        "title": "cdc",
+        "link": "http://institucional.bradesco.com.br/NETFaleConosco/site/conteudo/sac/pdf/codigo_defesa_consumidor.pdf"
       },
       {
-        "title": "podcast",
-        "link": "https://macmagazine.com.br/categoria/podcast/"
-      },
-      {
-        "title": "políticas"
+        "title": "fale conosco"
       },
       {
         "title": "f.a.q.",
         "link": "/posts/esta-loja-e-um-pwa"
       },
       {
-        "title": "rastreio rápido",
-        "link": "https://tracking.skypostal.com/single-tracking.aspx?"
+        "title": "fórum",
+        "link": "https://forum.macmagazine.com.br/"
+      },
+      {
+        "title": "guia de segurança"
       },
       {
         "title": "macbuy social",
@@ -41,11 +40,15 @@
         "title": "parceiros"
       },
       {
-        "title": "cdc",
-        "link": "http://institucional.bradesco.com.br/NETFaleConosco/site/conteudo/sac/pdf/codigo_defesa_consumidor.pdf"
+        "title": "políticas"
       },
       {
-        "title": "assessoria de imprensa"
+        "title": "podcast",
+        "link": "https://macmagazine.com.br/categoria/podcast/"
+      },
+      {
+        "title": "rastreio rápido",
+        "link": "https://tracking.skypostal.com/single-tracking.aspx?"
       }
     ],
     "phone_wpp": false,
