@@ -1,5 +1,5 @@
 {
-  "meta_title": "Macbuy® Brasil - Site oficial",
+  "meta_title": "MacPrime® - Site oficial",
   "meta_description": "Ecommerce varejista de produtos de informática, telefonia e tecnologia.",
   "sections": [
     {
@@ -13,7 +13,8 @@
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2021-12-30T22:56:25.529Z"
         }
-      ]
+      ],
+      "full_width": true
     },
     {
       "type": "info-bar",
