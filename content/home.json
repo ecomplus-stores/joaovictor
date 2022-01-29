@@ -22,14 +22,14 @@
     },
     {
       "page": 1,
-      "title": "Lançamentos Apple 2021",
+      "title": "Mais vendidos em MacBooks",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
       "link": "",
       "limit": 12,
-      "collection_id": null,
-      "sort": "news"
+      "collection_id": "61be335d0c7c727225d58200:categories:MacBook:/macbook",
+      "sort": "views"
     },
     {
       "type": "brands-carousel",
