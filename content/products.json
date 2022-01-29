@@ -30,16 +30,6 @@
       "enabled": true
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2021-12-22T23:11:14.641Z",
-      "end": "2021-12-23T23:11:14.673Z",
-      "offers": [
-        "61b24e830c7c727225c2773c"
-      ],
-      "notes": "Descrição auxiliar sobre a promoção"
-    },
-    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
