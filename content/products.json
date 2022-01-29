@@ -30,6 +30,10 @@
       "enabled": true
     },
     {
+      "type": "related-products",
+      "title": "Produtos relacionados"
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
