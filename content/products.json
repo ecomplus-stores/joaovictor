@@ -1,9 +1,23 @@
 {
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/macbookpro_destaque_desk-26ce52545904.png",
-      "mobile_img": "/img/uploads/macbookpro_destaque_desk-26ce52545904.png"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "2022-01-29T21:55:14.307Z",
+          "end": "2022-01-29T21:55:14.347Z",
+          "img": "/img/uploads/macbookpro_destaque_desk-26ce52545904.png",
+          "mobile_img": "/img/uploads/macbookpro_destaque_desk-26ce52545904.png"
+        },
+        {
+          "start": "2022-01-29T21:55:39.793Z",
+          "end": "2022-01-29T21:55:39.826Z",
+          "img": "/img/uploads/intpro-_-180122-_-00-_-appleday-_-apple-_-ap-_-grupo-_-homedesk.jpg",
+          "mobile_img": "/img/uploads/intpro-_-180122-_-00-_-appleday-_-apple-_-ap-_-grupo-_-homedesk.jpg"
+        }
+      ]
     },
     {
       "type": "breadcrumbs",
@@ -48,25 +62,6 @@
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "2022-01-29T21:55:14.307Z",
-          "end": "2022-01-29T21:55:14.347Z",
-          "img": "/img/uploads/macbookpro_destaque_desk-26ce52545904.png",
-          "mobile_img": "/img/uploads/macbookpro_destaque_desk-26ce52545904.png"
-        },
-        {
-          "start": "2022-01-29T21:55:39.793Z",
-          "end": "2022-01-29T21:55:39.826Z",
-          "img": "/img/uploads/intpro-_-180122-_-00-_-appleday-_-apple-_-ap-_-grupo-_-homedesk.jpg",
-          "mobile_img": "/img/uploads/intpro-_-180122-_-00-_-appleday-_-apple-_-ap-_-grupo-_-homedesk.jpg"
-        }
-      ]
     }
   ]
 }
