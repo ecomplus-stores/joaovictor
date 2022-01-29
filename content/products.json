@@ -34,6 +34,11 @@
       "title": "Produtos relacionados"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/intpro-_-180122-_-00-_-appleday-_-apple-_-ap-_-grupo-_-homedesk.jpg",
+      "mobile_img": "/img/uploads/intpro-_-180122-_-00-_-appleday-_-apple-_-ap-_-grupo-_-homedesk.jpg"
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
