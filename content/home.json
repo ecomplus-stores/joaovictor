@@ -37,7 +37,7 @@
       "limit": 21,
       "offset": 0,
       "sort": "name",
-      "autoplay": 20
+      "autoplay": 5000
     },
     {
       "type": "blog",
