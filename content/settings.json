@@ -8,8 +8,8 @@
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/joaovictor",
-  "logo": "/img/uploads/macprime-6.png",
-  "name": "MACPRIME - Site Oficial",
+  "logo": "/img/uploads/last-mac-prime.png",
+  "name": "MacPrime - Site Oficial",
   "short_name": "MACPRIME®",
   "lang": "pt_br",
   "currency": "BRL",
@@ -22,5 +22,5 @@
   "icon": "/img/uploads/pwa-icon.png",
   "store_id": 19130,
   "description": "MacPrime® é um ascendente e-commerce do varejo brasileiro focada na distribuição de computadores Mac, além de outros dispositivos da marca Apple, além de variados itens de tecnologia. Graças, principalmente, a um inovador e diferenciado sistema de logística somos capazes criar ofertas mais competitivas e atrativas, tornando produtos de alto padrão mais acessíveis ao bolso do brasileiro.",
-  "large_icon": "/img/uploads/macprime.png"
+  "large_icon": "/img/uploads/last-mac-prime.png"
 }
