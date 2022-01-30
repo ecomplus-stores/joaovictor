@@ -11,15 +11,16 @@
           "link": "/headset",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
-          "end": "2021-12-30T22:56:25.529Z"
+          "end": "2022-04-15T22:56:25.529Z",
+          "mobile_img": "/img/uploads/d_nq_942433-mla48476628196_122021-oo.webp"
         }
       ],
       "full_width": true
     },
     {
-      "page": 1,
+      "page": "",
       "title": "Mais vendidos em MacBooks",
-      "shuffle": true,
+      "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
       "link": "",
