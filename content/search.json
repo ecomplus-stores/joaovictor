@@ -1,6 +1,11 @@
 {
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/macbookpro_destaque_desk-26ce52545904.png",
+      "mobile_img": "/img/uploads/d_nq_942433-mla48476628196_122021-oo.webp"
+    },
+    {
       "type": "search-engine",
       "enabled": true
     }
