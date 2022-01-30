@@ -17,10 +17,6 @@
       "full_width": true
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "page": 1,
       "title": "Mais vendidos em MacBooks",
       "shuffle": true,
@@ -30,6 +26,10 @@
       "limit": 12,
       "collection_id": "61be335d0c7c727225d58200:categories:MacBook:/macbook",
       "sort": "views"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "type": "brands-carousel",
