@@ -38,6 +38,10 @@
       "offset": 0,
       "sort": "name",
       "autoplay": 20
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ]
 }
