@@ -2,7 +2,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 5000,
+      "autoplay": 50000,
       "full_width": false,
       "slides": [
         {
