@@ -12,12 +12,16 @@
       "enabled": true
     },
     {
+      "type": "document-description",
+      "enabled": true
+    },
+    {
       "type": "collection-retail",
       "enabled": true,
       "sort": "highest_price"
     },
     {
-      "type": "document-description",
+      "type": "info-bar",
       "enabled": true
     }
   ]
