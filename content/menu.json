@@ -13,6 +13,6 @@
     "acessorios"
   ],
   "phone_wpp": true,
-  "socials": false,
+  "socials": true,
   "alphabetical_order": false
 }
