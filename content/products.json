@@ -14,6 +14,10 @@
       "enabled": true
     },
     {
+      "type": "custom-content",
+      "markdown": "<!--StartFragment-->\n\nEnviado por: MacPrime**®** Technology\n\nVendido por: MacPrime**®** Technology\n\n<!--EndFragment-->"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
