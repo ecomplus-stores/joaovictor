@@ -3,7 +3,7 @@
   "active": true,
   "desktopOnly": false,
   "options": {
-    "buyText": "Ver mais",
+    "buyText": "Pré-visualizar",
     "buy": "",
     "footer": ""
   }
