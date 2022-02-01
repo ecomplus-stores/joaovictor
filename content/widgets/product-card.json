@@ -4,7 +4,7 @@
   "desktopOnly": false,
   "options": {
     "buyText": "Pré-visualizar",
-    "buy": "<button type=\"button\" class=\"btn btn-primary btn-block\"><!----><i class=\"far fa-eye\"></i> Pré-visualizar</button>\n\n\n",
+    "buy": "<i class=\"far fa-eye\"></i>\n\n\n",
     "footer": ""
   }
 }
