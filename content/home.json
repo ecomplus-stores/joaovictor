@@ -1,5 +1,5 @@
 {
-  "meta_title": "MacPrime® - Site oficial",
+  "meta_title": "MacPremier® - Site oficial",
   "meta_description": "Ecommerce varejista de produtos de informática, telefonia e tecnologia.",
   "sections": [
     {
@@ -13,6 +13,12 @@
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2022-04-15T22:56:25.529Z",
           "mobile_img": "/img/uploads/d_nq_942433-mla48476628196_122021-oo.webp"
+        },
+        {
+          "start": "2022-02-06T05:27:47.756Z",
+          "end": "2022-07-15T05:28:06.890Z",
+          "img": "/img/uploads/untitled-1.jpg",
+          "mobile_img": "/img/uploads/untitled-1.jpg"
         }
       ],
       "full_width": true
