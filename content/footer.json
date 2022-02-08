@@ -54,7 +54,7 @@
   "contacts": {
     "title": "Informações",
     "phone_wpp": true,
-    "socials": false,
+    "socials": true,
     "email": true,
     "address": true
   },
