@@ -8,7 +8,8 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "assessoria de imprensa"
+        "title": "assessoria de imprensa",
+        "link": "macpremier.com.br"
       },
       {
         "title": "blog",
@@ -19,11 +20,12 @@
         "link": "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.pdf"
       },
       {
-        "title": "fale conosco"
+        "title": "fale conosco",
+        "link": "macpremier.com.br"
       },
       {
         "title": "f.a.q.",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "link": "macpremier.com.br"
       },
       {
         "title": "fórum",
@@ -33,8 +35,8 @@
         "title": "guia de segurança"
       },
       {
-        "title": "macbuy social",
-        "link": "macuy.com.br"
+        "title": "macpremier social",
+        "link": "macpremier.com.br"
       },
       {
         "title": "parceiros"
