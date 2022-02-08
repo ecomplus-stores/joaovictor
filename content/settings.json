@@ -6,21 +6,21 @@
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#d3d3d3",
   "repository": "ecomplus-stores/joaovictor",
-  "logo": "/img/uploads/213s2.png",
+  "logo": "/img/uploads/logo.png",
   "name": "MacPremier®",
   "short_name": "MacPremier®",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "Roboto",
-  "favicon": "/img/uploads/favicon-gray.png",
+  "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#4f4f4f",
-  "icon": "/img/uploads/pwa-icon.png",
+  "icon": "/img/uploads/app-icon.png",
   "store_id": 19130,
   "description": "MacPremier® é um ascendente e-commerce do varejo brasileiro focada na distribuição de computadores Mac, além de outros dispositivos da marca Apple, além de variados itens de tecnologia. Graças, principalmente, a um inovador e diferenciado sistema de logística somos capazes criar ofertas mais competitivas e atrativas, tornando produtos de alto padrão mais acessíveis ao bolso do brasileiro.",
-  "large_icon": "/img/uploads/last-mac-prime.png"
+  "large_icon": "/img/uploads/app-icon.png"
 }
