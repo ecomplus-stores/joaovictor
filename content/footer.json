@@ -1,7 +1,7 @@
 {
   "description": {
     "title": "MacbuyPremier®",
-    "text": "MacPremier® Technology é uma ascendente e-commerce do varejo brasileiro focada na distribuição de computadores MAC, além de outros produtos da marca Apple Inc e variados itens de tecnologia. Graças, principalmente, a um inovador e diferenciado sistema de logística somos capazes criar ofertas competitivas e atrativas, tornando produtos de alto padrão mais acessíveis ao bolso do brasileiro."
+    "text": "MacPremier® Technology é um ascendente e-commerce do varejo brasileiro focada na distribuição de computadores MAC, além de outros produtos da marca Apple Inc e variados itens de tecnologia. Graças, principalmente, a um inovador e diferenciado sistema de logística somos capazes criar ofertas competitivas e atrativas, tornando produtos de alto padrão mais acessíveis ao bolso do brasileiro."
   },
   "links_1": {
     "list_pages": true,
@@ -54,7 +54,7 @@
   "contacts": {
     "title": "Informações",
     "phone_wpp": true,
-    "socials": true,
+    "socials": false,
     "email": true,
     "address": true
   },
