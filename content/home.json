@@ -48,7 +48,7 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/pc.jpg",
-      "mobile_img": "/img/uploads/mobile2.jpg",
+      "mobile_img": "/img/uploads/mobile.jpg",
       "alt": "Alerta MacPremier",
       "link": "https://macpremier.com.br"
     }
