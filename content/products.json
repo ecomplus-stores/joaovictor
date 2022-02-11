@@ -48,8 +48,10 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-iplace-home-linha-221021-iplace-alerta-desk.webp",
-      "mobile_img": "/img/uploads/banner-iplace-home-linha-221021-iplace-alerta-mob.webp"
+      "img": "/img/uploads/pc.jpg",
+      "mobile_img": "/img/uploads/mobile2.jpg",
+      "alt": "Alerta MacPremier",
+      "link": "https://macpremier.com.br"
     },
     {
       "type": "brands-carousel",
