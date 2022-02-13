@@ -20,6 +20,11 @@
       "enabled": true
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/macbook-banner.jpg",
+      "mobile_img": "/img/uploads/macbook-banner.jpg"
+    },
+    {
       "page": "",
       "title": "Mais vendidos em MacBooks",
       "shuffle": true,
