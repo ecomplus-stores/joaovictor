@@ -16,6 +16,21 @@
       "full_width": true
     },
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
+      "page": "",
+      "title": "Mais vendidos em MacBooks",
+      "shuffle": true,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "Escolha o seu novo MacBook",
+      "limit": 12,
+      "collection_id": "61be335d0c7c727225d58200:categories:MacBook:/macbook",
+      "sort": "views"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -27,21 +42,6 @@
           "mobile_img": "/img/uploads/fireshot-webpage-screenshot-030-mac-apple-br-www.apple.com.png"
         }
       ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
-      "page": "",
-      "title": "Mais vendidos em MacBooks",
-      "shuffle": false,
-      "headless": false,
-      "type": "collection-shelf",
-      "link": "",
-      "limit": 12,
-      "collection_id": "61be335d0c7c727225d58200:categories:MacBook:/macbook",
-      "sort": "views"
     },
     {
       "type": "brands-carousel",
