@@ -41,6 +41,10 @@
         {
           "img": "/img/uploads/macpremier-banner-1-mac.png",
           "mobile_img": "/img/uploads/macpremier-banner-1-mac.png"
+        },
+        {
+          "img": "/img/uploads/macpremier-banner-2-mac.png",
+          "mobile_img": "/img/uploads/macpremier-banner-2-mac.png"
         }
       ]
     },
