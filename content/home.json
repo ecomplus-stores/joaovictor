@@ -39,12 +39,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/fireshot-webpage-screenshot-031-mac-apple-br-www.apple.com.png",
-          "mobile_img": "/img/uploads/fireshot-webpage-screenshot-031-mac-apple-br-www.apple.com.png"
-        },
-        {
-          "img": "/img/uploads/fireshot-webpage-screenshot-030-mac-apple-br-www.apple.com.png",
-          "mobile_img": "/img/uploads/fireshot-webpage-screenshot-030-mac-apple-br-www.apple.com.png"
+          "img": "/img/uploads/macpremier-banner-1-mac.png",
+          "mobile_img": "/img/uploads/macpremier-banner-1-mac.png"
         }
       ]
     },
