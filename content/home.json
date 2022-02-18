@@ -83,6 +83,10 @@
       "title": "O dispositivo definitivo para uma vida saudável."
     },
     {
+      "type": "custom-content",
+      "markdown": "<!--StartFragment-->\n\n##### [Apple Watch](https://www.apple.com/br/watch/)\n\nO Apple Watch é o relógio ideal para uma vida saudável. Escolha entre diversos modelos, incluindo o novo Apple Watch Series 7.\n\n<!--EndFragment-->"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
