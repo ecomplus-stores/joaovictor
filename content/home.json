@@ -32,7 +32,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<!--StartFragment-->\n\n## [MacBook Air](https://www.apple.com/br/macbook-air/)\n\nVeja como o MacBook Air foi totalmente transformado pelo poder do chip M1 da Apple: CPU até 3,5x mais rápida, GPU 5x mais veloz e 18 horas de bateria.\n\n**<https://www.apple.com/br/macbook-air/>**\n\n## [MacBook Pro](https://www.apple.com/br/macbook-pro/)\n\nConheça o MacBook Pro, nosso notebook mais poderoso. Chips M1 rápidos, gráficos incríveis e tela Retina espetacular. Agora também em 14 polegadas.\n\n**<https://www.apple.com/br/macbook-pro/>**\n\n<!--EndFragment-->"
+      "markdown": "<!--StartFragment-->\n\n#### [MacBook Air](https://www.apple.com/br/macbook-air/)\n\nVeja como o MacBook Air foi totalmente transformado pelo poder do chip M1 da Apple: CPU até 3,5x mais rápida, GPU 5x mais veloz e 18 horas de bateria.\n\n**<https://www.apple.com/br/macbook-air/>**\n\n#### [MacBook Pro](https://www.apple.com/br/macbook-pro/)\n\nConheça o MacBook Pro, nosso notebook mais poderoso. Chips M1 rápidos, gráficos incríveis e tela Retina espetacular. Agora também em 14 polegadas.\n\n**<https://www.apple.com/br/macbook-pro/>**\n\n<!--EndFragment-->"
     },
     {
       "type": "collection-shelf",
