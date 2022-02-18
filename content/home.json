@@ -59,6 +59,10 @@
       "title": "iPad: Sim, ele faz isso. E muito mais."
     },
     {
+      "type": "custom-content",
+      "markdown": "<!--StartFragment-->\n\n##### [iPad de 10,2 polegadas](https://www.apple.com/br/ipad-10.2/)\n\nO iPad agora vem com o poderoso chip A13 Bionic, câmera frontal ultra-angular de 12 MP com Palco Central, tela TrueTone e 64 GB de armazenamento.\n\n<!--EndFragment-->\n\n###### [iPad mini](https://www.apple.com/br/ipad-mini/)\n\nO iPad mini tem nova tela Liquid Retina de 8,3 polegadas, chip A15 Bionic, 5G, USB-C, é compatível com Apple Pencil (2ª geração) e vem em quatro cores.\n\n###### [iPad Air](https://www.apple.com/br/ipad-air/)\n\nNovo iPad Air. Design sem bordas, tela Liquid Retina de 10,9 pol, chip A14 Bionic, cinco cores e compatível com acessórios.\n\n##### [iPad Pro](https://www.apple.com/br/ipad-pro/)\n\nConheça o novo iPad Pro, com chip M1, tela Liquid Retina XDR de 12,9 polegadas ou Liquid Retina de 11 polegadas, 5G e nova câmera com Palco Central.\n\n<!--EndFragment-->"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -67,7 +71,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<!--StartFragment-->\n\n##### [iPhone 13 e iPhone 13 mini](https://www.apple.com/br/iphone-13/)\n\niPhone 13 e iPhone 13 mini. Com nosso sistema de câmera dupla mais avançado, chip mais rápido que a concorrência e até 2,5 horas a mais de bateria.\n\n**<https://www.apple.com/br/iphone-13/>**\n\n<!--EndFragment--><!--StartFragment-->\n\n##### [iPhone 13 Pro e iPhone 13 Pro Max](https://www.apple.com/br/iphone-13-pro/)\n\niPhone 13 Pro e iPhone 13 Pro Max: upgrade nas câmeras, nova tela OLED com ProMotion, o chip mais rápido em um smartphone e bateria fora de série.\n\n**<https://www.apple.com/br/iphone-13-pro/>**\n\n<!--EndFragment-->"
+      "markdown": "<!--StartFragment-->\n\n##### [iPhone 13 e iPhone 13 mini](https://www.apple.com/br/iphone-13/)\n\niPhone 13 e iPhone 13 mini. Com nosso sistema de câmera dupla mais avançado, chip mais rápido que a concorrência e até 2,5 horas a mais de bateria.\n\n<!--EndFragment--><!--StartFragment-->\n\n##### [iPhone 13 Pro e iPhone 13 Pro Max](https://www.apple.com/br/iphone-13-pro/)\n\niPhone 13 Pro e iPhone 13 Pro Max: upgrade nas câmeras, nova tela OLED com ProMotion, o chip mais rápido em um smartphone e bateria fora de série.\n\n<!--EndFragment-->"
     },
     {
       "type": "collection-shelf",
@@ -77,10 +81,6 @@
       "collection_id": "61b397210c7c727225c548b7:categories:Watch:/watch",
       "sort": "highest_price",
       "title": "O dispositivo definitivo para uma vida saudável."
-    },
-    {
-      "type": "custom-content",
-      "markdown": "<!--StartFragment-->\n\n##### [iPad de 10,2 polegadas](https://www.apple.com/br/ipad-10.2/)\n\nO iPad agora vem com o poderoso chip A13 Bionic, câmera frontal ultra-angular de 12 MP com Palco Central, tela TrueTone e 64 GB de armazenamento.\n\n<!--EndFragment-->\n\n###### [iPad mini](https://www.apple.com/br/ipad-mini/)\n\nO iPad mini tem nova tela Liquid Retina de 8,3 polegadas, chip A15 Bionic, 5G, USB-C, é compatível com Apple Pencil (2ª geração) e vem em quatro cores.\n\n###### [iPad Air](https://www.apple.com/br/ipad-air/)\n\nNovo iPad Air. Design sem bordas, tela Liquid Retina de 10,9 pol, chip A14 Bionic, cinco cores e compatível com acessórios.\n\n##### [iPad Pro](https://www.apple.com/br/ipad-pro/)\n\nConheça o novo iPad Pro, com chip M1, tela Liquid Retina XDR de 12,9 polegadas ou Liquid Retina de 11 polegadas, 5G e nova câmera com Palco Central.\n\n<!--EndFragment-->"
     },
     {
       "type": "collection-shelf",
