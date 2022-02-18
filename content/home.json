@@ -63,7 +63,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<!--StartFragment-->\n\n## [iPhone 13 e iPhone 13 mini](https://www.apple.com/br/iphone-13/)\n\niPhone 13 e iPhone 13 mini. Com nosso sistema de câmera dupla mais avançado, chip mais rápido que a concorrência e até 2,5 horas a mais de bateria.\n\n<https://www.apple.com/br/iphone-13/>\n\n<!--EndFragment--><!--StartFragment-->\n\n## [iPhone 13 Pro e iPhone 13 Pro Max](https://www.apple.com/br/iphone-13-pro/)\n\niPhone 13 Pro e iPhone 13 Pro Max: upgrade nas câmeras, nova tela OLED com ProMotion, o chip mais rápido em um smartphone e bateria fora de série.\n\n<https://www.apple.com/br/iphone-13-pro/>\n\n<!--EndFragment-->"
+      "markdown": "<!--StartFragment-->\n\n#### [iPhone 13 e iPhone 13 mini](https://www.apple.com/br/iphone-13/)\n\niPhone 13 e iPhone 13 mini. Com nosso sistema de câmera dupla mais avançado, chip mais rápido que a concorrência e até 2,5 horas a mais de bateria.\n\n<https://www.apple.com/br/iphone-13/>\n\n<!--EndFragment--><!--StartFragment-->\n\n#### [iPhone 13 Pro e iPhone 13 Pro Max](https://www.apple.com/br/iphone-13-pro/)\n\niPhone 13 Pro e iPhone 13 Pro Max: upgrade nas câmeras, nova tela OLED com ProMotion, o chip mais rápido em um smartphone e bateria fora de série.\n\n<https://www.apple.com/br/iphone-13-pro/>\n\n<!--EndFragment-->"
     },
     {
       "type": "collection-shelf",
