@@ -55,7 +55,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "title": "Seu novo superpoder."
+      "title": "Superpoderes na palma da mão."
     },
     {
       "type": "collection-shelf",
@@ -64,7 +64,16 @@
       "page": "",
       "collection_id": "61b397210c7c727225c548b7:categories:Watch:/watch",
       "sort": "highest_price",
-      "title": "O dispositivo definitivo para uma vida saudável"
+      "title": "O dispositivo definitivo para uma vida saudável."
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61b397340c7c727225c548cc:categories:Airpods:/airpods",
+      "sort": "highest_price",
+      "title": "Som de alta qualidade e experiência sem fio inigualável."
     },
     {
       "type": "responsive-banner",
