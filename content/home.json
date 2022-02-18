@@ -43,19 +43,19 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "title": "Seu novo superpoder."
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
       "limit": "",
       "page": "",
       "collection_id": "61b397010c7c727225c54875:categories:iPad:/ipad",
       "sort": "highest_price",
       "headless": false,
       "title": "iPad: Sim, ele faz isso. E muito mais."
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "title": "Seu novo superpoder."
     },
     {
       "type": "collection-shelf",
