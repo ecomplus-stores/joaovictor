@@ -102,8 +102,13 @@
       "autoplay": 5000
     },
     {
-      "type": "custom-html",
-      "html": "\niPhone\nConheça nossa nova linha poderosa: iPhone 13 Pro e iPhone 13 Pro Max, iPhone 13 e iPhone 13 mini, iPhone 12 e iPhone 12 mini, iPhone 11 e iPhone SE.\n\nExplorarComprarComparar"
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": "",
+      "page": "",
+      "collection_id": "61b397700c7c727225c54929:categories:Acessórios:/acessorios",
+      "sort": "sales",
+      "title": "Feitos especialmente para seus aparelhos favoritos."
     }
   ]
 }
