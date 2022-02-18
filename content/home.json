@@ -88,20 +88,6 @@
       "title": "Para todo mundo ouvir. Opções incomparáveis para um som de alta qualidade."
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/pc.jpg",
-      "mobile_img": "/img/uploads/mobile.jpg",
-      "alt": "Alerta MacPremier",
-      "link": "https://macpremier.com.br"
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 21,
-      "offset": 0,
-      "sort": "name",
-      "autoplay": 5000
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": "",
@@ -118,6 +104,20 @@
       "collection_id": "61b397700c7c727225c54929:categories:Acessórios:/acessorios",
       "sort": "sales",
       "title": "Feitos especialmente para seus aparelhos favoritos."
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/pc.jpg",
+      "mobile_img": "/img/uploads/mobile.jpg",
+      "alt": "Alerta MacPremier",
+      "link": "https://macpremier.com.br"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 21,
+      "offset": 0,
+      "sort": "name",
+      "autoplay": 5000
     }
   ]
 }
