@@ -74,8 +74,11 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1
+      "limit": "",
+      "page": "",
+      "collection_id": "61b397210c7c727225c548b7:categories:Watch:/watch",
+      "sort": "highest_price",
+      "title": "O dispositivo definitivo para uma vida saudável"
     }
   ]
 }
