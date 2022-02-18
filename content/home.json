@@ -96,6 +96,10 @@
       "title": "Para todo mundo ouvir. Opções incomparáveis para um som de alta qualidade."
     },
     {
+      "type": "custom-content",
+      "markdown": "<!--StartFragment-->\n\n##### [AirPods](https://www.apple.com/br/airpods/)\n\nOs AirPods oferecem uma experiência sem fio inigualável — da configuração sem esforço ao som de alta qualidade. Encontre o modelo ideal para você.\n\n<!--EndFragment-->"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": "",
