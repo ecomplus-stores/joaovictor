@@ -32,7 +32,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<!--StartFragment-->\n\n## [MacBook Air](https://www.apple.com/br/macbook-air/)\n\nPoderosamente portátil. O incrível chip M1 da Apple. Desempenho rápido. Bateria para o dia todo. Touch ID. E tela Retina brilhante.\n\n![](/img/uploads/image__fqsnzgvrc6qi_large_2x.jpg)\n\n## [MacBook Pro](https://www.apple.com/br/macbook-pro/)\n\n![](/img/uploads/image__e5lo805e4yoi_large_2x.jpg)\n\nOs notebooks mais potentes da Apple, com processadores e chips gráficos rápidos, Magic Keyboard, Touch Bar, Touch ID e tela Retina brilhante.\n\n<!--EndFragment-->"
+      "markdown": "<!--StartFragment-->\n\n## [MacBook Air](https://www.apple.com/br/macbook-air/)\n\nVeja como o MacBook Air foi totalmente transformado pelo poder do chip M1 da Apple: CPU até 3,5x mais rápida, GPU 5x mais veloz e 18 horas de bateria.\n\n<https://www.apple.com/br/macbook-air/>\n\n## [MacBook Pro](https://www.apple.com/br/macbook-pro/)\n\nConheça o MacBook Pro, nosso notebook mais poderoso. Chips M1 rápidos, gráficos incríveis e tela Retina espetacular. Agora também em 14 polegadas.\n\n<https://www.apple.com/br/macbook-pro/>\n\n<!--EndFragment-->"
     },
     {
       "type": "collection-shelf",
