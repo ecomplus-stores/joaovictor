@@ -31,6 +31,10 @@
       "sort": "highest_price"
     },
     {
+      "type": "custom-content",
+      "markdown": "<!--StartFragment-->\n\nA linha de computadores Mac mais poderosa da Apple, com processadores e chips gráficos rápidos, excelentes apps incluídos e todo o poder do macOS.\n\n<!--EndFragment-->"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": "",
