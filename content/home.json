@@ -49,27 +49,13 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "61b396cd0c7c727225c54820:categories:iPhone:/iphone",
-      "sort": "sales",
+      "collection_id": "61b397010c7c727225c54875:categories:iPad:/ipad",
+      "sort": "highest_price",
       "headless": false,
-      "title": "Seu novo superpoder."
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 21,
-      "offset": 0,
-      "sort": "name",
-      "autoplay": 5000
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/pc.jpg",
-      "mobile_img": "/img/uploads/mobile.jpg",
-      "alt": "Alerta MacPremier",
-      "link": "https://macpremier.com.br"
+      "title": "iPad: Sim, ele faz isso. E muito mais."
     },
     {
       "type": "collection-shelf",
@@ -79,6 +65,20 @@
       "collection_id": "61b397210c7c727225c548b7:categories:Watch:/watch",
       "sort": "highest_price",
       "title": "O dispositivo definitivo para uma vida saudável"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/pc.jpg",
+      "mobile_img": "/img/uploads/mobile.jpg",
+      "alt": "Alerta MacPremier",
+      "link": "https://macpremier.com.br"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 21,
+      "offset": 0,
+      "sort": "name",
+      "autoplay": 5000
     }
   ]
 }
