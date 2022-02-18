@@ -134,6 +134,16 @@
       "offset": 0,
       "sort": "name",
       "autoplay": 5000
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2022-02-18T22:48:27.041Z",
+      "end": "2022-05-06T22:48:27.127Z",
+      "offers": [
+        "61ca854a0c7c727225e4e635"
+      ],
+      "notes": "Oferta dura enquanto não esgotarem os nossos estoques"
     }
   ]
 }
