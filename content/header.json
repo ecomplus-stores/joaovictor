@@ -73,5 +73,6 @@
     "random": 7,
     "full_width": true
   },
-  "search_input": true
+  "search_input": true,
+  "desktop_megamenu": true
 }
