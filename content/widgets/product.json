@@ -5,6 +5,7 @@
   "options": {
     "buyText": "Adicionar ao carrinho",
     "buy": "<div class=\"product__buy\"><span><button type=\"button\" class=\"btn btn-lg btn-primary\"><span><i class=\"fas fa-shopping-cart mr-1\"></i> Adicionar ao carrinho</span></button></span></div>",
+    "strHasQuantitySelector": "_",
     "lowQuantityToWarn": 100,
     "maxVariationOptionsBtns": 10
   }
