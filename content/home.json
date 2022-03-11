@@ -113,6 +113,11 @@
       "markdown": "<!--StartFragment-->\n\n##### [TV & Casa](https://www.apple.com/br/tv-home/) \n\nConecte a Apple TV e outros acessórios para deixar sua casa mais inteligente e conveniente. Você controla tudo com seus aparelhos.\n\n<!--EndFragment-->"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/fireshot-webpage-screenshot-087-apple-brasil-www.apple.com.png",
+      "mobile_img": "/img/uploads/fireshot-webpage-screenshot-087-apple-brasil-www.apple.com.png"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": "",
