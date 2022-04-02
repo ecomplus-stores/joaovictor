@@ -54,6 +54,11 @@
       "mobile_img": "/img/uploads/fireshot-webpage-screenshot-087-apple-brasil-www.apple.com.png"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-macpremier-home-linha-250322-ipad-9-desk.jpg",
+      "mobile_img": "/img/uploads/banner-macpremier-home-linha-250322-ipad-9-mob.jpg"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": "",
@@ -149,11 +154,6 @@
         "61ca854a0c7c727225e4e635"
       ],
       "notes": "Oferta dura enquanto não esgotarem os nossos estoques"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-macpremier-home-linha-250322-ipad-9-desk.jpg",
-      "mobile_img": "/img/uploads/banner-macpremier-home-linha-250322-ipad-9-mob.jpg"
     }
   ]
 }
