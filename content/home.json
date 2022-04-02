@@ -4,13 +4,19 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 5000,
       "slides": [
         {
           "start": "2022-02-13T20:39:39.388Z",
           "end": "2022-07-09T20:49:56.152Z",
           "img": "/img/uploads/untitled-3.png",
           "mobile_img": "/img/uploads/untitled-3.png"
+        },
+        {
+          "start": "2022-04-02T23:05:49.634Z",
+          "end": "2022-10-21T23:05:49.720Z",
+          "img": "/img/uploads/banner-home-macpremier-slides-010422-iphone-13-pro-verde-desk.jpg",
+          "mobile_img": "/img/uploads/banner-home-macpremier-slides-010422-iphone-13-pro-verde-mob.jpg"
         }
       ],
       "full_width": true
@@ -50,8 +56,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/fireshot-webpage-screenshot-087-apple-brasil-www.apple.com.png",
-      "mobile_img": "/img/uploads/fireshot-webpage-screenshot-087-apple-brasil-www.apple.com.png"
+      "img": "/img/uploads/banner-macpremier-home-linha-250322-ipad-9-desk.jpg",
+      "mobile_img": "/img/uploads/banner-macpremier-home-linha-250322-ipad-9-mob.jpg"
     },
     {
       "type": "collection-shelf",
@@ -62,11 +68,6 @@
       "sort": "highest_price",
       "headless": false,
       "title": "iPad: Sim, ele faz isso. E muito mais."
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-macpremier-home-linha-250322-ipad-9-desk.jpg",
-      "mobile_img": "/img/uploads/banner-macpremier-home-linha-250322-ipad-9-mob.jpg"
     },
     {
       "type": "custom-content",
