@@ -54,11 +54,6 @@
       "mobile_img": "/img/uploads/fireshot-webpage-screenshot-087-apple-brasil-www.apple.com.png"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-macpremier-home-linha-250322-ipad-9-desk.jpg",
-      "mobile_img": "/img/uploads/banner-macpremier-home-linha-250322-ipad-9-mob.jpg"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": "",
@@ -67,6 +62,11 @@
       "sort": "highest_price",
       "headless": false,
       "title": "iPad: Sim, ele faz isso. E muito mais."
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-macpremier-home-linha-250322-ipad-9-desk.jpg",
+      "mobile_img": "/img/uploads/banner-macpremier-home-linha-250322-ipad-9-mob.jpg"
     },
     {
       "type": "custom-content",
