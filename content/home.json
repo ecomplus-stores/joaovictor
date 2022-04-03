@@ -78,7 +78,9 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "title": "Superpoderes na palma da mão."
+      "title": "Superpoderes na palma da mão.",
+      "collection_id": "61b396cd0c7c727225c54820:categories:iPhone:/iphone",
+      "sort": "highest_price"
     },
     {
       "type": "custom-content",
