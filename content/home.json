@@ -22,6 +22,30 @@
       "full_width": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-mac-nav-202203?wid=200&hei=130&fmt=png-alpha&.v=1645051958490"
+        },
+        {
+          "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-iphone-nav-202109?wid=200&hei=130&fmt=png-alpha&.v=1630706116000"
+        },
+        {
+          "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-ipad-nav-202108?wid=200&hei=130&fmt=png-alpha&.v=1625783381000"
+        },
+        {
+          "link": "",
+          "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-watch-nav-202203_GEO_BR?wid=200&hei=130&fmt=png-alpha&.v=1645725726805"
+        },
+        {
+          "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-airpods-nav-202110?wid=200&hei=130&fmt=png-alpha&.v=1633718741000"
+        },
+        {
+          "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-appletv-nav-202108?wid=200&hei=130&fmt=png-alpha&.v=1625783378000"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
@@ -135,39 +159,11 @@
       "title": "Feitos especialmente para seus aparelhos favoritos."
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/pc.jpg",
-      "mobile_img": "/img/uploads/mobile.jpg",
-      "alt": "Alerta MacPremier",
-      "link": "https://macpremier.com.br"
-    },
-    {
       "type": "brands-carousel",
       "limit": 21,
       "offset": 0,
       "sort": "name",
       "autoplay": 5000
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 12,
-      "start": "2022-02-18T22:48:27.041Z",
-      "end": "2022-05-06T22:48:27.127Z",
-      "offers": [
-        "61ca854a0c7c727225e4e635"
-      ],
-      "notes": "Oferta dura enquanto não esgotarem os nossos estoques"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-mac-nav-202203?wid=200&hei=130&fmt=png-alpha&.v=1645051958490"
-        },
-        {
-          "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-iphone-nav-202109?wid=200&hei=130&fmt=png-alpha&.v=1630706116000"
-        }
-      ]
     }
   ]
 }
