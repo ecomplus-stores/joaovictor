@@ -157,6 +157,17 @@
         "61ca854a0c7c727225e4e635"
       ],
       "notes": "Oferta dura enquanto não esgotarem os nossos estoques"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-mac-nav-202203?wid=200&hei=130&fmt=png-alpha&.v=1645051958490"
+        },
+        {
+          "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-iphone-nav-202109?wid=200&hei=130&fmt=png-alpha&.v=1630706116000"
+        }
+      ]
     }
   ]
 }
