@@ -16,30 +16,6 @@
       "full_width": true
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-mac-nav-202203?wid=200&hei=130&fmt=png-alpha&.v=1645051958490"
-        },
-        {
-          "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-iphone-nav-202109?wid=200&hei=130&fmt=png-alpha&.v=1630706116000"
-        },
-        {
-          "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-ipad-nav-202108?wid=200&hei=130&fmt=png-alpha&.v=1625783381000"
-        },
-        {
-          "link": "",
-          "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-watch-nav-202203_GEO_BR?wid=200&hei=130&fmt=png-alpha&.v=1645725726805"
-        },
-        {
-          "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-airpods-nav-202110?wid=200&hei=130&fmt=png-alpha&.v=1633718741000"
-        },
-        {
-          "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-appletv-nav-202108?wid=200&hei=130&fmt=png-alpha&.v=1625783378000"
-        }
-      ]
-    },
-    {
       "type": "info-bar",
       "enabled": true
     },
