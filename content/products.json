@@ -2,8 +2,8 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/intpro-_-120820-_-00-_-macbook-_-apple-_-ap-_-grupo-_-headerhome2.jpg",
-      "mobile_img": "/img/uploads/intpro-_-120820-_-00-_-macbook-_-apple-_-ap-_-grupo-_-headerhome2.jpg"
+      "img": "/img/uploads/banner-mac2.png",
+      "mobile_img": ""
     },
     {
       "type": "breadcrumbs",
@@ -45,13 +45,6 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/pc.jpg",
-      "mobile_img": "/img/uploads/mobile2.jpg",
-      "alt": "Alerta MacPremier",
-      "link": "https://macpremier.com.br"
     },
     {
       "type": "brands-carousel",
