@@ -3,7 +3,7 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-mac.png",
-      "mobile_img": ""
+      "mobile_img": "/img/uploads/banner-mac-mobile.png"
     },
     {
       "type": "breadcrumbs",
