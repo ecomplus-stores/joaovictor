@@ -21,8 +21,8 @@
       "sort": "highest_price"
     },
     {
-      "type": "info-bar",
-      "enabled": true
+      "type": "dynamic-showcase",
+      "load_more": true
     },
     {
       "type": "brands-carousel",
@@ -30,6 +30,10 @@
       "offset": 0,
       "sort": "name",
       "autoplay": 5000
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
