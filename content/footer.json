@@ -18,36 +18,36 @@
     "title": "Categorias",
     "list": [
       {
-        "text": "Smartphones",
-        "url": "https://macpremier.com.br/smartphones"
-      },
-      {
-        "text": "Tablets",
-        "url": "https://macpremier.com.br/tablets"
-      },
-      {
-        "text": "Notebooks",
-        "url": "https://macpremier.com.br/notebooks"
+        "text": "Acessórios",
+        "url": "https://macbuy.com.br/collections/acessorios"
       },
       {
         "text": "Desktops",
         "url": "https://macpremier.com.br/desktops"
       },
       {
-        "text": "Smartwatches",
-        "url": "https://macpremier.com.br/smartwatches"
-      },
-      {
-        "text": "TV & Casa",
-        "url": "https://macpremier.com.br/tv-e-casa"
-      },
-      {
         "text": "Drones",
         "url": "https://macbuy.com.br/collections/drones"
       },
       {
-        "text": "Acessórios",
-        "url": "https://macbuy.com.br/collections/acessorios"
+        "text": "Notebooks",
+        "url": "https://macpremier.com.br/notebooks"
+      },
+      {
+        "text": "Smartphones",
+        "url": "https://macpremier.com.br/smartphones"
+      },
+      {
+        "text": "Smartwatches",
+        "url": "https://macpremier.com.br/smartwatches"
+      },
+      {
+        "text": "Tablets",
+        "url": "https://macpremier.com.br/tablets"
+      },
+      {
+        "text": "TV & Casa",
+        "url": "https://macpremier.com.br/tv-e-casa"
       }
     ]
   },
