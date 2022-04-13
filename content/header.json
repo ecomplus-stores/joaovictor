@@ -9,7 +9,7 @@
     "pages": [
       {
         "title": "assessoria de imprensa",
-        "link": "macpremier.com.br"
+        "link": "https://macpremier.com.br/"
       },
       {
         "title": "blog",
@@ -21,28 +21,31 @@
       },
       {
         "title": "fale conosco",
-        "link": "macpremier.com.br"
+        "link": "https://macpremier.com.br/fale-conosco"
       },
       {
         "title": "f.a.q.",
-        "link": "macpremier.com.br"
+        "link": "https://macpremier.com.br/"
       },
       {
         "title": "fórum",
         "link": "https://forum.macmagazine.com.br/"
       },
       {
-        "title": "guia de segurança"
+        "title": "guia de segurança",
+        "link": "https://macpremier.com.br/guia-de-seguranca"
       },
       {
         "title": "macpremier social",
-        "link": "macpremier.com.br"
+        "link": "https://macpremier.com.br/"
       },
       {
-        "title": "parceiros"
+        "title": "parceiros",
+        "link": "https://macpremier.com.br/"
       },
       {
-        "title": "políticas"
+        "title": "políticas",
+        "link": "https://macpremier.com.br/"
       },
       {
         "title": "podcast",
