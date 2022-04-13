@@ -60,8 +60,9 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Conexão segura"
+      "src": "/img/uploads/ssl-encryption.png",
+      "alt": "Conexão segura",
+      "link": "https://www.sslshopper.com/ssl-checker.html#hostname=macpremier.com.br"
     },
     {
       "src": "/img/uploads/ff4296ed88e08787fbda7fdb5d70070da9ca14c3.png",
