@@ -44,7 +44,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": true,
-      "sort": "news"
+      "sort": "highest_price"
     },
     {
       "type": "brands-carousel",
