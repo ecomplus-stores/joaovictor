@@ -54,6 +54,11 @@
       "mobile_img": "/img/uploads/banner-macpremier-home-linha-250322-ipad-9-mob.jpg"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-macpremier-bcv-030122-ipad-mini-6.webp",
+      "mobile_img": "/img/uploads/banner-macpremier-home-linha-221021-ipad-mini-mob.webp"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": "",
@@ -134,11 +139,6 @@
       "offset": 0,
       "sort": "name",
       "autoplay": 5000
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-macpremier-bcv-030122-ipad-mini-6.webp",
-      "mobile_img": "/img/uploads/banner-macpremier-home-linha-221021-ipad-mini-mob.webp"
     }
   ]
 }
