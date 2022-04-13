@@ -60,21 +60,21 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-encryption.png",
-      "alt": "Conexão segura",
-      "link": "https://www.sslshopper.com/ssl-checker.html#hostname=macpremier.com.br"
+      "src": "/img/uploads/google-safe-browsing.png",
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.macpremier.com.br"
     },
     {
       "src": "/img/uploads/trustvox.png"
     },
     {
+      "src": "/img/uploads/ssl-encryption.png",
+      "alt": "Conexão segura",
+      "link": "https://www.sslshopper.com/ssl-checker.html#hostname=macpremier.com.br"
+    },
+    {
       "src": "/img/uploads/norton-secured.png",
       "link": "https://safeweb.norton.com/report/show?url=macpremier.com.br",
       "alt": "Norton Secured"
-    },
-    {
-      "src": "/img/uploads/google-safe-browsing.png",
-      "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.macpremier.com.br"
     },
     {
       "src": "/img/uploads/loja-protegida.png",
