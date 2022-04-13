@@ -18,7 +18,7 @@
     {
       "type": "brand-retail",
       "enabled": true,
-      "sort": "news"
+      "sort": "highest_price"
     },
     {
       "type": "info-bar",
@@ -26,8 +26,10 @@
     },
     {
       "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0
+      "limit": 10,
+      "offset": 0,
+      "sort": "name",
+      "autoplay": 5000
     }
   ]
 }
