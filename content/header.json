@@ -1,9 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "Frete grátis em compras a partir de R$ 200,00",
+    "text": "",
     "link": "",
-    "background": "#2493a1",
-    "color": "#505050"
+    "background": "",
+    "color": ""
   },
   "contacts_stripe": {
     "pages": [
