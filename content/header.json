@@ -61,8 +61,6 @@
   },
   "categories_list": {
     "featured": [
-      "/categorias?Categorias",
-      "/marcas?Marcas",
       "/macbook?MacBook",
       "/mac-mini?Mac mini",
       "/imac?iMac",
