@@ -99,6 +99,11 @@
       "markdown": "<!--StartFragment-->\n\n##### [Apple Watch](https://www.apple.com/br/watch/)\n\nO Apple Watch é o relógio ideal para uma vida saudável. Escolha entre diversos modelos, incluindo o novo Apple Watch Series 7.\n\n<!--EndFragment-->"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/soft-slit-separator-2-.png",
+      "mobile_img": "/img/uploads/soft-slit-separator-2-.png"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
