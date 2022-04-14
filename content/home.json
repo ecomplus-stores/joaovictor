@@ -46,7 +46,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<!--StartFragment-->\n\n##### [Mac mini](https://www.apple.com/br/mac-mini/)\n\nDescubra o Mac mini, agora com o novo chip M1 da Apple, CPU e GPU de oito núcleos, memória unificada, Neural Engine, aprendizado de máquina e Wi-Fi 6.\n\n![](http://www.ruaviva.org.br/images/soft%20slit%20separator.png)\n\n<!--EndFragment-->"
+      "markdown": "<!--StartFragment-->\n\n##### [Mac mini](https://www.apple.com/br/mac-mini/)\n\nDescubra o Mac mini, agora com o novo chip M1 da Apple, CPU e GPU de oito núcleos, memória unificada, Neural Engine, aprendizado de máquina e Wi-Fi 6.\n\n![](/img/uploads/soft-slit-separator.png)\n\n<!--EndFragment-->"
     },
     {
       "type": "responsive-banner",
