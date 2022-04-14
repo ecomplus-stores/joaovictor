@@ -50,13 +50,13 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-macpremier-home-linha-250322-ipad-9-desk.jpg",
-      "mobile_img": "/img/uploads/banner-macpremier-home-linha-250322-ipad-9-mob.jpg"
+      "img": "/img/uploads/banner-macpremier-bcv-030122-ipad-mini-6.webp",
+      "mobile_img": "/img/uploads/banner-macpremier-home-linha-221021-ipad-mini-mob.webp"
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-macpremier-bcv-030122-ipad-mini-6.webp",
-      "mobile_img": "/img/uploads/banner-macpremier-home-linha-221021-ipad-mini-mob.webp"
+      "img": "/img/uploads/banner-macpremier-home-linha-250322-ipad-9-desk.jpg",
+      "mobile_img": "/img/uploads/banner-macpremier-home-linha-250322-ipad-9-mob.jpg"
     },
     {
       "type": "collection-shelf",
