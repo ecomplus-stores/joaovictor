@@ -1,6 +1,13 @@
 {
-  "title": "Contato",
-  "meta_title": "Contato",
-  "meta_description": "Contato",
-  "body": "<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSfoYU6xm8Z-VGwxS5WB4ycXx5GIBL40PnujcOXvLk5aGrUxeg/viewform?embedded=true\" width=\"640\" height=\"1104\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe>"
+  "title": "Fale conosco",
+  "meta_title": "Fale conosco | MacPremier",
+  "meta_description": "Página de contato ",
+  "body": "<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSfoYU6xm8Z-VGwxS5WB4ycXx5GIBL40PnujcOXvLk5aGrUxeg/viewform?embedded=true\" width=\"640\" height=\"1104\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe>",
+  "sections": [
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "sales"
+    }
+  ]
 }
