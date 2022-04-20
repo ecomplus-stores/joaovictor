@@ -5,6 +5,10 @@
   "body": "<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSfoYU6xm8Z-VGwxS5WB4ycXx5GIBL40PnujcOXvLk5aGrUxeg/viewform?embedded=true\" width=\"640\" height=\"1104\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe>",
   "sections": [
     {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "sales"
