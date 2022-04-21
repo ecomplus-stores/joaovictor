@@ -2,7 +2,7 @@
   "title": "F.A.Q.",
   "meta_title": "F.A.Q. | MacPremier",
   "meta_description": "",
-  "body": "<!--StartFragment-->\n\n# F.A.Q.\n\n<!--EndFragment-->",
+  "body": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [{\n    \"@type\": \"Question\",\n    \"name\": \"Qual o prazo de faturamento?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"Após a aprovação do pagamento, o faturamento e embarque do produto ocorre em até 24 horas.\"\n    }\n  },{\n    \"@type\": \"Question\",\n    \"name\": \"Aprovação de Pedido\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"A aprovação do pedido é a partir da confirmação de pagamento, o que pode ocorrer em até 48 horas. Para ampliar a segurança da compra, os pedidos realizados com cartão de crédito passam por avaliação de dados cadastrais. *A partir do faturamento inicia o prazo para entrega.*\"\n    }\n  }]\n}\n</script>",
   "sections": [
     {
       "type": "extra-page",
@@ -10,7 +10,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<div class=\"schema-faq-code\" itemscope=\"\" itemtype=\"https://schema.org/FAQPage\">\n    <div itemscope=\"\" itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\" class=\"faq-question\">\n        <h3 itemprop=\"name\" class=\"faq-q\">Aprovação de Pedido</h3>\n        <div itemscope=\"\" itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n             <p itemprop=\"text\" class=\"faq-a\">A aprovação do pedido é a partir da confirmação de pagamento, o que pode ocorrer em até 48 horas. Para ampliar a segurança da compra, os pedidos realizados com cartão de crédito passam por avaliação de dados cadastrais. *A partir do faturamento inicia o prazo para entrega.*</p>\n        </div>\n    </div>\n\n    <div itemscope=\"\" itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\" class=\"faq-question\">\n        <h3 itemprop=\"name\" class=\"faq-q\">Qual o prazo de faturamento?</h3>\n        <div itemscope=\"\" itemprop=\"acceptedAnswer\" itemtype=\"https://schema.org/Answer\">\n             <p itemprop=\"text\" class=\"faq-a\">Após a aprovação do pagamento, o faturamento e embarque do produto ocorre em até 24 horas.</p>\n        </div>\n    </div>\n</div>"
+      "html": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [{\n    \"@type\": \"Question\",\n    \"name\": \"Qual o prazo de faturamento?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"Após a aprovação do pagamento, o faturamento e embarque do produto ocorre em até 24 horas.\"\n    }\n  },{\n    \"@type\": \"Question\",\n    \"name\": \"Aprovação de Pedido\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"A aprovação do pedido é a partir da confirmação de pagamento, o que pode ocorrer em até 48 horas. Para ampliar a segurança da compra, os pedidos realizados com cartão de crédito passam por avaliação de dados cadastrais. *A partir do faturamento inicia o prazo para entrega.*\"\n    }\n  }]\n}\n</script>"
     },
     {
       "type": "dynamic-showcase",
