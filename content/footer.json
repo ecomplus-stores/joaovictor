@@ -4,12 +4,16 @@
     "text": "A MacPremier® Technology é um ascendente e-commerce do varejo brasileiro focada na comercialização de computadores Mac, além de outros dispositivos Apple e variados itens de tecnologia. Devido, principalmente, a um novo sistema de logística a MacPremier é capaz de criar ofertas competitivas e atrativas, tornando produtos de tecnologia de alto padrão mais acessíveis ao orçamento do brasileiro."
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "Institucional",
     "list": [
       {
-        "text": "procon-pi",
+        "text": "Procon/PI",
         "url": "https://www.mppi.mp.br/internet/procon/"
+      },
+      {
+        "url": "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.pdf",
+        "text": "Código de Defesa do Consumidor"
       }
     ]
   },
