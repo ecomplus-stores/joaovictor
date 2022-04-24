@@ -8,32 +8,20 @@
     "title": "Institucional",
     "list": [
       {
-        "text": "Procon/PI",
-        "url": "https://www.mppi.mp.br/internet/procon/"
-      },
-      {
-        "url": "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.pdf",
-        "text": "Código de Defesa do Consumidor"
-      },
-      {
-        "text": "Sobre nós",
-        "url": "https://www.macpremier.com.br/"
+        "text": "Perguntas frequentes",
+        "url": "https://www.macpremier.com.br/pages/faq"
       },
       {
         "url": "https://www.macpremier.com.br/pages/contato",
         "text": "Fale conosco"
       },
       {
-        "text": "Perguntas frequentes",
-        "url": "https://www.macpremier.com.br/pages/faq"
+        "text": "Política de privacidade",
+        "url": "https://www.macpremier.com.br/pages/privacidade"
       },
       {
         "text": "Lei Geral de Proteção de Dados (LGPD)",
         "url": "https://www.macpremier.com.br/pages/lgpd"
-      },
-      {
-        "text": "Política de privacidade",
-        "url": "https://www.macpremier.com.br/pages/privacidade"
       },
       {
         "text": "Termos de serviço",
@@ -42,6 +30,18 @@
       {
         "url": "https://www.macpremier.com.br/pages/trocas",
         "text": "Trocas e devoluções"
+      },
+      {
+        "text": "Sobre nós",
+        "url": "https://www.macpremier.com.br/"
+      },
+      {
+        "text": "Procon/PI",
+        "url": "https://www.mppi.mp.br/internet/procon/"
+      },
+      {
+        "url": "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.pdf",
+        "text": "Código de Defesa do Consumidor"
       }
     ]
   },
