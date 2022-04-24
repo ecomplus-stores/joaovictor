@@ -16,7 +16,7 @@
         "text": "Código de Defesa do Consumidor"
       },
       {
-        "text": "Sobre Nós",
+        "text": "Sobre nós",
         "url": "https://www.macpremier.com.br/"
       },
       {
@@ -34,6 +34,14 @@
       {
         "text": "Política de privacidade",
         "url": "https://www.macpremier.com.br/pages/privacidade"
+      },
+      {
+        "text": "Termos de serviço",
+        "url": "https://www.macpremier.com.br/pages/termos"
+      },
+      {
+        "url": "https://www.macpremier.com.br/pages/trocas",
+        "text": "Trocas e devoluções"
       }
     ]
   },
