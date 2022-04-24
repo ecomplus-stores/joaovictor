@@ -19,7 +19,22 @@
         "text": "Sobre Nós",
         "url": "https://www.macpremier.com.br/"
       },
-      {}
+      {
+        "url": "https://www.macpremier.com.br/pages/contato",
+        "text": "Fale conosco"
+      },
+      {
+        "text": "Perguntas frequentes",
+        "url": "https://www.macpremier.com.br/pages/faq"
+      },
+      {
+        "text": "Lei Geral de Proteção de Dados (LGPD)",
+        "url": "https://www.macpremier.com.br/pages/lgpd"
+      },
+      {
+        "text": "Política de privacidade",
+        "url": "https://www.macpremier.com.br/pages/privacidade"
+      }
     ]
   },
   "links_2": {
