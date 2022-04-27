@@ -33,7 +33,7 @@
       },
       {
         "title": "guia de segurança",
-        "link": "https://macpremier.com.br/guia-de-seguranca"
+        "link": "https://www.macpremier.com.br/pages/guia-de-seguranca"
       },
       {
         "title": "macpremier social",
@@ -54,6 +54,10 @@
       {
         "title": "rastreio rápido",
         "link": "https://tracking.skypostal.com/single-tracking.aspx?"
+      },
+      {
+        "title": "Como comprar?",
+        "link": "https://www.macpremier.com.br/pages/como-comprar"
       }
     ],
     "phone_wpp": false,
