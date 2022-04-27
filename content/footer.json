@@ -12,6 +12,14 @@
         "url": "https://www.macpremier.com.br/pages/faq"
       },
       {
+        "text": "Como comprar?",
+        "url": "https://www.macpremier.com.br/pages/como-comprar"
+      },
+      {
+        "text": "Guia de segurança",
+        "url": "https://www.macpremier.com.br/pages/guia-de-seguranca"
+      },
+      {
         "text": "Blog",
         "url": "https://macmagazine.com.br"
       },
@@ -66,14 +74,6 @@
       {
         "url": "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.pdf",
         "text": "Código de Defesa do Consumidor"
-      },
-      {
-        "text": "Como comprar?",
-        "url": "https://www.macpremier.com.br/pages/como-comprar"
-      },
-      {
-        "text": "Guia de segurança",
-        "url": "https://www.macpremier.com.br/pages/guia-de-seguranca"
       }
     ]
   },
