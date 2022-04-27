@@ -20,6 +20,10 @@
         "link": "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.pdf"
       },
       {
+        "title": "como comprar?",
+        "link": "https://www.macpremier.com.br/pages/como-comprar"
+      },
+      {
         "title": "fale conosco",
         "link": "https://www.macpremier.com.br/pages/contato"
       },
@@ -54,10 +58,6 @@
       {
         "title": "rastreio rápido",
         "link": "https://tracking.skypostal.com/single-tracking.aspx?"
-      },
-      {
-        "title": "Como comprar?",
-        "link": "https://www.macpremier.com.br/pages/como-comprar"
       }
     ],
     "phone_wpp": false,
