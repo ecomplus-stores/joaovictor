@@ -44,6 +44,10 @@
         "url": "https://www.macpremier.com.br/pages/privacidade"
       },
       {
+        "text": "Política de cookies",
+        "url": "https://www.macpremier.com.br/pages/politica-de-cookies"
+      },
+      {
         "text": "Lei Geral de Proteção de Dados (LGPD)",
         "url": "https://www.macpremier.com.br/pages/lgpd"
       },
@@ -74,10 +78,6 @@
       {
         "url": "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.pdf",
         "text": "Código de Defesa do Consumidor"
-      },
-      {
-        "text": "Política de cookies",
-        "url": "https://www.macpremier.com.br/pages/politica-de-cookies"
       }
     ]
   },
