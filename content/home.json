@@ -134,13 +134,6 @@
       "title": "Feitos especialmente para seus aparelhos favoritos."
     },
     {
-      "type": "brands-carousel",
-      "limit": 10,
-      "offset": 0,
-      "sort": "name",
-      "autoplay": 5000
-    },
-    {
       "type": "custom-content",
       "markdown": "##### **Principais marcas**"
     },
