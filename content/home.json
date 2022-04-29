@@ -144,6 +144,11 @@
       "offset": 0,
       "sort": "name",
       "autoplay": 5000
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/45258af0a2ffa2514d1a626ba36e6c62.w3000.h1250._cr0-384-3000-600_sx1500_.jpg",
+      "mobile_img": "/img/uploads/45258af0a2ffa2514d1a626ba36e6c62.w3000.h1250._cr0-384-3000-600_sx1500_.jpg"
     }
   ]
 }
