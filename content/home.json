@@ -175,6 +175,19 @@
           "mobile_img": "/img/uploads/fireshot-webpage-screenshot-004-amazon.com.br_-apple_-iphone-www.amazon.com.br.png"
         }
       ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "2022-04-29T22:23:55.029Z",
+          "end": "2023-02-24T22:23:55.103Z",
+          "img": "/img/uploads/macbook-pro-m1-pro-home.png",
+          "mobile_img": "/img/uploads/macbook-pro-m1-pro-home.png"
+        }
+      ]
     }
   ]
 }
