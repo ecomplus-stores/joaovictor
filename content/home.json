@@ -159,6 +159,11 @@
       "type": "responsive-banner",
       "img": "/img/uploads/e41d9a5aeef854012390dff846f93d1d.w4000.h800._cr0-0-4000-800_sx1500_.jpg",
       "mobile_img": "/img/uploads/e41d9a5aeef854012390dff846f93d1d.w4000.h800._cr0-0-4000-800_sx1500_.jpg"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/36e19673c7f4e57e3b585f3bf1935d34.w3000.h600._cr0-0-3000-600_sx1500_.jpg",
+      "mobile_img": "/img/uploads/36e19673c7f4e57e3b585f3bf1935d34.w3000.h600._cr0-0-3000-600_sx1500_.jpg"
     }
   ]
 }
