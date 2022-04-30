@@ -176,25 +176,6 @@
       "type": "responsive-banner",
       "img": "/img/uploads/36e19673c7f4e57e3b585f3bf1935d34.w3000.h600._cr0-0-3000-600_sx1500_.jpg",
       "mobile_img": "/img/uploads/36e19673c7f4e57e3b585f3bf1935d34.w3000.h600._cr0-0-3000-600_sx1500_.jpg"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-04-29T18:39:00.530Z",
-          "end": "2022-10-13T18:39:00.565Z",
-          "img": "/img/uploads/fireshot-webpage-screenshot-004-amazon.com.br_-apple_-iphone-www.amazon.com.br.png",
-          "mobile_img": "/img/uploads/fireshot-webpage-screenshot-004-amazon.com.br_-apple_-iphone-www.amazon.com.br.png"
-        },
-        {
-          "start": "2022-04-29T18:40:12.480Z",
-          "end": "2022-04-29T18:40:12.548Z",
-          "img": "/img/uploads/fireshot-webpage-screenshot-004-amazon.com.br_-apple_-iphone-www.amazon.com.br.png",
-          "mobile_img": "/img/uploads/fireshot-webpage-screenshot-004-amazon.com.br_-apple_-iphone-www.amazon.com.br.png"
-        }
-      ]
     }
   ]
 }
