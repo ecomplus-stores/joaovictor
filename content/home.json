@@ -93,6 +93,19 @@
       "markdown": "<!--StartFragment-->\n\n#### iPad de 10,2 polegadas\n\nO iPad tem tudo o que você precisa em um computador, e muitas outras coisas que não encontraria em um PC. Veja os motivos para escolher um iPad.\n\n#### iPad Air\n\nO novo iPad Pro é mais poderoso que a maioria dos computadores. E mais portátil, versátil e fácil de usar.\n\n#### iPad mini\n\nO novo iPad Pro é mais poderoso que a maioria dos computadores. E mais portátil, versátil e fácil de usar.\n\n#### iPad Pro\n\nO novo iPad Pro é mais poderoso que a maioria dos computadores. E mais portátil, versátil e fácil de usar.\n\n- - -\n\n<!--EndFragment-->"
     },
     {
+      "type": "banner-slider",
+      "autoplay": 5000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "2022-04-30T22:26:16.660Z",
+          "end": "2024-01-01T22:26:16.701Z",
+          "img": "/img/uploads/desktop-iphone-se-macpremier.png",
+          "mobile_img": "/img/uploads/mobile-iphone-se-macpremier.png"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -176,19 +189,6 @@
       "type": "responsive-banner",
       "img": "/img/uploads/36e19673c7f4e57e3b585f3bf1935d34.w3000.h600._cr0-0-3000-600_sx1500_.jpg",
       "mobile_img": "/img/uploads/36e19673c7f4e57e3b585f3bf1935d34.w3000.h600._cr0-0-3000-600_sx1500_.jpg"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 5000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "2022-04-30T22:26:16.660Z",
-          "end": "2024-01-01T22:26:16.701Z",
-          "img": "/img/uploads/desktop-iphone-se-macpremier.png",
-          "mobile_img": "/img/uploads/mobile-iphone-se-macpremier.png"
-        }
-      ]
     }
   ]
 }
