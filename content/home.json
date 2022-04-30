@@ -52,7 +52,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<!--StartFragment-->\n\n## [MacBook Pro](https://www.apple.com/br/macbook-pro/)\n\nOs notebooks mais potentes da Apple, com processadores e chips gráficos rápidos, Magic Keyboard, Touch Bar, Touch ID e tela Retina brilhante.\n\n## [MacBook Air](https://www.apple.com/br/macbook-air/)\n\nPoderosamente portátil. O incrível chip M1 da Apple. Desempenho rápido. Bateria para o dia todo. Touch ID. E tela Retina brilhante.\n\n- - -\n\n<!--EndFragment-->"
+      "markdown": "<!--StartFragment-->\n\n#### [MacBook Pro](https://www.apple.com/br/macbook-pro/)\n\nOs notebooks mais potentes da Apple, com processadores e chips gráficos rápidos, Magic Keyboard, Touch Bar, Touch ID e tela Retina brilhante.\n\n#### [MacBook Air](https://www.apple.com/br/macbook-air/)\n\nPoderosamente portátil. O incrível chip M1 da Apple. Desempenho rápido. Bateria para o dia todo. Touch ID. E tela Retina brilhante.\n\n- - -\n\n<!--EndFragment-->"
     },
     {
       "type": "collection-shelf",
