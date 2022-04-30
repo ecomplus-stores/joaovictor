@@ -137,8 +137,8 @@
       "limit": "",
       "page": "",
       "title": "Convide o futuro para entrar na sua casa.",
-      "collection_id": "61b397590c7c727225c54906:categories:TV & Casa:/tv",
-      "sort": "sales"
+      "collection_id": "61b397590c7c727225c54906:categories:TV & Casa:/tv-e-casa",
+      "sort": "highest_price"
     },
     {
       "type": "custom-content",
@@ -150,7 +150,7 @@
       "limit": "",
       "page": "",
       "collection_id": "61b397700c7c727225c54929:categories:Acessórios:/acessorios",
-      "sort": "sales",
+      "sort": "lowest_price",
       "title": "Feitos especialmente para seus aparelhos favoritos."
     },
     {
