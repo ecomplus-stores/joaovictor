@@ -56,12 +56,12 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "limit": "",
       "page": "",
-      "collection_id": "61b396f20c7c727225c5484e:categories:Mac mini:/mac-mini",
-      "sort": "highest_price",
-      "title": "Mac mini: redefinido por dentro. Admirável por inteiro.",
+      "collection_id": "626da8733da6d37bc217629b:collections:Mac desktops:/mac-desktops",
+      "sort": "views",
+      "title": "Fácil de usar, potente e pronto para trabalhar",
       "link": ""
     },
     {
