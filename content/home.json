@@ -63,13 +63,15 @@
           "start": "2022-05-01T20:39:19.586Z",
           "end": "2024-01-01T20:39:19.613Z",
           "img": "/img/uploads/desktop-home-imac1-macpremier.png",
-          "mobile_img": "/img/uploads/mobile-home-imac1-macpremier.png"
+          "mobile_img": "/img/uploads/mobile-home-imac1-macpremier.png",
+          "link": "https://www.macpremier.com.br/novo-apple-imac-24-com-chip-m1-cpu-de-8-nucleos-e-gpu-de-7-nucleos"
         },
         {
           "start": "2022-05-01T21:13:43.180Z",
-          "end": "2022-05-01T21:13:43.249Z",
+          "end": "2024-01-01T21:13:43.249Z",
           "mobile_img": "/img/uploads/mobile-home-imac2-macpremier.png",
-          "img": "/img/uploads/desktop-home-imac2-macpremier.png"
+          "img": "/img/uploads/desktop-home-imac2-macpremier.png",
+          "link": "https://www.macpremier.com.br/novo-apple-imac-24-com-chip-m1-cpu-de-8-nucleos-e-gpu-de-8-nucleos"
         }
       ]
     },
