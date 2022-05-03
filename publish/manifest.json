@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.89d4df5d6aea0ce4ad0effad13497e8a.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.fe2ca7f1e64a2292e1601f3bf26e57c0.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.ccbe499a1bc00f7b730168f33719c7a4.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.173f4e20778db33731ca4e92356ffb46.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.a45903fb3f81f934caad14c0153c4a09.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "MacPremier®",
+  "short_name": "MacPremier®",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A MacPremier® Technology é um ascendente e-commerce do varejo brasileiro focada na comercialização de computadores Macs, além de outros dispositivos Apple e variados itens de tecnologia. Devido, principalmente, a um novo sistema de logística a MacPremier é capaz de criar ofertas competitivas e atrativas, tornando produtos de alto padrão mais acessíveis ao bolso do brasileiro.",
+  "background_color": "#d3d3d3",
+  "theme_color": "#f1f1f1"
+}
