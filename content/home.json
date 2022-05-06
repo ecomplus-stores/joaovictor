@@ -83,6 +83,12 @@
       "full_width": false,
       "slides": [
         {
+          "start": "2022-05-06T02:47:39.868Z",
+          "end": "2024-01-02T02:47:39.928Z",
+          "img": "/img/uploads/desktop-imac-24p-667px-macpremier.png",
+          "mobile_img": "/img/uploads/desktop-imac-24p-667px-macpremier.png"
+        },
+        {
           "start": "2022-05-02T21:19:55.753Z",
           "end": "2024-04-01T21:19:55.798Z",
           "img": "/img/uploads/desktop-home-macmini1-macpremier.png",
