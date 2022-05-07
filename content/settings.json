@@ -1,5 +1,5 @@
 {
-  "domain": "joaovictor.netlify.app",
+  "domain": "https://www.macpremier.com.br/",
   "currency_symbol": "R$",
   "primary_color": "#f1f1f1",
   "theme": {
@@ -9,7 +9,7 @@
   "bg_color": "#d3d3d3",
   "repository": "ecomplus-stores/joaovictor",
   "logo": "/img/uploads/macprime-recovered.png",
-  "name": "MacPremier®",
+  "name": "Loja MacPremier®",
   "short_name": "MacPremier®",
   "lang": "pt_br",
   "currency": "BRL",
