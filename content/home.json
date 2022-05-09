@@ -7,10 +7,10 @@
       "autoplay": 5000,
       "slides": [
         {
-          "start": "2022-04-14T00:52:00.614Z",
-          "end": "2022-11-25T00:52:00.639Z",
-          "img": "/img/uploads/banner-iplace-home-off-130422-desk.webp",
-          "mobile_img": "/img/uploads/banner-iplace-home-off-130422-desk.webp"
+          "start": "2022-05-09T17:06:08.662Z",
+          "end": "2024-01-01T17:06:08.709Z",
+          "img": "/img/uploads/mobile-main-banner-home.png",
+          "mobile_img": "/img/uploads/mobile-main-banner-home-macpremier.png"
         }
       ],
       "full_width": true
