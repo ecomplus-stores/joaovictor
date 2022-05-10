@@ -87,6 +87,12 @@
           "end": "2025-01-02T01:30:35.248Z",
           "img": "/img/uploads/desktop-imac-home-banner.png",
           "mobile_img": "/img/uploads/mobile-imac-home-banner.png"
+        },
+        {
+          "start": "2022-05-10T01:32:29.437Z",
+          "end": "2025-01-02T01:32:29.463Z",
+          "img": "/img/uploads/desktop-mac-mini-home-banner.png",
+          "mobile_img": "/img/uploads/mobile-mac-mini-home-banner.png"
         }
       ]
     },
