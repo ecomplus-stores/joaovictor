@@ -79,14 +79,14 @@
     },
     {
       "type": "banner-slider",
-      "autoplay": 4000,
+      "autoplay": 5000,
       "full_width": false,
       "slides": [
         {
-          "start": "2022-05-09T23:58:16.823Z",
-          "end": "2025-01-01T23:58:16.856Z",
-          "img": "/img/uploads/desktop-imac-home-banner-macpremier.png",
-          "mobile_img": "/img/uploads/mobile-imac-home-banner-macpremier.png"
+          "start": "2022-05-10T01:30:35.216Z",
+          "end": "2025-01-02T01:30:35.248Z",
+          "img": "/img/uploads/desktop-imac-home-banner.png",
+          "mobile_img": "/img/uploads/desktop-mac-mini-home-banner.png"
         }
       ]
     },
