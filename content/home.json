@@ -20,8 +20,15 @@
       "enabled": true
     },
     {
-      "type": "custom-content",
-      "markdown": "<!--StartFragment-->\n\n- - -\n\n<!--EndFragment-->"
+      "page": "",
+      "title": "Potência extrema para profissionais.",
+      "shuffle": false,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "",
+      "limit": "",
+      "collection_id": "61be335d0c7c727225d58200:categories:MacBook:/macbook",
+      "sort": "highest_price"
     },
     {
       "type": "banner-slider",
@@ -63,19 +70,14 @@
       ]
     },
     {
-      "page": "",
-      "title": "Potência extrema para profissionais.",
-      "shuffle": false,
-      "headless": false,
       "type": "collection-shelf",
-      "link": "",
+      "shuffle": false,
       "limit": "",
-      "collection_id": "61be335d0c7c727225d58200:categories:MacBook:/macbook",
-      "sort": "highest_price"
-    },
-    {
-      "type": "custom-content",
-      "markdown": "<!--StartFragment-->\n\n- - -\n\n<!--EndFragment-->"
+      "page": "",
+      "collection_id": "626da8733da6d37bc217629b:collections:Mac desktops:/mac-desktops",
+      "sort": "highest_price",
+      "title": "Fácil de usar, potente e pronto para trabalhar",
+      "link": ""
     },
     {
       "type": "banner-slider",
@@ -95,16 +97,6 @@
           "mobile_img": "/img/uploads/mobile-mac-mini-home-banner.png"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": "",
-      "page": "",
-      "collection_id": "626da8733da6d37bc217629b:collections:Mac desktops:/mac-desktops",
-      "sort": "highest_price",
-      "title": "Fácil de usar, potente e pronto para trabalhar",
-      "link": ""
     },
     {
       "type": "custom-content",
