@@ -193,14 +193,14 @@
     },
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 5000,
       "full_width": true,
       "slides": [
         {
-          "start": "2022-05-12T03:20:32.716Z",
-          "end": "2025-01-01T03:25:29.602Z",
-          "img": "/img/uploads/watch-home2.png",
-          "mobile_img": "/img/uploads/watch-se-mobile.png"
+          "start": "2022-05-12T04:12:53.298Z",
+          "end": "2022-05-12T04:12:53.334Z",
+          "img": "/img/uploads/watch-s3-desktop-home-macpremier.png",
+          "mobile_img": "/img/uploads/watch-s3-mobile-home-macpremier.png"
         }
       ]
     },
