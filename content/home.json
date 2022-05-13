@@ -317,6 +317,31 @@
       "type": "responsive-banner",
       "img": "/img/uploads/36e19673c7f4e57e3b585f3bf1935d34.w3000.h600._cr0-0-3000-600_sx1500_.jpg",
       "mobile_img": "/img/uploads/36e19673c7f4e57e3b585f3bf1935d34.w3000.h600._cr0-0-3000-600_sx1500_.jpg"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 5000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-05-13T03:09:59.051Z",
+          "end": "2024-01-01T03:09:59.076Z",
+          "img": "/img/uploads/iphone-se-desktop-home-macpremier.png",
+          "mobile_img": "/img/uploads/iphone-se-mobile-home-macpremier.png"
+        },
+        {
+          "start": "2022-05-13T03:10:39.110Z",
+          "end": "2024-01-01T03:10:39.176Z",
+          "img": "/img/uploads/iphone-13-desktop-home-macpremier.png",
+          "mobile_img": "/img/uploads/iphone-13-mobile-home-macpremier.png"
+        },
+        {
+          "start": "2022-05-13T03:11:05.038Z",
+          "end": "2024-01-01T03:11:05.080Z",
+          "img": "/img/uploads/iphone-13-pro-desktop-home-macpremier.png",
+          "mobile_img": "/img/uploads/iphone-13-pro-mobile-home-macpremier.png"
+        }
+      ]
     }
   ]
 }
