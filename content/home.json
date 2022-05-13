@@ -125,56 +125,26 @@
     },
     {
       "type": "banner-slider",
-      "autoplay": 3000,
-      "full_width": false,
+      "autoplay": 5000,
+      "full_width": true,
       "slides": [
         {
-          "start": "2022-04-30T22:26:16.660Z",
-          "end": "2024-01-01T22:26:16.701Z",
-          "img": "/img/uploads/desktop-iphone-se-macpremier.png",
-          "mobile_img": "/img/uploads/mobile-iphone-se-macpremier.png"
+          "start": "2022-05-13T03:09:59.051Z",
+          "end": "2024-01-01T03:09:59.076Z",
+          "img": "/img/uploads/iphone-se-desktop-home-macpremier.png",
+          "mobile_img": "/img/uploads/iphone-se-mobile-home-macpremier.png"
         },
         {
-          "start": "2022-04-30T22:33:07.550Z",
-          "end": "2024-01-01T22:33:07.610Z",
-          "img": "/img/uploads/desktop-iphone-13-mini-macpremier.png",
-          "mobile_img": "/img/uploads/mobile-iphone-13-mini-macpremier.png",
-          "link": "https://www.macpremier.com.br/apple-iphone-13-mini-ios-5g-wi-fi-tela-54-camera-dupla-12mp"
+          "start": "2022-05-13T03:10:39.110Z",
+          "end": "2024-01-01T03:10:39.176Z",
+          "img": "/img/uploads/iphone-13-desktop-home-macpremier.png",
+          "mobile_img": "/img/uploads/iphone-13-mobile-home-macpremier.png"
         },
         {
-          "start": "2022-04-30T22:34:04.946Z",
-          "end": "2024-01-01T22:34:04.989Z",
-          "img": "/img/uploads/desktop-iphone-13-macpremier.png",
-          "mobile_img": "/img/uploads/mobile-iphone-13-macpremier.png",
-          "link": "https://www.macpremier.com.br/iphone-13-apple-ios-5g-wi-fi-tela-61-camera-dupla-12mp"
-        },
-        {
-          "start": "2022-04-30T22:34:49.855Z",
-          "end": "2024-01-01T22:34:49.906Z",
-          "img": "/img/uploads/desktop-iphone-12-mini-macpremier.png",
-          "mobile_img": "/img/uploads/mobile-iphone-12-mini-macpremier.png",
-          "link": "https://www.macpremier.com.br/iphone-12-mini-apple-ios-5g-wi-fi-tela-54-camera-12mp"
-        },
-        {
-          "start": "2022-04-30T22:35:35.610Z",
-          "end": "2024-01-01T22:35:35.672Z",
-          "img": "/img/uploads/desktop-iphone-12-macpremier.png",
-          "mobile_img": "/img/uploads/mobile-iphone-12-macpremier.png",
-          "link": "https://www.macpremier.com.br/iphone-12-apple-ios-5g-wi-fi-tela-61-camera-12mp"
-        },
-        {
-          "start": "2022-04-30T22:36:22.792Z",
-          "end": "2024-01-01T22:36:22.844Z",
-          "img": "/img/uploads/desktop-iphone-13-pro-macpremier.png",
-          "mobile_img": "/img/uploads/mobile-iphone-13-pro-macpremier.png",
-          "link": "https://www.macpremier.com.br/apple-iphone-13-pro-ios-5g-wi-fi-tela-61-camera-tripla-12mp-sensor-lidar"
-        },
-        {
-          "start": "2022-04-30T22:37:50.316Z",
-          "end": "2024-01-01T22:37:50.392Z",
-          "mobile_img": "/img/uploads/mobile-iphone-13-pro-max-macpremier.png",
-          "img": "/img/uploads/desktop-iphone-13-pro-max-macpremier.png",
-          "link": "https://www.macpremier.com.br/apple-iphone-13-pro-max-ios-5g-wi-fi-tela-67-camera-tripla-12mp-sensor-lidar"
+          "start": "2022-05-13T03:11:05.038Z",
+          "end": "2024-01-01T03:11:05.080Z",
+          "img": "/img/uploads/iphone-13-pro-desktop-home-macpremier.png",
+          "mobile_img": "/img/uploads/iphone-13-pro-mobile-home-macpremier.png"
         }
       ]
     },
@@ -320,26 +290,56 @@
     },
     {
       "type": "banner-slider",
-      "autoplay": 5000,
-      "full_width": true,
+      "autoplay": 3000,
+      "full_width": false,
       "slides": [
         {
-          "start": "2022-05-13T03:09:59.051Z",
-          "end": "2024-01-01T03:09:59.076Z",
-          "img": "/img/uploads/iphone-se-desktop-home-macpremier.png",
-          "mobile_img": "/img/uploads/iphone-se-mobile-home-macpremier.png"
+          "start": "2022-04-30T22:26:16.660Z",
+          "end": "2024-01-01T22:26:16.701Z",
+          "img": "/img/uploads/desktop-iphone-se-macpremier.png",
+          "mobile_img": "/img/uploads/mobile-iphone-se-macpremier.png"
         },
         {
-          "start": "2022-05-13T03:10:39.110Z",
-          "end": "2024-01-01T03:10:39.176Z",
-          "img": "/img/uploads/iphone-13-desktop-home-macpremier.png",
-          "mobile_img": "/img/uploads/iphone-13-mobile-home-macpremier.png"
+          "start": "2022-04-30T22:33:07.550Z",
+          "end": "2024-01-01T22:33:07.610Z",
+          "img": "/img/uploads/desktop-iphone-13-mini-macpremier.png",
+          "mobile_img": "/img/uploads/mobile-iphone-13-mini-macpremier.png",
+          "link": "https://www.macpremier.com.br/apple-iphone-13-mini-ios-5g-wi-fi-tela-54-camera-dupla-12mp"
         },
         {
-          "start": "2022-05-13T03:11:05.038Z",
-          "end": "2024-01-01T03:11:05.080Z",
-          "img": "/img/uploads/iphone-13-pro-desktop-home-macpremier.png",
-          "mobile_img": "/img/uploads/iphone-13-pro-mobile-home-macpremier.png"
+          "start": "2022-04-30T22:34:04.946Z",
+          "end": "2024-01-01T22:34:04.989Z",
+          "img": "/img/uploads/desktop-iphone-13-macpremier.png",
+          "mobile_img": "/img/uploads/mobile-iphone-13-macpremier.png",
+          "link": "https://www.macpremier.com.br/iphone-13-apple-ios-5g-wi-fi-tela-61-camera-dupla-12mp"
+        },
+        {
+          "start": "2022-04-30T22:34:49.855Z",
+          "end": "2024-01-01T22:34:49.906Z",
+          "img": "/img/uploads/desktop-iphone-12-mini-macpremier.png",
+          "mobile_img": "/img/uploads/mobile-iphone-12-mini-macpremier.png",
+          "link": "https://www.macpremier.com.br/iphone-12-mini-apple-ios-5g-wi-fi-tela-54-camera-12mp"
+        },
+        {
+          "start": "2022-04-30T22:35:35.610Z",
+          "end": "2024-01-01T22:35:35.672Z",
+          "img": "/img/uploads/desktop-iphone-12-macpremier.png",
+          "mobile_img": "/img/uploads/mobile-iphone-12-macpremier.png",
+          "link": "https://www.macpremier.com.br/iphone-12-apple-ios-5g-wi-fi-tela-61-camera-12mp"
+        },
+        {
+          "start": "2022-04-30T22:36:22.792Z",
+          "end": "2024-01-01T22:36:22.844Z",
+          "img": "/img/uploads/desktop-iphone-13-pro-macpremier.png",
+          "mobile_img": "/img/uploads/mobile-iphone-13-pro-macpremier.png",
+          "link": "https://www.macpremier.com.br/apple-iphone-13-pro-ios-5g-wi-fi-tela-61-camera-tripla-12mp-sensor-lidar"
+        },
+        {
+          "start": "2022-04-30T22:37:50.316Z",
+          "end": "2024-01-01T22:37:50.392Z",
+          "mobile_img": "/img/uploads/mobile-iphone-13-pro-max-macpremier.png",
+          "img": "/img/uploads/desktop-iphone-13-pro-max-macpremier.png",
+          "link": "https://www.macpremier.com.br/apple-iphone-13-pro-max-ios-5g-wi-fi-tela-67-camera-tripla-12mp-sensor-lidar"
         }
       ]
     }
