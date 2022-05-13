@@ -361,6 +361,18 @@
           "link": "https://www.macpremier.com.br/apple-iphone-13-pro-max-ios-5g-wi-fi-tela-67-camera-tripla-12mp-sensor-lidar"
         }
       ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "2022-05-13T23:12:49.834Z",
+          "end": "2022-05-13T23:12:49.867Z",
+          "img": "/img/uploads/ipad-pro-mobile-home-macpremier.png"
+        }
+      ]
     }
   ]
 }
