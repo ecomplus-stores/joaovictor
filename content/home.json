@@ -70,6 +70,16 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": "",
+      "page": "",
+      "collection_id": "626da8733da6d37bc217629b:collections:Mac desktops:/mac-desktops",
+      "sort": "highest_price",
+      "title": "Fácil de usar, potente e pronto para trabalhar",
+      "link": ""
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
@@ -85,35 +95,6 @@
           "end": "2024-01-01T22:02:17.198Z",
           "img": "/img/uploads/mac-mini-desktop-home-macpremier.png",
           "mobile_img": "/img/uploads/mac-mini-mobile-home-macpremier.png"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": "",
-      "page": "",
-      "collection_id": "626da8733da6d37bc217629b:collections:Mac desktops:/mac-desktops",
-      "sort": "highest_price",
-      "title": "Fácil de usar, potente e pronto para trabalhar",
-      "link": ""
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 5000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "2022-05-10T01:30:35.216Z",
-          "end": "2025-01-02T01:30:35.248Z",
-          "img": "/img/uploads/desktop-imac-home-banner.png",
-          "mobile_img": "/img/uploads/mobile-imac-home-banner.png"
-        },
-        {
-          "start": "2022-05-10T01:32:29.437Z",
-          "end": "2025-01-02T01:32:29.463Z",
-          "img": "/img/uploads/desktop-mac-mini-home-banner.png",
-          "mobile_img": "/img/uploads/mobile-mac-mini-home-banner.png"
         }
       ]
     },
