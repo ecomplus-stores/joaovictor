@@ -70,16 +70,6 @@
       "sort": "highest_price"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": "",
-      "page": "",
-      "collection_id": "626da8733da6d37bc217629b:collections:Mac desktops:/mac-desktops",
-      "sort": "highest_price",
-      "title": "Fácil de usar, potente e pronto para trabalhar",
-      "link": ""
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
@@ -97,6 +87,16 @@
           "mobile_img": "/img/uploads/mac-mini-mobile-home-macpremier.png"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": "",
+      "page": "",
+      "collection_id": "626da8733da6d37bc217629b:collections:Mac desktops:/mac-desktops",
+      "sort": "highest_price",
+      "title": "Fácil de usar, potente e pronto para trabalhar",
+      "link": ""
     },
     {
       "type": "custom-content",
