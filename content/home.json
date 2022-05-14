@@ -104,23 +104,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-macpremier-home-linha-250322-ipad-9-desk.jpg",
-      "mobile_img": "/img/uploads/banner-macpremier-home-linha-250322-ipad-9-mob.jpg",
-      "link": "https://www.macpremier.com.br/ipad-9a-geracao-de-102-com-a13-bionic",
-      "alt": "Novo iPad 2021"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "2022-05-13T23:12:49.834Z",
-          "end": "2025-01-01T23:12:49.867Z",
-          "img": "/img/uploads/ipad-pro-mobile-home-macpremier.png",
-          "mobile_img": "/img/uploads/ipad-pro-mobile-home-macpremier.png"
-        }
-      ]
+      "img": "/img/uploads/ipad-pro-desktop-home-macpremier.png",
+      "mobile_img": "/img/uploads/ipad-pro-mobile-home-macpremier.png"
     },
     {
       "type": "custom-content",
