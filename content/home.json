@@ -20,17 +20,6 @@
       "enabled": true
     },
     {
-      "page": "",
-      "title": "Potência extrema para profissionais.",
-      "shuffle": false,
-      "headless": false,
-      "type": "collection-shelf",
-      "link": "",
-      "limit": "",
-      "collection_id": "61be335d0c7c727225d58200:categories:MacBook:/macbook",
-      "sort": "highest_price"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 5000,
       "full_width": false,
@@ -68,6 +57,17 @@
           "link": "https://www.macpremier.com.br/macbook-pro-16-polegadas"
         }
       ]
+    },
+    {
+      "page": "",
+      "title": "Potência extrema para profissionais.",
+      "shuffle": false,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "",
+      "limit": "",
+      "collection_id": "61be335d0c7c727225d58200:categories:MacBook:/macbook",
+      "sort": "highest_price"
     },
     {
       "type": "collection-shelf",
