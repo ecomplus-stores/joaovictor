@@ -4,13 +4,13 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 5000,
+      "autoplay": 0,
       "slides": [
         {
           "start": "2022-05-14T18:36:21.681Z",
           "end": "2024-01-01T18:36:21.722Z",
           "img": "/img/uploads/main-banner-desktop-home-macpremier.png",
-          "mobile_img": ""
+          "mobile_img": "/img/uploads/main-banner-mobile-home-macpremier.png"
         }
       ],
       "full_width": true
