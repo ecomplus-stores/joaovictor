@@ -22,7 +22,7 @@
     {
       "type": "banner-slider",
       "autoplay": 10000,
-      "full_width": true,
+      "full_width": false,
       "slides": [
         {
           "start": "2022-05-15T01:01:25.876Z",
