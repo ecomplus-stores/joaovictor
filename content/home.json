@@ -29,25 +29,30 @@
           "start": "2022-05-15T19:35:46.896Z",
           "end": "2024-01-01T19:35:46.926Z",
           "img": "/img/uploads/macbook-air-m1-desktop-home-macpremier.png",
-          "mobile_img": "/img/uploads/macbook-air-m1-mobile-home-macpremier.png"
+          "mobile_img": "/img/uploads/macbook-air-m1-mobile-home-macpremier.png",
+          "link": "https://www.macpremier.com.br/macbook-air",
+          "alt": "MacBook Air de 13 Polegadas"
         },
         {
           "start": "2022-05-15T19:36:24.924Z",
           "end": "2024-01-01T19:36:24.968Z",
           "img": "/img/uploads/macbook-pro-13p-desktop-home-macpremier.png",
-          "mobile_img": "/img/uploads/macbook-pro-13p-mobile-home-macpremier.png"
+          "mobile_img": "/img/uploads/macbook-pro-13p-mobile-home-macpremier.png",
+          "alt": "MacBook Pro de 13 Polegadas"
         },
         {
           "start": "2022-05-15T19:37:00.708Z",
           "end": "2024-01-01T19:37:00.755Z",
           "img": "/img/uploads/macbook-pro-14p-desktop-home-macpremier.png",
-          "mobile_img": "/img/uploads/macbook-pro-14p-mobile-home-macpremier.png"
+          "mobile_img": "/img/uploads/macbook-pro-14p-mobile-home-macpremier.png",
+          "alt": "MacBook Pro de 14 Polegadas"
         },
         {
           "start": "2022-05-15T19:37:33.060Z",
           "end": "2024-01-01T19:37:33.099Z",
           "img": "/img/uploads/macbook-pro-16p-desktop-home-macpremier.png",
-          "mobile_img": "/img/uploads/macbook-pro-16p-mobile-home-macpremier.png"
+          "mobile_img": "/img/uploads/macbook-pro-16p-mobile-home-macpremier.png",
+          "alt": "MacBook Pro de 16 Polegadas"
         }
       ]
     },
@@ -290,6 +295,10 @@
       "type": "responsive-banner",
       "img": "/img/uploads/36e19673c7f4e57e3b585f3bf1935d34.w3000.h600._cr0-0-3000-600_sx1500_.jpg",
       "mobile_img": "/img/uploads/36e19673c7f4e57e3b585f3bf1935d34.w3000.h600._cr0-0-3000-600_sx1500_.jpg"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true
     }
   ]
 }
