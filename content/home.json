@@ -38,21 +38,24 @@
           "end": "2024-01-01T19:36:24.968Z",
           "img": "/img/uploads/macbook-pro-13p-desktop-home-macpremier.png",
           "mobile_img": "/img/uploads/macbook-pro-13p-mobile-home-macpremier.png",
-          "alt": "MacBook Pro de 13 Polegadas"
+          "alt": "MacBook Pro de 13 Polegadas",
+          "link": "https://www.macpremier.com.br/macbook-pro-13-com-chip-m1-cpu-de-8-nucleos-e-gpu-de-8-nucleos"
         },
         {
           "start": "2022-05-15T19:37:00.708Z",
           "end": "2024-01-01T19:37:00.755Z",
           "img": "/img/uploads/macbook-pro-14p-desktop-home-macpremier.png",
           "mobile_img": "/img/uploads/macbook-pro-14p-mobile-home-macpremier.png",
-          "alt": "MacBook Pro de 14 Polegadas"
+          "alt": "MacBook Pro de 14 Polegadas",
+          "link": "https://www.macpremier.com.br/macbook-pro-14-polegadas"
         },
         {
           "start": "2022-05-15T19:37:33.060Z",
           "end": "2024-01-01T19:37:33.099Z",
           "img": "/img/uploads/macbook-pro-16p-desktop-home-macpremier.png",
           "mobile_img": "/img/uploads/macbook-pro-16p-mobile-home-macpremier.png",
-          "alt": "MacBook Pro de 16 Polegadas"
+          "alt": "MacBook Pro de 16 Polegadas",
+          "link": "https://www.macpremier.com.br/macbook-pro-16-polegadas"
         }
       ]
     },
