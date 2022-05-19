@@ -132,6 +132,11 @@
       "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.macpremier.com.br"
     },
     {
+      "src": "/img/uploads/norton-secured.png",
+      "alt": "Norton Secured - MacPremier",
+      "link": "https://safeweb.norton.com/report/show?url=www.macpremier.com.br"
+    },
+    {
       "src": "/img/uploads/ssl-encryption.png",
       "alt": "Conexão segura",
       "link": "https://www.sslshopper.com/ssl-checker.html#hostname=macpremier.com.br"
@@ -144,11 +149,6 @@
       "src": "/img/uploads/redesim.png",
       "alt": "REDESIM",
       "link": "https://servicos.receita.fazenda.gov.br/servicos/cnpjreva/cnpjreva_solicitacao.asp"
-    },
-    {
-      "src": "/img/uploads/norton-secured.png",
-      "alt": "Norton Secured - MacPremier",
-      "link": "https://safeweb.norton.com/report/show?url=www.macpremier.com.br"
     }
   ],
   "payment_methods": {
