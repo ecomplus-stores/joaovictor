@@ -53,22 +53,30 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/apple-desktop-brand-banner-macpremier.png",
-      "mobile_img": "/img/uploads/apple-mobile-brand-banner-macpremier.png"
+      "mobile_img": "/img/uploads/apple-mobile-brand-banner-macpremier.png",
+      "alt": "Apple - MacPremier",
+      "link": "https://www.macpremier.com.br/apple-computer"
     },
     {
       "type": "responsive-banner",
       "img": "/img/uploads/dji-desktop-brand-banner-macpremier.png",
-      "mobile_img": "/img/uploads/dji-mobile-brand-banner-macpremier.png"
+      "mobile_img": "/img/uploads/dji-mobile-brand-banner-macpremier.png",
+      "alt": "https://www.macpremier.com.br/dji",
+      "link": "DJI - MacPremier"
     },
     {
       "type": "responsive-banner",
       "img": "/img/uploads/satechi-desktop-brand-banner-macpremier.jpg",
-      "mobile_img": "/img/uploads/satechi-mobile-brand-banner-macpremier.jpg"
+      "mobile_img": "/img/uploads/satechi-mobile-brand-banner-macpremier.jpg",
+      "alt": "Satechi - MacPremier",
+      "link": "https://www.macpremier.com.br/satechi"
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/e41d9a5aeef854012390dff846f93d1d.w4000.h800._cr0-0-4000-800_sx1500_.jpg",
-      "mobile_img": "/img/uploads/e41d9a5aeef854012390dff846f93d1d.w4000.h800._cr0-0-4000-800_sx1500_.jpg"
+      "img": "/img/uploads/ts-desktop-brand-banner-macpremier.jpg",
+      "mobile_img": "/img/uploads/ts-mobile-brand-banner-macpremier.jpg",
+      "alt": "Twelve South - MacPremier",
+      "link": "https://www.macpremier.com.br/twelve-south"
     }
   ]
 }
