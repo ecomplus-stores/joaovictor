@@ -129,7 +129,8 @@
   "stamps": [
     {
       "src": "/img/uploads/google-safe-browsing.png",
-      "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.macpremier.com.br"
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.macpremier.com.br",
+      "alt": "Google Safe Browsing - MacPremier"
     },
     {
       "src": "/img/uploads/norton-secured.png",
@@ -138,16 +139,17 @@
     },
     {
       "src": "/img/uploads/ssl-encryption.png",
-      "alt": "Conexão segura",
+      "alt": "Conexão segura - MacPremier",
       "link": "https://www.sslshopper.com/ssl-checker.html#hostname=macpremier.com.br"
     },
     {
       "src": "/img/uploads/loja-protegida.png",
-      "link": ""
+      "link": "",
+      "alt": "Loja Protegida - MacPremier"
     },
     {
       "src": "/img/uploads/redesim.png",
-      "alt": "REDESIM",
+      "alt": "REDESIM - MacPremier",
       "link": "https://servicos.receita.fazenda.gov.br/servicos/cnpjreva/cnpjreva_solicitacao.asp"
     }
   ],
