@@ -300,7 +300,9 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/satechi-desktop-brand-banner-macpremier.jpg",
-      "mobile_img": "/img/uploads/satechi-mobile-brand-banner-macpremier.jpg"
+      "mobile_img": "/img/uploads/satechi-mobile-brand-banner-macpremier.jpg",
+      "alt": "Satechi - MacPremier",
+      "link": "https://www.macpremier.com.br/satechi"
     },
     {
       "type": "responsive-banner",
