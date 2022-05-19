@@ -285,8 +285,10 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/5a249ee24d77b01fc62db5472f5c1a27.w3000.h600._cr0-0-3000-600_sx1500_.jpg",
-      "mobile_img": "/img/uploads/5a249ee24d77b01fc62db5472f5c1a27.w3000.h600._cr0-0-3000-600_sx1500_.jpg"
+      "img": "/img/uploads/apple-desktop-brand-banner-macpremier.png",
+      "mobile_img": "/img/uploads/apple-mobile-brand-banner-macpremier.png",
+      "alt": "Apple - MacPremier",
+      "link": "https://www.macpremier.com.br/apple"
     },
     {
       "type": "responsive-banner",
