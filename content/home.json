@@ -305,7 +305,9 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/ts-desktop-brand-banner-macpremier.jpg",
-      "mobile_img": "/img/uploads/ts-mobile-brand-banner-macpremier.jpg"
+      "mobile_img": "/img/uploads/ts-mobile-brand-banner-macpremier.jpg",
+      "link": "https://www.macpremier.com.br/twelve-south",
+      "alt": "Twelve South - MacPremier"
     },
     {
       "type": "dynamic-showcase",
