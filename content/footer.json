@@ -151,6 +151,11 @@
       "src": "/img/uploads/redesim.png",
       "alt": "REDESIM - MacPremier",
       "link": "https://servicos.receita.fazenda.gov.br/servicos/cnpjreva/cnpjreva_solicitacao.asp"
+    },
+    {
+      "src": "/img/uploads/skypostal-macpremier.png",
+      "alt": "SkyPostal",
+      "link": "https://www.skypostal.com/"
     }
   ],
   "payment_methods": {
