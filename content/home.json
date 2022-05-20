@@ -7,11 +7,10 @@
       "autoplay": 0,
       "slides": [
         {
-          "start": "2022-05-14T18:36:21.681Z",
-          "end": "2024-01-01T18:36:21.722Z",
-          "img": "/img/uploads/banner-iplace-home-linha-221021-iplace-alerta-mob.webp",
-          "mobile_img": "/img/uploads/banner-home-macpremier-slides-010422-iphone-13-verde-desk.jpg",
-          "alt": "MacPremier, uma super loja de produtos Apple."
+          "start": "2022-05-20T03:09:58.909Z",
+          "end": "2024-01-01T03:09:58.953Z",
+          "img": "/img/uploads/main-banner-desktop-home-macpremier.png",
+          "mobile_img": "/img/uploads/main-banner-mobile-home-macpremier.png"
         }
       ],
       "full_width": true
