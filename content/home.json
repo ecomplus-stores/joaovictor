@@ -240,6 +240,19 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/dji-fpv-macpremier.png",
+          "mobile_img": "/img/uploads/dji-fpv-macpremier.png"
+        },
+        {
+          "img": "/img/uploads/mavic-air-2-macpremier.png",
+          "mobile_img": "/img/uploads/mavic-air-2-macpremier.png"
+        }
+      ]
+    },
+    {
       "type": "custom-content",
       "markdown": "<!--StartFragment-->\n\n- - -\n\n<!--EndFragment-->"
     },
@@ -313,19 +326,6 @@
     {
       "type": "dynamic-showcase",
       "load_more": true
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/dji-fpv-macpremier.png",
-          "mobile_img": "/img/uploads/dji-fpv-macpremier.png"
-        },
-        {
-          "img": "/img/uploads/mavic-air-2-macpremier.png",
-          "mobile_img": "/img/uploads/mavic-air-2-macpremier.png"
-        }
-      ]
     }
   ]
 }
