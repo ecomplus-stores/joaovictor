@@ -225,7 +225,9 @@
       "banners": [
         {
           "img": "/img/uploads/dji-air-2s-macpremier.png",
-          "mobile_img": "/img/uploads/dji-air-2s-macpremier.png"
+          "mobile_img": "/img/uploads/dji-air-2s-macpremier.png",
+          "link": "https://www.macpremier.com.br/dji-air-2s",
+          "alt": "DJI Air 2S"
         },
         {
           "img": "/img/uploads/dji-mini-2-macpremier.png",
