@@ -156,6 +156,11 @@
       "src": "/img/uploads/skypostal-macpremier.png",
       "alt": "SkyPostal",
       "link": "https://www.skypostal.com/"
+    },
+    {
+      "link": "https://sistemas.anac.gov.br/sisant?AspxAutoDetectCookieSupport=1",
+      "alt": "ANAC",
+      "src": "/img/uploads/anac.png"
     }
   ],
   "payment_methods": {
