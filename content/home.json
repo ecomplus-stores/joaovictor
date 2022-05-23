@@ -242,7 +242,9 @@
       "banners": [
         {
           "img": "/img/uploads/dji-fpv-macpremier.png",
-          "mobile_img": "/img/uploads/dji-fpv-macpremier.png"
+          "mobile_img": "/img/uploads/dji-fpv-macpremier.png",
+          "alt": "Drone DJI FPV",
+          "link": "https://www.macpremier.com.br/dji-fpv"
         },
         {
           "img": "/img/uploads/mavic-air-2-macpremier.png",
