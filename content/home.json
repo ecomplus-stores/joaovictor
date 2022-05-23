@@ -216,7 +216,9 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/mavic-3-macpremier.jpg",
-      "mobile_img": "/img/uploads/mavic-3-macpremier.jpg"
+      "mobile_img": "/img/uploads/mavic-3-macpremier.jpg",
+      "alt": "Drone DJI Mavic 3",
+      "link": "https://www.macpremier.com.br/dji-mavic-3"
     },
     {
       "type": "banners-grid",
