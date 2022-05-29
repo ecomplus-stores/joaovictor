@@ -3,7 +3,7 @@
   "active": true,
   "desktopOnly": false,
   "options": {
-    "buyText": "Adicionar ao carrinho",
+    "buyText": "Colocar na sacola",
     "buy": "<div class=\"product__buy\"><span><button type=\"button\" class=\"btn btn-lg btn-primary\"><span><i class=\"fas fa-shopping-cart mr-1\"></i> Colocar na sacola</span></button></span></div>",
     "strHasQuantitySelector": "true",
     "lowQuantityToWarn": 100,
