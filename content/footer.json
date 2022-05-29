@@ -143,6 +143,11 @@
       "link": "https://www.sslshopper.com/ssl-checker.html#hostname=macpremier.com.br"
     },
     {
+      "src": "/img/uploads/google-trusted-store.png",
+      "alt": "Google Trusted Store",
+      "link": "https://pki.goog/faq/"
+    },
+    {
       "src": "/img/uploads/loja-protegida.png",
       "link": "",
       "alt": "Loja Protegida - MacPremier"
