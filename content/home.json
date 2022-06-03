@@ -109,7 +109,9 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/ipad-pro-desktop-home-macpremier.png",
-      "mobile_img": "/img/uploads/ipad-pro-mobile-home-macpremier.png"
+      "mobile_img": "/img/uploads/ipad-pro-mobile-home-macpremier.png",
+      "alt": "iPad Pro - O poderoso chip M1 da Apple está aqui",
+      "link": "https://www.macpremier.com.br/ipad-pro"
     },
     {
       "type": "custom-content",
