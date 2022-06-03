@@ -2,8 +2,10 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/macbookpro_destaque_desk-26ce52545904.png",
-      "mobile_img": "/img/uploads/d_nq_942433-mla48476628196_122021-oo.webp"
+      "img": "/img/uploads/banner-mac-mobile.png",
+      "mobile_img": "/img/uploads/banner-mac2.png",
+      "link": "https://www.macpremier.com.br/mac",
+      "alt": "Computadores Mac com as melhores ofertas do mercado"
     },
     {
       "type": "search-engine",
