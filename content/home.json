@@ -197,14 +197,16 @@
           "end": "2024-01-01T04:13:34.651Z",
           "img": "/img/uploads/watch-se-desktop-home-macpremier.png",
           "mobile_img": "/img/uploads/watch-se-mobile-home-macpremier.png",
-          "alt": "Apple Watch SE"
+          "alt": "Apple Watch SE",
+          "link": "https://www.macpremier.com.br/watch-se"
         },
         {
           "start": "2022-05-12T04:14:09.026Z",
           "end": "2024-01-01T04:14:09.078Z",
           "img": "/img/uploads/watch-s7-desktop-home-macpremier.png",
           "mobile_img": "/img/uploads/watch-s7-mobile-home-macpremier.png",
-          "alt": "Apple Watch S7"
+          "alt": "Apple Watch S7",
+          "link": "https://www.macpremier.com.br/watch-series-7"
         }
       ]
     },
