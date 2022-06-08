@@ -60,7 +60,7 @@
         "link": "https://tracking.skypostal.com/single-tracking.aspx?"
       }
     ],
-    "phone_wpp": true,
+    "phone_wpp": false,
     "socials": true
   },
   "categories_list": {
