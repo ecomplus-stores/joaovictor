@@ -8,51 +8,51 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "blog",
+        "title": "Blog",
         "link": "https://macmagazine.com.br/"
       },
       {
-        "title": "cdc",
+        "title": "CDC",
         "link": "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.pdf"
       },
       {
-        "title": "como comprar?",
+        "title": "Como comprar?",
         "link": "https://www.macpremier.com.br/pages/como-comprar"
       },
       {
-        "title": "fale conosco",
+        "title": "Fale conosco",
         "link": "https://www.macpremier.com.br/pages/contato"
       },
       {
-        "title": "f.a.q.",
+        "title": "F.A.Q.",
         "link": "https://www.macpremier.com.br/pages/faq"
       },
       {
-        "title": "fórum",
+        "title": "Fórum",
         "link": "https://forum.macmagazine.com.br/"
       },
       {
-        "title": "guia de segurança",
+        "title": "Guia de segurança",
         "link": "https://www.macpremier.com.br/pages/guia-de-seguranca"
       },
       {
-        "title": "macpremier social",
+        "title": "Macpremier social",
         "link": "https://macpremier.com.br/"
       },
       {
-        "title": "parceiros",
+        "title": "Parceiros",
         "link": "https://macpremier.com.br/"
       },
       {
-        "title": "políticas",
+        "title": "Políticas",
         "link": "https://www.macpremier.com.br/pages/politicas"
       },
       {
-        "title": "podcast",
+        "title": "Podcast",
         "link": "https://macmagazine.com.br/categoria/podcast/"
       },
       {
-        "title": "rastreio rápido",
+        "title": "SkyPostal",
         "link": "https://tracking.skypostal.com/single-tracking.aspx?"
       }
     ],
