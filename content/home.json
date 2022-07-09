@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 0,
+      "autoplay": 10000,
       "slides": [
         {
           "start": "2022-05-20T03:09:58.909Z",
@@ -15,7 +15,8 @@
         {
           "start": "2022-07-09T22:47:56.525Z",
           "end": "2023-05-17T22:47:56.554Z",
-          "img": "/img/uploads/5531f29d-d36e-4f4e-ac48-ff9f0438c716___c949eda3613127603de05858b111da9d.jpg"
+          "img": "/img/uploads/5531f29d-d36e-4f4e-ac48-ff9f0438c716___c949eda3613127603de05858b111da9d.jpg",
+          "mobile_img": "/img/uploads/5531f29d-d36e-4f4e-ac48-ff9f0438c716___c949eda3613127603de05858b111da9d.jpg"
         }
       ],
       "full_width": true
