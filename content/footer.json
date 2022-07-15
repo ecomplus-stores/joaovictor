@@ -126,38 +126,7 @@
     "email": true,
     "address": true
   },
-  "stamps": [
-    {
-      "src": "/img/uploads/google-safe-browsing.png",
-      "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.macpremier.com.br",
-      "alt": "Google Safe Browsing - MacPremier"
-    },
-    {
-      "src": "/img/uploads/ssl-encryption.png",
-      "alt": "Conexão segura - MacPremier",
-      "link": "https://www.sslshopper.com/ssl-checker.html#hostname=macpremier.com.br"
-    },
-    {
-      "src": "/img/uploads/google-trusted-store.png",
-      "alt": "Google Trusted Store",
-      "link": "https://pki.goog/faq/"
-    },
-    {
-      "src": "/img/uploads/redesim.png",
-      "alt": "REDESIM - MacPremier",
-      "link": "https://servicos.receita.fazenda.gov.br/servicos/cnpjreva/cnpjreva_solicitacao.asp"
-    },
-    {
-      "src": "/img/uploads/skypostal-macpremier.png",
-      "alt": "SkyPostal",
-      "link": "https://www.skypostal.com/"
-    },
-    {
-      "link": "https://sistemas.anac.gov.br/sisant?AspxAutoDetectCookieSupport=1",
-      "alt": "ANAC",
-      "src": "/img/uploads/anac.png"
-    }
-  ],
+  "stamps": [],
   "payment_methods": {
     "bb": false,
     "visa": true,
