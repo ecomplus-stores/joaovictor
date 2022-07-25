@@ -134,6 +134,10 @@
     {
       "src": "/img/uploads/em-breve-para-iphone.png",
       "alt": "Em breve para iPhone"
+    },
+    {
+      "src": "/img/uploads/sk.png",
+      "link": "https://www.skypostal.com/"
     }
   ],
   "payment_methods": {
