@@ -138,6 +138,10 @@
     {
       "src": "/img/uploads/sk.png",
       "link": "https://www.skypostal.com/"
+    },
+    {
+      "link": "https://www.gov.br/anac/pt-br/assuntos/drones",
+      "src": "/img/uploads/anc.png"
     }
   ],
   "payment_methods": {
