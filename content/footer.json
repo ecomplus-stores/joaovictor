@@ -126,7 +126,16 @@
     "email": true,
     "address": true
   },
-  "stamps": [],
+  "stamps": [
+    {
+      "src": "/img/uploads/em-breve-para-android.png",
+      "alt": "Em breve para Android"
+    },
+    {
+      "src": "/img/uploads/em-breve-para-iphone.png",
+      "alt": "Em breve para iPhone"
+    }
+  ],
   "payment_methods": {
     "bb": false,
     "visa": true,
