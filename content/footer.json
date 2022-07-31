@@ -142,6 +142,10 @@
     {
       "link": "https://www.gov.br/anac/pt-br/assuntos/drones",
       "src": "/img/uploads/anc.png"
+    },
+    {
+      "src": "/img/uploads/rd-sim.png",
+      "link": "https://www.gov.br/empresas-e-negocios/pt-br/redesim/consultas-pessoa-juridica"
     }
   ],
   "payment_methods": {
