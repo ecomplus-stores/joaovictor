@@ -150,6 +150,13 @@
     {
       "src": "/img/uploads/g-ls.png",
       "link": "https://transparencyreport.google.com/safe-browsing/search?url=macpremier.com.br&hl=pt-br"
+    },
+    {
+      "src": "/img/uploads/c-100-s.png"
+    },
+    {
+      "src": "/img/uploads/ssl.png",
+      "link": "https://www.sslshopper.com/ssl-checker.html#hostname=macpremier.com.br"
     }
   ],
   "payment_methods": {
