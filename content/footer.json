@@ -146,6 +146,10 @@
     {
       "src": "/img/uploads/rd-sim.png",
       "link": "https://www.gov.br/empresas-e-negocios/pt-br/redesim/consultas-pessoa-juridica"
+    },
+    {
+      "src": "/img/uploads/g-ls.png",
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=macpremier.com.br&hl=pt-br"
     }
   ],
   "payment_methods": {
