@@ -128,14 +128,6 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/em-breve-para-android.png",
-      "alt": "Em breve para Android"
-    },
-    {
-      "src": "/img/uploads/em-breve-para-iphone.png",
-      "alt": "Em breve para iPhone"
-    },
-    {
       "src": "/img/uploads/skp.png",
       "link": "https://www.skypostal.com/"
     },
@@ -157,6 +149,14 @@
     {
       "src": "/img/uploads/ssl.png",
       "link": "https://www.sslshopper.com/ssl-checker.html#hostname=macpremier.com.br"
+    },
+    {
+      "src": "/img/uploads/em-breve-app-store.png",
+      "alt": "Em breve para iPhone"
+    },
+    {
+      "src": "/img/uploads/em-breve-google-play.png",
+      "alt": "Em breve para Android"
     }
   ],
   "payment_methods": {
