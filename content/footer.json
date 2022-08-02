@@ -128,27 +128,27 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/skp.png",
-      "link": "https://www.skypostal.com/"
-    },
-    {
-      "link": "https://www.gov.br/anac/pt-br/assuntos/drones/registros-e-certificados-de-drones",
-      "src": "/img/uploads/anc.png"
-    },
-    {
-      "src": "/img/uploads/rd-sim.png",
-      "link": "https://www.gov.br/empresas-e-negocios/pt-br/redesim/consultas-pessoa-juridica"
+      "src": "/img/uploads/ssl.png",
+      "link": "https://www.sslshopper.com/ssl-checker.html#hostname=macpremier.com.br"
     },
     {
       "src": "/img/uploads/g-ls.png",
       "link": "https://transparencyreport.google.com/safe-browsing/search?url=macpremier.com.br&hl=pt-br"
     },
     {
-      "src": "/img/uploads/c-100-s.png"
+      "link": "https://www.gov.br/anac/pt-br/assuntos/drones/registros-e-certificados-de-drones",
+      "src": "/img/uploads/anc.png"
     },
     {
-      "src": "/img/uploads/ssl.png",
-      "link": "https://www.sslshopper.com/ssl-checker.html#hostname=macpremier.com.br"
+      "src": "/img/uploads/skp.png",
+      "link": "https://www.skypostal.com/"
+    },
+    {
+      "src": "/img/uploads/rd-sim.png",
+      "link": "https://www.gov.br/empresas-e-negocios/pt-br/redesim/consultas-pessoa-juridica"
+    },
+    {
+      "src": "/img/uploads/c-100-s.png"
     },
     {
       "src": "/img/uploads/em-breve-app-store.png",
