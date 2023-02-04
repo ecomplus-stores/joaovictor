@@ -32,10 +32,6 @@
       "title": "Produtos relacionados"
     },
     {
-      "type": "recommended-products",
-      "title": "Quem comprou este produto, também comprou:"
-    },
-    {
       "type": "product-description",
       "enabled": true
     },
@@ -44,8 +40,12 @@
       "enabled": true
     },
     {
-      "type": "related-products",
-      "title": "Produtos relacionados"
+      "type": "blog",
+      "enabled": true
+    },
+    {
+      "type": "recommended-products",
+      "title": "Quem comprou este produto, também comprou:"
     },
     {
       "type": "dynamic-showcase",
