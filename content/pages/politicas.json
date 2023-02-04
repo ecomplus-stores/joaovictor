@@ -5,6 +5,10 @@
   "meta_title": "Políticas | MacPremier",
   "sections": [
     {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
       "type": "blog",
       "enabled": true
     }
