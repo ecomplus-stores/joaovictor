@@ -16,6 +16,10 @@
       "enabled": true
     },
     {
+      "type": "buy-together",
+      "enabled": false
+    },
+    {
       "type": "custom-content",
       "markdown": "Vendido e entregue por **MacPremier** \n\n![]()\n\n\n\n![](/img/uploads/pix_gtm_desktop_ilm_1x_650x45_v3._cb651743463_.jpg)"
     },
