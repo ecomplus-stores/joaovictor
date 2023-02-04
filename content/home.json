@@ -107,6 +107,10 @@
       "markdown": "<!--StartFragment-->\n\n- - -\n\n<!--EndFragment-->"
     },
     {
+      "type": "blog",
+      "enabled": true
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/ipad-pro-desktop-home-macpremier.png",
       "mobile_img": "/img/uploads/ipad-pro-mobile-home-macpremier.png",
@@ -278,10 +282,6 @@
       "collection_id": "61b397340c7c727225c548cc:categories:Airpods:/airpods",
       "sort": "highest_price",
       "title": "Para todo mundo ouvir. Opções incomparáveis para um som de alta qualidade."
-    },
-    {
-      "type": "blog",
-      "enabled": true
     },
     {
       "type": "custom-content",
