@@ -6,6 +6,10 @@
   "title": "Quais os benefícios de comprar um produto recondicionado?",
   "sections": [
     {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
