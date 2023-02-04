@@ -36,11 +36,7 @@
         "link": "https://www.macpremier.com.br/pages/guia-de-seguranca"
       },
       {
-        "title": "Macpremier social",
-        "link": "https://macpremier.com.br/"
-      },
-      {
-        "title": "Parceiros",
+        "title": "Social",
         "link": "https://macpremier.com.br/"
       },
       {
@@ -75,5 +71,7 @@
     "full_width": true
   },
   "search_input": true,
-  "desktop_megamenu": true
+  "desktop_megamenu": true,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
