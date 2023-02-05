@@ -2,7 +2,7 @@
   "date": "2023-02-05T10:57:33.240Z",
   "title": "Como escolher o modelo de iPad ideal?",
   "thumbnail": "https://images.unsplash.com/photo-1521633286323-05b17f47cb74?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
-  "description": "Com a popularidade crescente dos iPads, muitas pessoas estão se perguntando qual é o modelo ideal para atender às suas necessidades. Com a popularidade crescente dos iPads, muitas pessoas estão se perguntando qual é o modelo ideal para atender às suas necessidades....",
+  "description": "Aqui estão algumas dicas para ajudá-lo a escolher o iPad certo para você",
   "body": "Com a popularidade crescente dos iPads, muitas pessoas estão se perguntando qual é o modelo ideal para atender às suas necessidades. Aqui estão algumas dicas para ajudá-lo a escolher o iPad certo para você.\n\nDetermine o seu uso principal: Se você pretende usar o iPad principalmente para ver vídeos, jogar jogos, navegar na internet ou realizar tarefas do dia a dia, isso ajudará a determinar o tipo de processador, tamanho de tela e memória que você precisa.\n\nEscolha o tamanho da tela: Os iPads atuais vêm em três tamanhos de tela diferentes: 7,9 polegadas, 10,5 polegadas e 12,9 polegadas. Escolha o tamanho que atenda às suas necessidades de portabilidade e visualização.\n\nPense na capacidade de armazenamento: A capacidade de armazenamento determina quantos arquivos, fotos e aplicativos você pode armazenar no seu iPad. Os iPads vêm em diferentes capacidades de armazenamento, variando de 64 GB a 1 TB.\n\nEscolha a conectividade celular: Se você pretende usar o iPad fora de casa, considere obter um modelo com conectividade celular. Isso permitirá que você navegue na internet, faça chamadas e envie mensagens sem precisar estar conectado a uma rede Wi-Fi.\n\nConsiderar recursos adicionais: Alguns iPads vêm com recursos adicionais, como a Apple Pencil, que é uma caneta de toque que permite desenhar e escrever na tela. Se você planeja usar o iPad para criar arte ou anotar documentos, essa é uma opção a considerar.\n\nEm resumo, a escolha do modelo ideal de iPad depende das suas necessidades pessoais e do uso que você planeja fazer dele. Considere seus requisitos de processador, tamanho de tela, capacidade de armazenamento, conectividade celular e recursos adicionais ao escolher o iPad certo para você.",
   "sections": [
     {
@@ -18,8 +18,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "61b397010c7c727225c54875:categories:iPad:/ipad",
-      "sort": "sales",
-      "title": "Título da estante (opcional)"
+      "sort": "highest_price",
+      "title": "Aqui estão algumas opções"
     }
   ]
 }
