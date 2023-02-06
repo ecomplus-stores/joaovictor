@@ -90,7 +90,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<div class=\"custom-content\"><section class=\"md-content mb-5 pt-1 pt-sm-2 pt-lg-3\"><div class=\"container\"><p><a href=\"https://www.macpremier.com.br/pages/como-fazer-transferencias-via-pix\"><img src=\"/img/uploads/pix_gtm_desktop_ilm_1x_650x45_v3._cb651743463_.jpg\" alt=\"\"></a></p></div></section></div>"
+      "html": "<div style=\"background: #f8f8f8\" class=\"custom-content\"><section class=\"md-content mb-5 pt-1 pt-sm-2 pt-lg-3\"><div class=\"container\"><p><a href=\"https://www.macpremier.com.br/pages/como-fazer-transferencias-via-pix\"><img src=\"/img/uploads/pix_gtm_desktop_ilm_1x_650x45_v3._cb651743463_.jpg\" alt=\"\"></a></p></div></section></div>"
     }
   ]
 }
