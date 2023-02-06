@@ -87,6 +87,10 @@
       "mobile_img": "/img/uploads/ts-mobile-brand-banner-macpremier.jpg",
       "alt": "Twelve South - MacPremier",
       "link": "https://www.macpremier.com.br/twelve-south"
+    },
+    {
+      "type": "buy-together",
+      "enabled": false
     }
   ]
 }
