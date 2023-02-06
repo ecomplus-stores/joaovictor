@@ -1,4 +1,10 @@
 {
   "title": "Como fazer transferências via Pix?",
-  "body": "Como fazer transferências via Pix?"
+  "body": "Como fazer transferências via Pix?",
+  "sections": [
+    {
+      "type": "extra-page",
+      "enabled": true
+    }
+  ]
 }
