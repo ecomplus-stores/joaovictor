@@ -65,7 +65,8 @@
       "/ipad?iPad",
       "/watch?Watch",
       "/airpods?AirPods",
-      "/tv-e-casa?TV & Casa"
+      "/tv-e-casa?TV & Casa",
+      "/lancamentos?Lançamentos"
     ],
     "random": 0,
     "full_width": true
