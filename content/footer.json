@@ -172,6 +172,7 @@
     "hiper": true,
     "diners": true,
     "mais": true,
+    "pix": true,
     "amex": true,
     "itau": false
   },
