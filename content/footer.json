@@ -128,9 +128,9 @@
       "link": "https://www.sslshopper.com/ssl-checker.html#hostname=macpremier.com.br"
     },
     {
-      "src": null,
+      "src": "https://ajuda.fastcommerce.com.br/images/Google_Loja_Segura.svg?cccfc=1",
       "link": "https://transparencyreport.google.com/safe-browsing/search?url=macpremier.com.br&hl=pt-br",
-      "alt": "https://ajuda.fastcommerce.com.br/images/Google_Loja_Segura.svg?cccfc=1"
+      "alt": ""
     },
     {
       "src": "/img/uploads/letsencrypt-logo-horizontal.svg"
