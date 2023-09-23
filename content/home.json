@@ -24,6 +24,12 @@
       "html": "<div class=\"trustpilot-widget\" data-locale=\"pt-BR\" data-template-id=\"5419b6a8b0d04a076446a9ad\" data-businessunit-id=\"63e121c52ba9106ee583db9f\" data-style-height=\"24px\" data-style-width=\"100%\" data-theme=\"light\" data-min-review-count=\"10\" data-without-reviews-preferred-string-id=\"1\" data-style-alignment=\"center\">\n  <a href=\"https://br.trustpilot.com/review/macpremier.com.br\" target=\"_blank\" rel=\"noopener\">Trustpilot</a>\n</div>"
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "autoplay": 1000
+    },
+    {
       "type": "banner-slider",
       "autoplay": 10000,
       "full_width": false,
@@ -314,41 +320,14 @@
       "title": "Feitos especialmente para seus aparelhos favoritos."
     },
     {
-      "type": "custom-content",
-      "markdown": "##### **Principais marcas**"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/apple-desktop-brand-banner-macpremier.png",
-      "mobile_img": "/img/uploads/apple-mobile-brand-banner-macpremier.png",
-      "alt": "Apple - MacPremier",
-      "link": "https://www.macpremier.com.br/apple-computer"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/dji-desktop-brand-banner-macpremier.png",
-      "mobile_img": "/img/uploads/dji-mobile-brand-banner-macpremier.png",
-      "link": "https://www.macpremier.com.br/dji",
-      "alt": "DJI - MacPremier"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/satechi-desktop-brand-banner-macpremier.jpg",
-      "mobile_img": "/img/uploads/satechi-mobile-brand-banner-macpremier.jpg",
-      "alt": "Satechi - MacPremier",
-      "link": "https://www.macpremier.com.br/satechi"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/ts-desktop-brand-banner-macpremier.jpg",
-      "mobile_img": "/img/uploads/ts-mobile-brand-banner-macpremier.jpg",
-      "link": "https://www.macpremier.com.br/twelve-south",
-      "alt": "Twelve South - MacPremier"
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "views"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
     }
   ]
 }
