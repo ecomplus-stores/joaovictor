@@ -57,40 +57,12 @@
       "sort": "highest_price"
     },
     {
-      "type": "custom-content",
-      "markdown": "##### **Principais marcas**"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/apple-desktop-brand-banner-macpremier.png",
-      "mobile_img": "/img/uploads/apple-mobile-brand-banner-macpremier.png",
-      "alt": "Apple - MacPremier",
-      "link": "https://www.macpremier.com.br/apple-computer"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/dji-desktop-brand-banner-macpremier.png",
-      "mobile_img": "/img/uploads/dji-mobile-brand-banner-macpremier.png",
-      "alt": "https://www.macpremier.com.br/dji",
-      "link": "DJI - MacPremier"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/satechi-desktop-brand-banner-macpremier.jpg",
-      "mobile_img": "/img/uploads/satechi-mobile-brand-banner-macpremier.jpg",
-      "alt": "Satechi - MacPremier",
-      "link": "https://www.macpremier.com.br/satechi"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/ts-desktop-brand-banner-macpremier.jpg",
-      "mobile_img": "/img/uploads/ts-mobile-brand-banner-macpremier.jpg",
-      "alt": "Twelve South - MacPremier",
-      "link": "https://www.macpremier.com.br/twelve-south"
-    },
-    {
       "type": "buy-together",
       "enabled": false
+    },
+    {
+      "type": "custom-html",
+      "html": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"Apple iPhone 13 Pro Max\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"autoplay; fullscreen; xr-spatial-tracking\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/4328dea00e47497dbeac73c556121bc9/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/apple-iphone-13-pro-max-4328dea00e47497dbeac73c556121bc9?utm_medium=embed&utm_campaign=share-popup&utm_content=4328dea00e47497dbeac73c556121bc9\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> Apple iPhone 13 Pro Max </a> by <a href=\"https://sketchfab.com/DatSketch?utm_medium=embed&utm_campaign=share-popup&utm_content=4328dea00e47497dbeac73c556121bc9\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> DatSketch </a> on <a href=\"https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=4328dea00e47497dbeac73c556121bc9\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
     }
   ]
 }
