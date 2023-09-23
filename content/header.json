@@ -58,6 +58,7 @@
   "categories_list": {
     "featured": [
       "/seminovos?Seminovos",
+      "/lancamentos?Lançamentos",
       "/macbook?MacBook",
       "/mac-mini?Mac mini",
       "/imac?iMac",
@@ -65,8 +66,7 @@
       "/ipad?iPad",
       "/watch?Watch",
       "/airpods?AirPods",
-      "/tv-e-casa?TV & Casa",
-      "/lancamentos?Lançamentos"
+      "/tv-e-casa?TV & Casa"
     ],
     "random": 0,
     "full_width": true
