@@ -58,11 +58,7 @@
     },
     {
       "type": "buy-together",
-      "enabled": false
-    },
-    {
-      "type": "custom-html",
-      "html": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"Apple iPhone 13 Pro Max\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"autoplay; fullscreen; xr-spatial-tracking\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/4328dea00e47497dbeac73c556121bc9/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/apple-iphone-13-pro-max-4328dea00e47497dbeac73c556121bc9?utm_medium=embed&utm_campaign=share-popup&utm_content=4328dea00e47497dbeac73c556121bc9\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> Apple iPhone 13 Pro Max </a> by <a href=\"https://sketchfab.com/DatSketch?utm_medium=embed&utm_campaign=share-popup&utm_content=4328dea00e47497dbeac73c556121bc9\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> DatSketch </a> on <a href=\"https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=4328dea00e47497dbeac73c556121bc9\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
+      "enabled": true
     }
   ]
 }
