@@ -32,6 +32,11 @@
       "enabled": true
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    },
+    {
       "type": "related-products",
       "title": "Produtos relacionados"
     },
@@ -58,6 +63,10 @@
     },
     {
       "type": "buy-together",
+      "enabled": true
+    },
+    {
+      "type": "blog",
       "enabled": true
     }
   ]
