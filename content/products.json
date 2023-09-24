@@ -55,10 +55,6 @@
       "enabled": true
     },
     {
-      "type": "blog",
-      "enabled": true
-    },
-    {
       "type": "recommended-products",
       "title": "Quem comprou este produto, também comprou:"
     },
@@ -74,10 +70,6 @@
     {
       "type": "blog",
       "enabled": true
-    },
-    {
-      "type": "custom-html",
-      "html": "<html>\n<head>\n    <meta charset=\"UTF-8\">\n    <title>FAQ do iPhone 13</title>\n    <style>\n        /* Estilos de CSS simples para melhorar a aparência */\n        body {\n            font-family: Arial, sans-serif;\n            margin: 0;\n            padding: 0;\n        }\n\n        h1 {\n            text-align: center;\n        }\n\n        .faq {\n            max-width: 600px;\n            margin: 0 auto;\n        }\n\n        .question {\n            font-weight: bold;\n        }\n\n        .answer {\n            margin-bottom: 20px;\n        }\n    </style>\n</head>\n<body>\n    <h1>FAQ do iPhone 13</h1>\n    <div class=\"faq\">\n        <div class=\"question\">1. Qual é o preço do iPhone 13?</div>\n        <div class=\"answer\">O preço do iPhone 13 varia dependendo do modelo e das especificações. Geralmente, os preços começam em torno de $699 para o modelo base.</div>\n\n        <div class=\"question\">2. Quais são as principais características do iPhone 13?</div>\n        <div class=\"answer\">O iPhone 13 possui várias características impressionantes, incluindo um poderoso processador, uma excelente câmera, uma tela de alta qualidade e suporte para 5G.</div>\n\n        <div class=\"question\">3. Quando o iPhone 13 foi lançado?</div>\n        <div class=\"answer\">O iPhone 13 foi lançado em setembro de 2021.</div>\n\n        <div class=\"question\">4. Quais são as opções de armazenamento disponíveis?</div>\n        <div class=\"answer\">O iPhone 13 está disponível em várias opções de armazenamento, incluindo 128GB, 256GB e 512GB, dependendo do modelo.</div>\n    </div>\n</body>\n</html>"
     }
   ]
 }
