@@ -30,6 +30,32 @@
       "html": "<div class=\"trustpilot-widget\" data-locale=\"pt-BR\" data-template-id=\"5419b6a8b0d04a076446a9ad\" data-businessunit-id=\"63e121c52ba9106ee583db9f\" data-style-height=\"24px\" data-style-width=\"100%\" data-theme=\"light\" data-min-review-count=\"10\" data-without-reviews-preferred-string-id=\"1\" data-style-alignment=\"center\">\n  <a href=\"https://br.trustpilot.com/review/macpremier.com.br\" target=\"_blank\" rel=\"noopener\">Trustpilot</a>\n</div>"
     },
     {
+      "type": "shelfs-nav",
+      "shuffle": false,
+      "limit": 8,
+      "page": 1,
+      "collection_ids": [
+        "6285b2d2df4d8071c9146d53:collections:Mac:/mac",
+        "61b396cd0c7c727225c54820:categories:iPhone:/iphone",
+        "61b397010c7c727225c54875:categories:iPad:/ipad",
+        "61b397340c7c727225c548cc:categories:AirPods:/airpods",
+        "61b397590c7c727225c54906:categories:TV & Casa:/tv-e-casa"
+      ],
+      "sort": "lowest_price",
+      "autoplay": 2,
+      "shelfs_title": "Título da multi estante "
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2023-09-27T22:19:22.664Z",
+      "end": "2023-09-29T22:19:00.000Z",
+      "offers": [
+        "61b24e830c7c727225c2773c"
+      ],
+      "notes": "Descrição auxiliar sobre a promoção"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 10000,
       "full_width": false,
@@ -329,32 +355,6 @@
       "limit": 24,
       "offset": 0,
       "autoplay": 1000
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2023-09-27T22:19:22.664Z",
-      "end": "2023-09-29T22:19:00.000Z",
-      "offers": [
-        "61b24e830c7c727225c2773c"
-      ],
-      "notes": "Descrição auxiliar sobre a promoção"
-    },
-    {
-      "type": "shelfs-nav",
-      "shuffle": false,
-      "limit": 8,
-      "page": 1,
-      "collection_ids": [
-        "6285b2d2df4d8071c9146d53:collections:Mac:/mac",
-        "61b396cd0c7c727225c54820:categories:iPhone:/iphone",
-        "61b397010c7c727225c54875:categories:iPad:/ipad",
-        "61b397340c7c727225c548cc:categories:AirPods:/airpods",
-        "61b397590c7c727225c54906:categories:TV & Casa:/tv-e-casa"
-      ],
-      "sort": "lowest_price",
-      "autoplay": 2,
-      "shelfs_title": "Título da multi estante "
     }
   ]
 }
