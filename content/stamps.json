@@ -9,7 +9,10 @@
     },
     {
       "img": "/img/uploads/pngwing.com.png",
-      "id": "Oferta especial"
+      "id": "Oferta especial",
+      "skus": [
+        "VXP4978"
+      ]
     }
   ]
 }
