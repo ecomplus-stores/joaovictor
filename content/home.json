@@ -43,7 +43,7 @@
       ],
       "sort": "lowest_price",
       "autoplay": 2,
-      "shelfs_title": "Título da multi estante "
+      "shelfs_title": "Escolha por categoria"
     },
     {
       "type": "offers-timer",
