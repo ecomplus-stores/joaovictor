@@ -1,18 +1,20 @@
 {
   "stamps_list": [
     {
-      "skus": [
-        "VXP4978"
-      ],
-      "img": "https://cdn.dooca.store/45755/custom-badges/frete-gra.png?v=1680203929&webp=0",
-      "id": "Frete grátis"
-    },
-    {
       "img": "/img/uploads/pngwing.com.png",
       "id": "Oferta especial",
       "skus": [
-        "VXP4978"
+        "VXP4978",
+        "MNW3452"
       ]
+    },
+    {
+      "skus": [
+        "VXP4978",
+        "MNW3452"
+      ],
+      "img": "https://cdn.dooca.store/45755/custom-badges/frete-gra.png?v=1680203929&webp=0",
+      "id": "Frete grátis"
     }
   ]
 }
