@@ -132,6 +132,10 @@
       "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.macpremier.com.br&hl=pt-br"
     },
     {
+      "alt": "Pagar-me",
+      "src": "/img/uploads/pagarme_logo_principal-02.png"
+    },
+    {
       "src": "/img/uploads/letsencrypt-logo-horizontal.svg"
     },
     {
@@ -148,10 +152,6 @@
     {
       "src": "/img/uploads/em-breve-google-play.png",
       "alt": "Em breve para Android"
-    },
-    {
-      "alt": "Pagar-me",
-      "src": "/img/uploads/pagarme_logo_principal-02.png"
     }
   ],
   "payment_methods": {
