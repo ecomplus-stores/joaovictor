@@ -135,11 +135,11 @@
       "src": "/img/uploads/letsencrypt-logo-horizontal.svg"
     },
     {
-      "link": "https://www.gov.br/anac/pt-br/assuntos/drones/registros-e-certificados-de-drones",
-      "src": "/img/uploads/anac-logo-7.png"
+      "src": "/img/uploads/pngegg.png"
     },
     {
-      "src": "/img/uploads/pngegg.png"
+      "link": "https://www.gov.br/anac/pt-br/assuntos/drones/registros-e-certificados-de-drones",
+      "src": "/img/uploads/anac-logo-7.png"
     },
     {
       "src": "/img/uploads/em-breve-app-store.png",
@@ -148,6 +148,10 @@
     {
       "src": "/img/uploads/em-breve-google-play.png",
       "alt": "Em breve para Android"
+    },
+    {
+      "alt": "Pagar-me",
+      "src": "/img/uploads/pagarme_logo_principal-02.png"
     }
   ],
   "payment_methods": {
