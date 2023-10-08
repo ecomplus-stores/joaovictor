@@ -40,16 +40,6 @@
       "shelfs_title": "Escolha por categoria"
     },
     {
-      "type": "offers-timer",
-      "max_hours": 100,
-      "start": "2023-09-27T22:19:22.664Z",
-      "end": "2023-10-18T22:19:00.000Z",
-      "offers": [
-        "61b24e830c7c727225c2773c"
-      ],
-      "notes": "O iPhone 11: Inovação e Desempenho ao Seu Alcance! Explore a potência da câmera dupla, a velocidade do processador A13 Bionic e a qualidade da tela Liquid Retina. Um dispositivo elegante e repleto de recursos para elevar sua experiência móvel a um novo patamar."
-    },
-    {
       "type": "banner-slider",
       "autoplay": 10000,
       "full_width": false,
