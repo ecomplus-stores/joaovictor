@@ -333,12 +333,6 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "views"
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "autoplay": 1000
     }
   ]
 }
