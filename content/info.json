@@ -6,14 +6,17 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 12x*"
+    "text": "Parcele em até 12x*",
+    "title": "Parcelamento"
   },
   "exchange": {
     "show": true,
-    "text": "A troca é sempre gratuita"
+    "text": "A troca é sempre gratuita",
+    "title": "Troca"
   },
   "promo": {
     "show": true,
-    "text": "Economize de verdade!"
+    "text": "Economize de verdade!",
+    "title": "Economia"
   }
 }
