@@ -2,10 +2,11 @@
   "stamps_list": [
     {
       "img": "/img/uploads/pngwing.com.png",
-      "id": "Oferta especial",
+      "id": "oferta-especial",
       "skus": [
         "LBO5708",
-        "EMP1731"
+        "EMP1731",
+        "UXN1865"
       ]
     }
   ]
