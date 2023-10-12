@@ -1,4 +1,5 @@
 <%
+const stamps = _.cms('stamps') || {}
 const itemData = {}
 let itemDataFields = ['_id', 'sku', 'slug', 'quantity']
 if (Array.isArray(_.itemDataFields)) {
