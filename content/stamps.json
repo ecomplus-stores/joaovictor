@@ -8,6 +8,13 @@
         "EMP1731",
         "UXN1865"
       ]
+    },
+    {
+      "id": "Frete grátis",
+      "skus": [
+        "LBO5708"
+      ],
+      "img": "https://i.imgur.com/QD6DckW.png"
     }
   ]
 }
