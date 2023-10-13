@@ -6,18 +6,6 @@
       "skus": [
         "LBO5708"
       ]
-    },
-    {
-      "id": "Seminovo",
-      "skus": [
-        "LBO5708"
-      ],
-      "img": "/img/uploads/renewed-item-3-.svg"
-    },
-    {
-      "id": "Frete grátis",
-      "img": "/img/uploads/free-shipping-4-.svg",
-      "skus": null
     }
   ]
 }
