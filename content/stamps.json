@@ -9,17 +9,13 @@
     },
     {
       "id": "Seminovo",
-      "skus": [
-        "LBO5708"
-      ],
+      "skus": null,
       "img": "/img/uploads/renewed-item-2-.svg"
     },
     {
       "id": "Frete grátis",
       "img": "/img/uploads/free-shipping-3-.svg",
-      "skus": [
-        "LBO5708"
-      ]
+      "skus": null
     }
   ]
 }
