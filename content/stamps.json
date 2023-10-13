@@ -1,7 +1,7 @@
 {
   "stamps_list": [
     {
-      "img": "/img/uploads/pngwing.com.png",
+      "img": "/img/uploads/special-offer-seal.svg",
       "id": "oferta-especial",
       "skus": [
         "LBO5708",
@@ -10,11 +10,11 @@
       ]
     },
     {
-      "id": "Frete grátis",
+      "id": "Seminovo",
       "skus": [
         "LBO5708"
       ],
-      "img": "https://i.imgur.com/QD6DckW.png"
+      "img": "/img/uploads/renewed-item.png"
     }
   ]
 }
