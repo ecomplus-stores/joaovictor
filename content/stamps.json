@@ -1,7 +1,7 @@
 {
   "stamps_list": [
     {
-      "img": "/img/uploads/special-offer-seal-3-.svg",
+      "img": "/img/uploads/special-offer-seal-4-.svg",
       "id": "Oferta especial",
       "skus": [
         "LBO5708"
@@ -16,7 +16,7 @@
     },
     {
       "id": "Frete grátis",
-      "img": "/img/uploads/free-shipping-2-.svg",
+      "img": "/img/uploads/free-shipping-3-.svg",
       "skus": [
         "LBO5708"
       ]
