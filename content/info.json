@@ -6,7 +6,7 @@
   },
   "installments": {
     "show": true,
-    "text": "Criptografia de ponta-a-ponta: Privacidade e segurança fazem parte do nosso DNA",
+    "text": "Criptografia de ponta-a-ponta: Privacidade e segurança fazem parte do nosso DNA.",
     "title": "Segurança"
   },
   "exchange": {
@@ -16,7 +16,7 @@
   },
   "promo": {
     "show": true,
-    "text": "Todos os nossos produtos são originais, e oferecemos os melhores preços do mercado.",
+    "text": "Todos os produtos são originais, e oferecemos os melhores preços do mercado.",
     "title": "Economize mais. Viva melhor."
   }
 }
