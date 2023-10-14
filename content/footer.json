@@ -1,6 +1,6 @@
 {
   "description": {
-    "title": "MacPremier® Technology",
+    "title": "MacPremier Tech",
     "text": "Estritamente especializada em produtos Apple, a MacPremier é capaz de oferecer preços ainda mais competitivos para que seus clientes possam colher os benefícios das compras online. A MacPremier é uma ascendente empresa do varejo brasileiro. Graças, principalmente, a um diferenciado e inovador sistema de logística somos capazes de oferecer os mais competitivos preços do mercado."
   },
   "links_1": {
@@ -118,7 +118,7 @@
   "contacts": {
     "title": "Informações",
     "phone_wpp": false,
-    "socials": false,
+    "socials": true,
     "email": true,
     "address": true
   },
@@ -156,24 +156,24 @@
   ],
   "payment_methods": {
     "bb": false,
-    "visa": true,
+    "visa": false,
     "boleto": true,
-    "aura": true,
-    "banrisul": false,
-    "elo": true,
-    "hipercard": true,
+    "aura": false,
+    "banrisul": true,
+    "elo": false,
+    "hipercard": false,
     "hsbc": false,
     "bradesco": false,
     "santander": false,
-    "mastercard": true,
+    "mastercard": false,
     "paypal": false,
     "citibank": false,
-    "hiper": true,
-    "diners": true,
-    "mais": true,
+    "hiper": false,
+    "diners": false,
+    "mais": false,
     "pix": true,
-    "amex": true,
+    "amex": false,
     "itau": false
   },
-  "credits": "Imagens meramente ilustrativas | Ofertas válidas enquanto os itens estiverem disponíveis. Vendas sujeitas à análise e confirmação de dados pela empresa. Os preços, promoções e condições de pagamento são válidos exclusivamente para compras efetuadas em nosso site. CNPJ: 42.848.729/0001-62 (consultar junto a RFB). © MacPremier Technology 2023. Todos os direitos reservados."
+  "credits": "Imagens meramente ilustrativas | Ofertas válidas enquanto os itens estiverem disponíveis. Vendas sujeitas à análise e confirmação de dados pela loja. Os preços, promoções e condições de pagamento são válidos exclusivamente para compras efetuadas em nosso site. CNPJ: 42.848.729/0001-62 (consulte junto a RFB). MacPremier Tech 2023."
 }
