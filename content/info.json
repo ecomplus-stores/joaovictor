@@ -1,7 +1,7 @@
 {
   "shipping": {
     "show": true,
-    "text": "Envio para todo o Brasil",
+    "text": "Sem custos ocultos! Os custos de envio estão incluídos no preço listado. Você paga o preço que vê.",
     "title": "Entrega"
   },
   "installments": {
@@ -16,7 +16,7 @@
   },
   "promo": {
     "show": true,
-    "text": "Economize mais. Viva melhor.",
+    "text": "Economize mais. Viva melhor. ",
     "title": "Economia"
   }
 }
