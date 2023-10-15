@@ -94,7 +94,7 @@
       ]
     },
     {
-      "autoplay": 10000,
+      "autoplay": 5000,
       "page": "",
       "title": "Fácil de usar, potente e pronto para trabalhar",
       "shuffle": false,
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "autoplay": 10000,
+      "autoplay": 5000,
       "page": "",
       "title": "iPad: Sim, ele faz isso. E muito mais.",
       "shuffle": false,
@@ -152,7 +152,8 @@
       "page": "",
       "title": "Superpoderes na palma da mão.",
       "collection_id": "61b396cd0c7c727225c54820:categories:iPhone:/iphone",
-      "sort": "views"
+      "sort": "views",
+      "autoplay": 5000
     },
     {
       "type": "banner-slider",
@@ -191,8 +192,9 @@
       "limit": "",
       "page": "",
       "collection_id": "61b397210c7c727225c548b7:categories:Watch:/watch",
-      "sort": "highest_price",
-      "title": "O dispositivo definitivo para uma vida saudável."
+      "sort": "views",
+      "title": "O dispositivo definitivo para uma vida saudável.",
+      "autoplay": 5000
     },
     {
       "type": "banner-slider",
@@ -232,7 +234,8 @@
       "page": "",
       "collection_id": "6255d46b2e405e04ff3b7781:categories:Drones:/drones",
       "sort": "views",
-      "title": "Alcance lugares mais altos."
+      "title": "Alcance lugares mais altos.",
+      "autoplay": 5000
     },
     {
       "type": "responsive-banner",
@@ -276,11 +279,12 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "61b397340c7c727225c548cc:categories:Airpods:/airpods",
-      "sort": "highest_price",
-      "title": "Para todo mundo ouvir. Opções incomparáveis para um som de alta qualidade."
+      "limit": "",
+      "page": "",
+      "collection_id": "61b397340c7c727225c548cc:categories:AirPods:/airpods",
+      "sort": "views",
+      "title": "Para todo mundo ouvir. Opções incomparáveis para um som de alta qualidade.",
+      "autoplay": 5000
     },
     {
       "type": "collection-shelf",
