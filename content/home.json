@@ -307,6 +307,10 @@
       "autoplay": 5000
     },
     {
+      "type": "custom-content",
+      "markdown": "<p>&nbsp;</p>"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "views"
