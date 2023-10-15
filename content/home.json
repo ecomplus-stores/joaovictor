@@ -222,10 +222,11 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1,
+      "limit": "",
+      "page": "",
       "collection_id": "6255d46b2e405e04ff3b7781:categories:Drones:/drones",
-      "sort": "sales"
+      "sort": "views",
+      "title": "Alcance lugares mais altos."
     },
     {
       "type": "responsive-banner",
