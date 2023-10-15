@@ -40,6 +40,7 @@
       "shelfs_title": "Escolha por categoria"
     },
     {
+      "autoplay": 10000,
       "page": "",
       "title": "Potência extrema para profissionais.",
       "shuffle": false,
@@ -90,14 +91,15 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": "",
+      "autoplay": 10000,
       "page": "",
-      "collection_id": "626da8733da6d37bc217629b:collections:Mac desktops:/mac-desktops",
-      "sort": "views",
       "title": "Fácil de usar, potente e pronto para trabalhar",
-      "link": ""
+      "shuffle": false,
+      "type": "collection-shelf",
+      "link": "",
+      "limit": "",
+      "collection_id": "626da8733da6d37bc217629b:collections:Mac desktops:/mac-desktops",
+      "sort": "views"
     },
     {
       "type": "banner-slider",
