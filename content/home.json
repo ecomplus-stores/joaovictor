@@ -48,7 +48,7 @@
       "link": "",
       "limit": "",
       "collection_id": "61be335d0c7c727225d58200:categories:MacBook:/macbook",
-      "sort": "highest_price"
+      "sort": "views"
     },
     {
       "type": "banner-slider",
@@ -95,7 +95,7 @@
       "limit": "",
       "page": "",
       "collection_id": "626da8733da6d37bc217629b:collections:Mac desktops:/mac-desktops",
-      "sort": "highest_price",
+      "sort": "views",
       "title": "Fácil de usar, potente e pronto para trabalhar",
       "link": ""
     },
@@ -142,11 +142,11 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1,
+      "limit": "",
+      "page": "",
       "title": "Superpoderes na palma da mão.",
       "collection_id": "61b396cd0c7c727225c54820:categories:iPhone:/iphone",
-      "sort": "highest_price"
+      "sort": "views"
     },
     {
       "type": "banner-slider",
