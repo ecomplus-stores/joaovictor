@@ -125,14 +125,15 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": "",
+      "autoplay": 10000,
       "page": "",
-      "collection_id": "61b397010c7c727225c54875:categories:iPad:/ipad",
-      "sort": "highest_price",
+      "title": "iPad: Sim, ele faz isso. E muito mais.",
+      "shuffle": false,
       "headless": false,
-      "title": "iPad: Sim, ele faz isso. E muito mais."
+      "type": "collection-shelf",
+      "limit": "",
+      "collection_id": "61b397010c7c727225c54875:categories:iPad:/ipad",
+      "sort": "highest_price"
     },
     {
       "type": "responsive-banner",
