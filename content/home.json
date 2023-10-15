@@ -123,6 +123,16 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": "",
+      "page": "",
+      "collection_id": "61b397010c7c727225c54875:categories:iPad:/ipad",
+      "sort": "highest_price",
+      "headless": false,
+      "title": "iPad: Sim, ele faz isso. E muito mais."
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/ipad-pro-desktop-home-macpremier.png",
       "mobile_img": "/img/uploads/ipad-pro-mobile-home-macpremier.png",
@@ -132,12 +142,11 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": "",
-      "page": "",
-      "collection_id": "61b397010c7c727225c54875:categories:iPad:/ipad",
-      "sort": "highest_price",
-      "headless": false,
-      "title": "iPad: Sim, ele faz isso. E muito mais."
+      "limit": 12,
+      "page": 1,
+      "title": "Superpoderes na palma da mão.",
+      "collection_id": "61b396cd0c7c727225c54820:categories:iPhone:/iphone",
+      "sort": "highest_price"
     },
     {
       "type": "banner-slider",
@@ -173,11 +182,11 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "title": "Superpoderes na palma da mão.",
-      "collection_id": "61b396cd0c7c727225c54820:categories:iPhone:/iphone",
-      "sort": "highest_price"
+      "limit": "",
+      "page": "",
+      "collection_id": "61b397210c7c727225c548b7:categories:Watch:/watch",
+      "sort": "highest_price",
+      "title": "O dispositivo definitivo para uma vida saudável."
     },
     {
       "type": "banner-slider",
@@ -213,11 +222,10 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": "",
-      "page": "",
-      "collection_id": "61b397210c7c727225c548b7:categories:Watch:/watch",
-      "sort": "highest_price",
-      "title": "O dispositivo definitivo para uma vida saudável."
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6255d46b2e405e04ff3b7781:categories:Drones:/drones",
+      "sort": "sales"
     },
     {
       "type": "responsive-banner",
