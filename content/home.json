@@ -35,7 +35,8 @@
         "61b397340c7c727225c548cc:categories:AirPods:/airpods",
         "61b397590c7c727225c54906:categories:TV & Casa:/tv-e-casa",
         "6255d46b2e405e04ff3b7781:categories:Drones:/drones",
-        "61b397210c7c727225c548b7:categories:Watch:/watch"
+        "61b397210c7c727225c548b7:categories:Watch:/watch",
+        "626da8733da6d37bc217629b:collections:Mac desktops:/mac-desktops"
       ],
       "sort": "views",
       "autoplay": 5000,
@@ -55,7 +56,7 @@
     },
     {
       "type": "banner-slider",
-      "autoplay": 10000,
+      "autoplay": 500000,
       "full_width": false,
       "slides": [
         {
