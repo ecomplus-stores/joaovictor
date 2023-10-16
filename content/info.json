@@ -1,17 +1,17 @@
 {
   "shipping": {
     "show": true,
-    "text": "Sem custos ocultos! Os custos de envio estão incluídos no preço listado. Você paga o preço que vê.",
-    "title": "Entrega"
+    "text": "Os custos de entrega estão incluídos no preço listado. Você paga o preço que vê!",
+    "title": "Sem custos ocultos!"
   },
   "installments": {
     "show": true,
-    "text": "Criptografia de ponta-a-ponta: Privacidade e segurança fazem parte do nosso DNA.",
-    "title": "Segurança"
+    "text": "Privacidade e segurança fazem parte do nosso DNA.",
+    "title": "Criptografia de ponta-a-ponta"
   },
   "exchange": {
     "show": true,
-    "text": "Na MacPremier não há nada que você não possa fazer, porque você está sempre protegido!",
+    "text": "No worries! Na MacPremier você está sempre protegido.",
     "title": "Troca ou devolução?"
   },
   "promo": {
