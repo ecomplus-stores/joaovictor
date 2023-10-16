@@ -43,6 +43,81 @@
       "shelfs_title": "Escolha por categoria"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": "",
+      "page": "",
+      "title": "Superpoderes na palma da mão.",
+      "collection_id": "61b396cd0c7c727225c54820:categories:iPhone:/iphone",
+      "sort": "views",
+      "autoplay": 5000
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 5000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-05-13T03:09:59.051Z",
+          "end": "2024-01-01T03:09:59.076Z",
+          "img": "/img/uploads/iphone-se-desktop-home-macpremier.png",
+          "mobile_img": "/img/uploads/iphone-se-mobile-home-macpremier.png",
+          "link": "https://www.macpremier.com.br/iphone-se-apple-tela-47-camera-12mp-ios",
+          "alt": "iPhone SE"
+        },
+        {
+          "start": "2022-05-13T03:10:39.110Z",
+          "end": "2024-01-01T03:10:39.176Z",
+          "img": "/img/uploads/iphone-13-desktop-home-macpremier.png",
+          "mobile_img": "/img/uploads/iphone-13-mobile-home-macpremier.png",
+          "alt": "iPhone 13",
+          "link": "https://www.macpremier.com.br/iphone-13-apple-ios-5g-wi-fi-tela-61-camera-dupla-12mp"
+        },
+        {
+          "start": "2022-05-13T03:11:05.038Z",
+          "end": "2024-01-01T03:11:05.080Z",
+          "img": "/img/uploads/iphone-13-pro-desktop-home-macpremier.png",
+          "mobile_img": "/img/uploads/iphone-13-pro-mobile-home-macpremier.png",
+          "link": "https://www.macpremier.com.br/apple-iphone-13-pro-ios-5g-wi-fi-tela-61-camera-tripla-12mp-sensor-lidar",
+          "alt": "iPhone 13 Pro"
+        }
+      ]
+    },
+    {
+      "autoplay": 5000,
+      "page": "",
+      "title": "Fácil de usar, potente e pronto para trabalhar",
+      "shuffle": false,
+      "type": "collection-shelf",
+      "link": "",
+      "limit": "",
+      "collection_id": "626da8733da6d37bc217629b:collections:Mac desktops:/mac-desktops",
+      "sort": "views"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 10000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "2022-05-13T22:02:17.148Z",
+          "end": "2024-01-01T22:02:17.198Z",
+          "img": "/img/uploads/mac-mini-m1-desktop-home-macpremier.png",
+          "mobile_img": "/img/uploads/mac-mini-m1-mobile-home-macpremier.png",
+          "link": "https://www.macpremier.com.br/mac-desktops",
+          "alt": "Mac mini"
+        },
+        {
+          "start": "2022-05-13T22:01:32.585Z",
+          "end": "2024-01-01T22:01:32.632Z",
+          "img": "/img/uploads/imac-24p-desktop-home-macpremier.png",
+          "mobile_img": "/img/uploads/imac-24p-mobile-home-macpremier.png",
+          "link": "https://www.macpremier.com.br/mac-desktops",
+          "alt": "iMac de 24 polegadas"
+        }
+      ]
+    },
+    {
       "autoplay": 10000,
       "page": "",
       "title": "Potência extrema para profissionais.",
@@ -96,47 +171,13 @@
     {
       "autoplay": 5000,
       "page": "",
-      "title": "Fácil de usar, potente e pronto para trabalhar",
-      "shuffle": false,
-      "type": "collection-shelf",
-      "link": "",
-      "limit": "",
-      "collection_id": "626da8733da6d37bc217629b:collections:Mac desktops:/mac-desktops",
-      "sort": "views"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 10000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "2022-05-13T22:02:17.148Z",
-          "end": "2024-01-01T22:02:17.198Z",
-          "img": "/img/uploads/mac-mini-m1-desktop-home-macpremier.png",
-          "mobile_img": "/img/uploads/mac-mini-m1-mobile-home-macpremier.png",
-          "link": "https://www.macpremier.com.br/mac-desktops",
-          "alt": "Mac mini"
-        },
-        {
-          "start": "2022-05-13T22:01:32.585Z",
-          "end": "2024-01-01T22:01:32.632Z",
-          "img": "/img/uploads/imac-24p-desktop-home-macpremier.png",
-          "mobile_img": "/img/uploads/imac-24p-mobile-home-macpremier.png",
-          "link": "https://www.macpremier.com.br/mac-desktops",
-          "alt": "iMac de 24 polegadas"
-        }
-      ]
-    },
-    {
-      "autoplay": 5000,
-      "page": "",
       "title": "iPad: Sim, ele faz isso. E muito mais.",
       "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
       "limit": "",
       "collection_id": "61b397010c7c727225c54875:categories:iPad:/ipad",
-      "sort": "highest_price"
+      "sort": "views"
     },
     {
       "type": "responsive-banner",
@@ -144,47 +185,6 @@
       "mobile_img": "/img/uploads/ipad-pro-mobile-home-macpremier.png",
       "alt": "iPad Pro - O poderoso chip M1 da Apple está aqui",
       "link": "https://www.macpremier.com.br/ipad-pro"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": "",
-      "page": "",
-      "title": "Superpoderes na palma da mão.",
-      "collection_id": "61b396cd0c7c727225c54820:categories:iPhone:/iphone",
-      "sort": "views",
-      "autoplay": 5000
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 5000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-05-13T03:09:59.051Z",
-          "end": "2024-01-01T03:09:59.076Z",
-          "img": "/img/uploads/iphone-se-desktop-home-macpremier.png",
-          "mobile_img": "/img/uploads/iphone-se-mobile-home-macpremier.png",
-          "link": "https://www.macpremier.com.br/iphone-se-apple-tela-47-camera-12mp-ios",
-          "alt": "iPhone SE"
-        },
-        {
-          "start": "2022-05-13T03:10:39.110Z",
-          "end": "2024-01-01T03:10:39.176Z",
-          "img": "/img/uploads/iphone-13-desktop-home-macpremier.png",
-          "mobile_img": "/img/uploads/iphone-13-mobile-home-macpremier.png",
-          "alt": "iPhone 13",
-          "link": "https://www.macpremier.com.br/iphone-13-apple-ios-5g-wi-fi-tela-61-camera-dupla-12mp"
-        },
-        {
-          "start": "2022-05-13T03:11:05.038Z",
-          "end": "2024-01-01T03:11:05.080Z",
-          "img": "/img/uploads/iphone-13-pro-desktop-home-macpremier.png",
-          "mobile_img": "/img/uploads/iphone-13-pro-mobile-home-macpremier.png",
-          "link": "https://www.macpremier.com.br/apple-iphone-13-pro-ios-5g-wi-fi-tela-61-camera-tripla-12mp-sensor-lidar",
-          "alt": "iPhone 13 Pro"
-        }
-      ]
     },
     {
       "type": "collection-shelf",
