@@ -173,7 +173,7 @@
       "type": "collection-shelf",
       "limit": "",
       "collection_id": "61b397010c7c727225c54875:categories:iPad:/ipad",
-      "sort": "views"
+      "sort": "highest_price"
     },
     {
       "type": "responsive-banner",
