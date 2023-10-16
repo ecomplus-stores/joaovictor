@@ -5,13 +5,6 @@
       "enabled": true
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-mac.png",
-      "mobile_img": "/img/uploads/banner-mac-mobile.png",
-      "alt": "Computadores Mac - MacPremier",
-      "link": "https://www.macpremier.com.br/mac"
-    },
-    {
       "type": "breadcrumbs",
       "enabled": true
     },
@@ -28,6 +21,13 @@
     {
       "type": "buy-together",
       "enabled": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-mac.png",
+      "mobile_img": "/img/uploads/banner-mac-mobile.png",
+      "alt": "Computadores Mac - MacPremier",
+      "link": "https://www.macpremier.com.br/mac"
     },
     {
       "type": "custom-html",
