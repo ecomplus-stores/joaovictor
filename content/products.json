@@ -13,6 +13,10 @@
       "enabled": true
     },
     {
+      "type": "custom-html",
+      "html": "<div class=\"custom-content\"><section class=\"md-content mb-5 pt-1 pt-sm-2 pt-lg-3\"><div class=\"container\"><p><a href=\"https://www.macpremier.com.br/pages/como-fazer-transferencias-via-pix\" target=\"_blank\"><img src=\"/img/uploads/pix_gtm_desktop_ilm_1x_650x45_v3._cb651743463_.jpg\" alt=\"\"></a></p></div></section></div>"
+    },
+    {
       "type": "offers-timer",
       "max_hours": 24,
       "start": "2023-09-23T18:34:35.563Z",
@@ -25,10 +29,6 @@
     {
       "type": "custom-html",
       "html": "<div class=\"trustpilot-widget\" data-locale=\"pt-BR\" data-template-id=\"5419b6a8b0d04a076446a9ad\" data-businessunit-id=\"63e121c52ba9106ee583db9f\" data-style-height=\"24px\" data-style-width=\"100%\" data-theme=\"light\" data-min-review-count=\"10\" data-without-reviews-preferred-string-id=\"1\" data-style-alignment=\"center\">\n  <a href=\"https://br.trustpilot.com/review/macpremier.com.br\" target=\"_blank\" rel=\"noopener\">Trustpilot</a>\n</div>"
-    },
-    {
-      "type": "custom-html",
-      "html": "<div class=\"custom-content\"><section class=\"md-content mb-5 pt-1 pt-sm-2 pt-lg-3\"><div class=\"container\"><p><a href=\"https://www.macpremier.com.br/pages/como-fazer-transferencias-via-pix\" target=\"_blank\"><img src=\"/img/uploads/pix_gtm_desktop_ilm_1x_650x45_v3._cb651743463_.jpg\" alt=\"\"></a></p></div></section></div>"
     },
     {
       "type": "responsive-banner",
