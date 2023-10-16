@@ -5,7 +5,7 @@
   "options": {
     "buyText": "Adicionar à sacola",
     "buy": "<div class=\"product__buy\"><span><button type=\"button\" class=\"btn btn-lg btn-primary\"><span><i class=\"fas fa-shopping-cart mr-1\"></i> Adicionar à sacola</span></button></span></div>",
-    "strHasQuantitySelector": " ",
+    "strHasQuantitySelector": "true",
     "strHasPromotionTimer": "true",
     "lowQuantityToWarn": 90,
     "maxVariationOptionsBtns": 10,
