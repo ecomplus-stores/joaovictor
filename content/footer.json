@@ -124,15 +124,15 @@
   },
   "stamps": [
     {
+      "src": "/img/uploads/lets-encrypt___59ea7b7d1f24c9a085b6f7a3f0dc538c.svg"
+    },
+    {
       "src": "/img/uploads/ssl-shopper-logo.svg",
       "link": "https://www.sslshopper.com/ssl-checker.html#hostname=macpremier.com.br"
     },
     {
       "src": "/img/uploads/google-safe-browsing.png",
       "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.macpremier.com.br&hl=pt-br"
-    },
-    {
-      "src": "/img/uploads/letsencrypt-logo-horizontal.svg"
     },
     {
       "src": "/img/uploads/pngegg.png"
