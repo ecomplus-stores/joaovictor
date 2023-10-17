@@ -27,13 +27,6 @@
       "html": "<div class=\"trustpilot-widget\" data-locale=\"pt-BR\" data-template-id=\"5419b6a8b0d04a076446a9ad\" data-businessunit-id=\"63e121c52ba9106ee583db9f\" data-style-height=\"24px\" data-style-width=\"100%\" data-theme=\"light\" data-min-review-count=\"10\" data-without-reviews-preferred-string-id=\"1\" data-style-alignment=\"center\">\n  <a href=\"https://br.trustpilot.com/review/macpremier.com.br\" target=\"_blank\" rel=\"noopener\">Trustpilot</a>\n</div>"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-mac.png",
-      "mobile_img": "/img/uploads/banner-mac-mobile.png",
-      "alt": "Computadores Mac - MacPremier",
-      "link": "https://www.macpremier.com.br/mac"
-    },
-    {
       "type": "related-products",
       "title": "Produtos relacionados"
     },
