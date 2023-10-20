@@ -1,6 +1,10 @@
 {
   "sections": [
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
@@ -21,15 +25,8 @@
       "sort": "sales"
     },
     {
-      "type": "info-bar",
+      "type": "blog",
       "enabled": true
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": "name",
-      "autoplay": 50000
     }
   ]
 }
