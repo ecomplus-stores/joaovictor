@@ -1,13 +1,6 @@
 {
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-mac.png",
-      "mobile_img": "/img/uploads/banner-mac-mobile.png",
-      "link": "https://www.macpremier.com.br/mac",
-      "alt": "Computadores Mac com as melhores ofertas do mercado"
-    },
-    {
       "type": "search-engine",
       "enabled": true
     }
