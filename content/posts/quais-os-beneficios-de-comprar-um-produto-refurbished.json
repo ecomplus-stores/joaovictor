@@ -10,6 +10,9 @@
       "enabled": true
     },
     {
+      "type": "page-title"
+    },
+    {
       "type": "blog-post",
       "enabled": true
     },
