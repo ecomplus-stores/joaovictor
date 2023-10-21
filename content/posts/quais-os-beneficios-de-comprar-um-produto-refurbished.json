@@ -6,15 +6,15 @@
   "title": "Quais os benefícios de comprar um iPhone seminovo?",
   "sections": [
     {
-      "type": "page-title"
-    },
-    {
       "type": "breadcrumbs",
       "enabled": true
     },
     {
       "type": "blog-post",
       "enabled": true
+    },
+    {
+      "type": "page-title"
     },
     {
       "type": "collection-shelf",
