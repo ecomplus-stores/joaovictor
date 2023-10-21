@@ -1,6 +1,10 @@
 {
   "sections": [
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
@@ -21,7 +25,11 @@
       "sort": "highest_price"
     },
     {
-      "type": "info-bar",
+      "type": "custom-html",
+      "html": "<hr />\n<p>&nbsp;</p>\n"
+    },
+    {
+      "type": "blog",
       "enabled": true
     }
   ]
