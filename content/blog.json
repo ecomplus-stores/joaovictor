@@ -16,9 +16,14 @@
       "enabled": true
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "views"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": "",
+      "page": "",
+      "collection_id": "61b24af70c7c727225c26a66:brands:Apple Computer:/apple-computer",
+      "sort": "views",
+      "title": "Talvez possa te interessar",
+      "autoplay": 5000
     }
   ]
 }
