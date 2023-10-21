@@ -7,9 +7,9 @@
       "autoplay": 10000,
       "slides": [
         {
-          "start": "2022-05-20T03:09:58.909Z",
-          "end": "2024-01-01T03:09:58.953Z",
-          "img": "/img/uploads/main-banner-desktop-home-macpremier-2-.svg",
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/main-banner-desktop-home-macpremier-1-.svg",
           "mobile_img": "/img/uploads/main-banner-mobile-home-macpremier.svg"
         }
       ],
