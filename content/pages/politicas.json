@@ -1,15 +1,18 @@
 {
   "title": "Políticas",
-  "body": "![](/img/uploads/accept-terms-1-.gif)\n\n<h5><a href=\"https://www.macpremier.com.br/pages/privacidade\"><span style=\"color: gray;\">Pol&iacute;tica de privacidade</span></a></h5>\n<h5><a href=\"https://www.macpremier.com.br/pages/politica-de-cookies\"><span style=\"color: gray;\">Pol&iacute;tica de Cookies</span></a></h5>\n<h5><a href=\"https://www.macpremier.com.br/pages/termos\"><span style=\"color: gray;\">Termos de uso</span></a></h5>\n<h5><a href=\"https://www.macpremier.com.br/pages/trocas\"><span style=\"color: gray;\">Trocas e devolu&ccedil;&otilde;es</span></a></h5>",
-  "meta_description": "Políticas | MacPremier",
-  "meta_title": "Políticas | MacPremier",
+  "body": "![Políticas](/img/uploads/accept-terms-pana.svg \"Políticas\")\n\n<h5><a href=\"https://www.macpremier.com.br/pages/privacidade\"><span style=\"color: gray;\">Pol&iacute;tica de privacidade</span></a></h5>\n<h5><a href=\"https://www.macpremier.com.br/pages/politica-de-cookies\"><span style=\"color: gray;\">Pol&iacute;tica de Cookies</span></a></h5>\n<h5><a href=\"https://www.macpremier.com.br/pages/termos\"><span style=\"color: gray;\">Termos de uso</span></a></h5>\n<h5><a href=\"https://www.macpremier.com.br/pages/trocas\"><span style=\"color: gray;\">Trocas e devolu&ccedil;&otilde;es</span></a></h5>",
+  "meta_description": "",
+  "meta_title": "Políticas | MacPremier (Brasil)",
   "sections": [
     {
-      "type": "extra-page",
+      "type": "breadcrumbs",
       "enabled": true
     },
     {
-      "type": "blog",
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
       "enabled": true
     }
   ]
