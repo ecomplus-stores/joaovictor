@@ -25,6 +25,10 @@
       "sort": "sales"
     },
     {
+      "type": "custom-html",
+      "html": "<hr />\n<p>&nbsp;</p>\n"
+    },
+    {
       "type": "blog",
       "enabled": true
     }
