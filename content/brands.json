@@ -1,15 +1,19 @@
 {
   "sections": [
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
     {
-      "type": "document-banner",
-      "enabled": true
+      "type": "page-title"
     },
     {
-      "type": "page-title"
+      "type": "document-banner",
+      "enabled": true
     },
     {
       "type": "document-description",
@@ -21,19 +25,11 @@
       "sort": "highest_price"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "views"
+      "type": "custom-html",
+      "html": "<hr />\n<p>&nbsp;</p>\n"
     },
     {
-      "type": "brands-carousel",
-      "limit": 10,
-      "offset": 0,
-      "sort": "name",
-      "autoplay": 5000
-    },
-    {
-      "type": "info-bar",
+      "type": "blog",
       "enabled": true
     }
   ]
