@@ -41,10 +41,6 @@
     {
       "type": "recommended-products",
       "title": "Quem comprou este produto, também comprou:"
-    },
-    {
-      "type": "blog",
-      "enabled": true
     }
   ]
 }
