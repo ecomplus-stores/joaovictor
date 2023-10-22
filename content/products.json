@@ -43,11 +43,6 @@
       "title": "Quem comprou este produto, também comprou:"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "highest_price"
-    },
-    {
       "type": "blog",
       "enabled": true
     }
