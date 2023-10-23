@@ -1,7 +1,7 @@
 {
   "stamps_list": [
     {
-      "img": "/img/uploads/frame-28-3-.svg",
+      "img": "/img/uploads/frame-28-4-.svg",
       "id": "Oferta especial",
       "skus": [
         "TNK3701"
@@ -17,7 +17,7 @@
         "QXP5803",
         "TNK3701"
       ],
-      "img": "/img/uploads/frame-29.svg"
+      "img": "/img/uploads/frame-29-1-.svg"
     },
     {
       "id": "Novidade",
@@ -25,7 +25,7 @@
         "FUN3516",
         "TJT1952"
       ],
-      "img": "/img/uploads/frame-30.svg"
+      "img": "/img/uploads/frame-30-1-.svg"
     }
   ]
 }
