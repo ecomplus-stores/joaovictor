@@ -6,6 +6,16 @@
       "skus": [
         "LBO5708"
       ]
+    },
+    {
+      "id": "Seminovo Excelente",
+      "skus": [
+        "BHN5847",
+        "TEV3377",
+        "HRX5377",
+        "KWZ7382"
+      ],
+      "img": "/img/uploads/frame-29.svg"
     }
   ]
 }
