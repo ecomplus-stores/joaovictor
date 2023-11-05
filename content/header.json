@@ -57,8 +57,6 @@
   },
   "categories_list": {
     "featured": [
-      "/lancamentos?Lançamentos",
-      "/seminovos?Seminovos",
       "/iphone?iPhone",
       "/macbook?MacBook",
       "/ipad?iPad",
@@ -67,7 +65,9 @@
       "/watch?Watch",
       "/airpods?AirPods",
       "/tv-e-casa?TV & Casa",
-      "/acessorios?Acessórios"
+      "/acessorios?Acessórios",
+      "/lancamentos?Lançamentos",
+      "/seminovos?Seminovos"
     ],
     "random": 0,
     "full_width": true
