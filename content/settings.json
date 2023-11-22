@@ -6,11 +6,11 @@
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#5170aa",
+  "bg_color": "#ffffff",
   "repository": "ecomplus-stores/joaovictor",
   "logo": "/img/uploads/900-x-265-1-.png",
   "name": "MacPremier (Brasil)",
-  "short_name": "MacPremier® Lite",
+  "short_name": "MacPremier Lite",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
