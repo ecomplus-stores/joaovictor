@@ -1,10 +1,6 @@
 {
   "sections": [
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "breadcrumbs",
       "enabled": true
     },
@@ -20,6 +16,10 @@
     },
     {
       "type": "buy-together",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
       "enabled": true
     },
     {
