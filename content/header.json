@@ -67,7 +67,9 @@
       "/tv-e-casa?TV & Casa",
       "/acessorios?Acessórios",
       "/lancamentos?Lançamentos",
-      "/seminovos?Seminovos"
+      "/seminovos?Seminovos",
+      "/apple-computer?Apple Computer",
+      "/drones?Drones"
     ],
     "random": 0,
     "full_width": true
