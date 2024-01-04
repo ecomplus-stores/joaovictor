@@ -43,6 +43,10 @@
       "shelfs_title": "Escolha por categoria"
     },
     {
+      "type": "blog",
+      "enabled": true
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": "",
@@ -314,10 +318,6 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "views"
-    },
-    {
-      "type": "blog",
-      "enabled": true
     }
   ]
 }
