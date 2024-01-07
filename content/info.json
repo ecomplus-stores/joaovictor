@@ -1,22 +1,22 @@
 {
   "shipping": {
     "show": true,
-    "text": "Os custos de entrega estão incluídos no preço listado. Você paga o preço que vê!",
+    "text": "Os custos de entrega estão incluídos no preço listado.",
     "title": "Sem custos ocultos!"
   },
   "installments": {
     "show": true,
     "text": "Privacidade e segurança fazem parte do nosso DNA.",
-    "title": "Criptografia de ponta-a-ponta"
+    "title": "Criptografia de ponta"
   },
   "exchange": {
     "show": true,
-    "text": "No worries! Na MacPremier você está sempre protegido.",
+    "text": "No problem! Na MacPremier você está sempre protegido.",
     "title": "Troca ou devolução?"
   },
   "promo": {
     "show": true,
-    "text": "Seu Apple favorito com condições incrivelmente melhores!",
-    "title": "Economize mais. Viva melhor."
+    "text": "Seu Apple com condições incrivelmente melhores!",
+    "title": "Economize mais"
   }
 }
