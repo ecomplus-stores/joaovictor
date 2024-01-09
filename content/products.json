@@ -31,11 +31,11 @@
       "title": "Talvez te interesse também"
     },
     {
-      "type": "product-description",
+      "type": "product-specifications",
       "enabled": true
     },
     {
-      "type": "product-specifications",
+      "type": "product-description",
       "enabled": true
     },
     {
