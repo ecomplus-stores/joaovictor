@@ -4,7 +4,7 @@
   "desktopOnly": false,
   "options": {
     "buyText": "Comprar agora",
-    "buy": "<div class=\"product__buy\"><span><button type=\"button\" class=\"btn btn-lg btn-primary\"><span><i class=\"fas fa-shopping-cart mr-1\"></i> Adicionar à sacola</span></button></span></div>",
+    "buy": "",
     "strHasQuantitySelector": "true",
     "strHasPromotionTimer": "true",
     "lowQuantityToWarn": 90,
