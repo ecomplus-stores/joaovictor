@@ -8,24 +8,24 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Como comprar?",
-        "link": "https://www.macpremier.com.br/pages/como-comprar"
-      },
-      {
-        "title": "Blog",
-        "link": "https://www.macpremier.com.br/blog"
+        "title": "Políticas",
+        "link": "https://www.macpremier.com.br/pages/politicas"
       },
       {
         "title": "Guia de segurança",
         "link": "https://www.macpremier.com.br/pages/guia-de-seguranca"
       },
       {
+        "title": "Blog",
+        "link": "https://www.macpremier.com.br/blog"
+      },
+      {
         "title": "F.A.Q.",
         "link": "https://www.macpremier.com.br/pages/faq"
       },
       {
-        "title": "Políticas",
-        "link": "https://www.macpremier.com.br/pages/politicas"
+        "title": "Como comprar?",
+        "link": "https://www.macpremier.com.br/pages/como-comprar"
       },
       {
         "title": "Rastreio",
