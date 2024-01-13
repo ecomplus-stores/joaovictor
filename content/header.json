@@ -8,48 +8,48 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Blog",
-        "link": "https://www.macpremier.com.br/blog"
-      },
-      {
-        "title": "CDC",
-        "link": "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.pdf"
-      },
-      {
         "title": "Como comprar?",
         "link": "https://www.macpremier.com.br/pages/como-comprar"
       },
       {
-        "title": "Fale conosco",
-        "link": "https://www.macpremier.com.br/pages/contato"
-      },
-      {
-        "title": "F.A.Q.",
-        "link": "https://www.macpremier.com.br/pages/faq"
-      },
-      {
-        "title": "Fórum",
-        "link": "https://forum.macpremier.com.br/"
+        "title": "Blog",
+        "link": "https://www.macpremier.com.br/blog"
       },
       {
         "title": "Guia de segurança",
         "link": "https://www.macpremier.com.br/pages/guia-de-seguranca"
       },
       {
-        "title": "Social",
-        "link": "https://social.macpremier.com.br/"
+        "title": "F.A.Q.",
+        "link": "https://www.macpremier.com.br/pages/faq"
       },
       {
         "title": "Políticas",
         "link": "https://www.macpremier.com.br/pages/politicas"
       },
       {
-        "title": "Podcast",
-        "link": "https://podcast.macpremier.com.br"
-      },
-      {
         "title": "Rastreio",
         "link": "https://https://melhorrastreio.com.br"
+      },
+      {
+        "title": "CDC",
+        "link": "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.pdf"
+      },
+      {
+        "title": "Fale conosco",
+        "link": "https://www.macpremier.com.br/pages/contato"
+      },
+      {
+        "title": "Fórum",
+        "link": "https://forum.macpremier.com.br/"
+      },
+      {
+        "title": "Social",
+        "link": "https://social.macpremier.com.br/"
+      },
+      {
+        "title": "Podcast",
+        "link": "https://podcast.macpremier.com.br"
       }
     ],
     "phone_wpp": false,
