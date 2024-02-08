@@ -124,10 +124,6 @@
   },
   "stamps": [
     {
-      "link": "https://br.trustpilot.com/review/macpremier.com.br",
-      "src": "https://s3-eu-west-1.amazonaws.com/tpd/logos/46d6a890000064000500e0c3/0x0.png"
-    },
-    {
       "src": "/img/uploads/0x0.png",
       "link": "https://br.trustpilot.com/review/macpremier.com.br"
     },
