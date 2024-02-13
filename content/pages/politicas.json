@@ -5,6 +5,10 @@
   "meta_title": "Políticas | MacPremier (Brasil)",
   "sections": [
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
@@ -15,6 +19,10 @@
     },
     {
       "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "blog",
       "enabled": true
     }
   ]
