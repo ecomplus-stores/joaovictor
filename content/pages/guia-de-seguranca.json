@@ -13,7 +13,9 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "description": "O MacPremier é um e-commerce de produtos de tecnologia que oferece uma ampla variedade de produtos Apple, incluindo computadores, smartphones, tablets, acessórios e muito mais. Nosso objetivo é fornecer aos nossos clientes uma experiência de compra segura e confiável.",
+      "title": "Guia de segurança"
     },
     {
       "type": "extra-page",
