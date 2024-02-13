@@ -97,12 +97,12 @@
     },
     {
       "type": "banner-slider",
-      "autoplay": 10000,
+      "autoplay": 5000,
       "full_width": false,
       "slides": [
         {
           "start": "2022-05-13T22:02:17.148Z",
-          "end": "2024-01-01T22:02:17.198Z",
+          "end": "2026-01-01T22:02:17.198Z",
           "img": "/img/uploads/mac-mini-m1-desktop-home-macpremier.png",
           "mobile_img": "/img/uploads/mac-mini-m1-mobile-home-macpremier.png",
           "link": "https://www.macpremier.com.br/mac-desktops",
@@ -110,7 +110,7 @@
         },
         {
           "start": "2022-05-13T22:01:32.585Z",
-          "end": "2024-01-01T22:01:32.632Z",
+          "end": "2026-01-01T22:01:32.632Z",
           "img": "/img/uploads/imac-24p-desktop-home-macpremier.png",
           "mobile_img": "/img/uploads/imac-24p-mobile-home-macpremier.png",
           "link": "https://www.macpremier.com.br/mac-desktops",
