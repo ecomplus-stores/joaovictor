@@ -27,20 +27,17 @@
       "type": "shelfs-nav",
       "shuffle": false,
       "limit": "",
-      "page": "",
+      "page": 1,
       "collection_ids": [
         "6285b2d2df4d8071c9146d53:collections:Mac:/mac",
         "61b396cd0c7c727225c54820:categories:iPhone:/iphone",
         "61b397010c7c727225c54875:categories:iPad:/ipad",
         "61b397340c7c727225c548cc:categories:AirPods:/airpods",
-        "61b397590c7c727225c54906:categories:TV & Casa:/tv-e-casa",
-        "6255d46b2e405e04ff3b7781:categories:Drones:/drones",
-        "61b397210c7c727225c548b7:categories:Watch:/watch",
-        "626da8733da6d37bc217629b:collections:Mac desktops:/mac-desktops"
+        "61b397210c7c727225c548b7:categories:Watch:/watch"
       ],
       "sort": "views",
       "autoplay": 5000,
-      "shelfs_title": "Escolha por categoria"
+      "shelfs_title": "Escolha seu Apple por categoria"
     },
     {
       "type": "blog",
