@@ -132,7 +132,7 @@
     },
     {
       "type": "banner-slider",
-      "autoplay": 500000,
+      "autoplay": 5000,
       "full_width": false,
       "slides": [
         {
