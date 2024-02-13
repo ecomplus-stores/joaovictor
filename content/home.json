@@ -249,12 +249,6 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/dji-air-2s-macpremier.png",
-          "mobile_img": "/img/uploads/dji-air-2s-macpremier.png",
-          "link": "https://www.macpremier.com.br/dji-air-2s",
-          "alt": "DJI Air 2S"
-        },
-        {
           "img": "/img/uploads/dji-mini-2-macpremier.png",
           "mobile_img": "/img/uploads/dji-mini-2-macpremier.png",
           "alt": "Drone DJI Mini 2",
@@ -265,12 +259,6 @@
     {
       "type": "banners-grid",
       "banners": [
-        {
-          "img": "/img/uploads/dji-fpv-macpremier.png",
-          "mobile_img": "/img/uploads/dji-fpv-macpremier.png",
-          "alt": "Drone DJI FPV",
-          "link": "https://www.macpremier.com.br/dji-fpv"
-        },
         {
           "img": "/img/uploads/mavic-air-2-macpremier.png",
           "mobile_img": "/img/uploads/mavic-air-2-macpremier.png"
@@ -289,16 +277,6 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
-      "limit": "",
-      "page": "",
-      "title": "Convide o futuro para entrar na sua casa.",
-      "collection_id": "61b397590c7c727225c54906:categories:TV & Casa:/tv-e-casa",
-      "sort": "views",
-      "autoplay": 5000
-    },
-    {
-      "type": "collection-shelf",
       "shuffle": true,
       "limit": "",
       "page": "",
@@ -306,15 +284,6 @@
       "sort": "views",
       "title": "Feitos especialmente para seus aparelhos favoritos.",
       "autoplay": 5000
-    },
-    {
-      "type": "custom-html",
-      "html": "<hr />\n<p>&nbsp;</p>\n"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "views"
     }
   ]
 }
