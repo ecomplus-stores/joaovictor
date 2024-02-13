@@ -5,11 +5,17 @@
   "meta_description": "A MacPremier, prezando pela segurança de seus clientes, adotou procedimentos internos para atender a todas as exigências da LGPD.",
   "sections": [
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "description": "A MacPremier, prezando pela segurança de seus clientes, adotou procedimentos internos para atender a todas as exigências da LGPD.",
+      "title": "Lei Geral de Proteção de Dados (LGPD)"
     },
     {
       "type": "extra-page",
