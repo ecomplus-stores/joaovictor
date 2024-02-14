@@ -52,13 +52,13 @@
     {
       "autoplay": 5000,
       "page": "",
-      "title": "Fácil de usar, potente e pronto para trabalhar",
+      "title": "iPad: Sim, ele faz isso. E muito mais.",
       "shuffle": false,
+      "headless": false,
       "type": "collection-shelf",
-      "link": "",
       "limit": "",
-      "collection_id": "626da8733da6d37bc217629b:collections:Mac desktops:/mac-desktops",
-      "sort": "views"
+      "collection_id": "61b397010c7c727225c54875:categories:iPad:/ipad",
+      "sort": "highest_price"
     },
     {
       "autoplay": 10000,
@@ -75,13 +75,13 @@
     {
       "autoplay": 5000,
       "page": "",
-      "title": "iPad: Sim, ele faz isso. E muito mais.",
+      "title": "Fácil de usar, potente e pronto para trabalhar",
       "shuffle": false,
-      "headless": false,
       "type": "collection-shelf",
+      "link": "",
       "limit": "",
-      "collection_id": "61b397010c7c727225c54875:categories:iPad:/ipad",
-      "sort": "highest_price"
+      "collection_id": "626da8733da6d37bc217629b:collections:Mac desktops:/mac-desktops",
+      "sort": "views"
     },
     {
       "type": "collection-shelf",
