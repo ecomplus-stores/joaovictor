@@ -85,12 +85,12 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": "",
       "page": "",
-      "collection_id": "61b397210c7c727225c548b7:categories:Watch:/watch",
+      "collection_id": "61b397700c7c727225c54929:categories:Acessórios:/acessorios",
       "sort": "views",
-      "title": "O dispositivo definitivo para uma vida saudável.",
+      "title": "Feitos especialmente para seus aparelhos favoritos.",
       "autoplay": 5000
     },
     {
@@ -101,26 +101,6 @@
       "collection_id": "6255d46b2e405e04ff3b7781:categories:Drones:/drones",
       "sort": "views",
       "title": "Alcance lugares mais altos.",
-      "autoplay": 5000
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": "",
-      "page": "",
-      "collection_id": "61b397340c7c727225c548cc:categories:AirPods:/airpods",
-      "sort": "views",
-      "title": "Para todo mundo ouvir. Opções incomparáveis para um som de alta qualidade.",
-      "autoplay": 5000
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": "",
-      "page": "",
-      "collection_id": "61b397700c7c727225c54929:categories:Acessórios:/acessorios",
-      "sort": "views",
-      "title": "Feitos especialmente para seus aparelhos favoritos.",
       "autoplay": 5000
     },
     {
