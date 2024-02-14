@@ -50,37 +50,6 @@
       "autoplay": 5000
     },
     {
-      "type": "banner-slider",
-      "autoplay": 5000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-05-13T03:09:59.051Z",
-          "end": "2026-01-01T03:09:59.076Z",
-          "img": "/img/uploads/iphone-se-desktop-home-macpremier.png",
-          "mobile_img": "/img/uploads/iphone-se-mobile-home-macpremier.png",
-          "link": "https://www.macpremier.com.br/iphone-se-apple-tela-47-camera-12mp-ios",
-          "alt": "iPhone SE"
-        },
-        {
-          "start": "2022-05-13T03:10:39.110Z",
-          "end": "2026-01-01T03:10:39.176Z",
-          "img": "/img/uploads/iphone-13-desktop-home-macpremier.png",
-          "mobile_img": "/img/uploads/iphone-13-mobile-home-macpremier.png",
-          "alt": "iPhone 13",
-          "link": "https://www.macpremier.com.br/iphone-13-apple-ios-5g-wi-fi-tela-61-camera-dupla-12mp"
-        },
-        {
-          "start": "2022-05-13T03:11:05.038Z",
-          "end": "2026-01-01T03:11:05.080Z",
-          "img": "/img/uploads/iphone-13-pro-desktop-home-macpremier.png",
-          "mobile_img": "/img/uploads/iphone-13-pro-mobile-home-macpremier.png",
-          "link": "https://www.macpremier.com.br/apple-iphone-13-pro-ios-5g-wi-fi-tela-61-camera-tripla-12mp-sensor-lidar",
-          "alt": "iPhone 13 Pro"
-        }
-      ]
-    },
-    {
       "autoplay": 5000,
       "page": "",
       "title": "Fácil de usar, potente e pronto para trabalhar",
@@ -90,29 +59,6 @@
       "limit": "",
       "collection_id": "626da8733da6d37bc217629b:collections:Mac desktops:/mac-desktops",
       "sort": "views"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 5000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "2022-05-13T22:02:17.148Z",
-          "end": "2026-01-01T22:02:17.198Z",
-          "img": "/img/uploads/mac-mini-m1-desktop-home-macpremier.png",
-          "mobile_img": "/img/uploads/mac-mini-m1-mobile-home-macpremier.png",
-          "link": "https://www.macpremier.com.br/mac-desktops",
-          "alt": "Mac mini"
-        },
-        {
-          "start": "2022-05-13T22:01:32.585Z",
-          "end": "2026-01-01T22:01:32.632Z",
-          "img": "/img/uploads/imac-24p-desktop-home-macpremier.png",
-          "mobile_img": "/img/uploads/imac-24p-mobile-home-macpremier.png",
-          "link": "https://www.macpremier.com.br/mac-desktops",
-          "alt": "iMac de 24 polegadas"
-        }
-      ]
     },
     {
       "autoplay": 10000,
@@ -127,45 +73,6 @@
       "sort": "views"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 5000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "2022-05-15T19:35:46.896Z",
-          "end": "2024-01-01T19:35:46.926Z",
-          "img": "/img/uploads/macbook-air-m1-desktop-home-macpremier.png",
-          "mobile_img": "/img/uploads/macbook-air-m1-mobile-home-macpremier.png",
-          "link": "https://www.macpremier.com.br/macbook-air",
-          "alt": "MacBook Air de 13 Polegadas"
-        },
-        {
-          "start": "2022-05-15T19:36:24.924Z",
-          "end": "2024-01-01T19:36:24.968Z",
-          "img": "/img/uploads/macbook-pro-13p-desktop-home-macpremier.png",
-          "mobile_img": "/img/uploads/macbook-pro-13p-mobile-home-macpremier.png",
-          "alt": "MacBook Pro de 13 Polegadas",
-          "link": "https://www.macpremier.com.br/macbook-pro-13-com-chip-m1-cpu-de-8-nucleos-e-gpu-de-8-nucleos"
-        },
-        {
-          "start": "2022-05-15T19:37:00.708Z",
-          "end": "2024-01-01T19:37:00.755Z",
-          "img": "/img/uploads/macbook-pro-14p-desktop-home-macpremier.png",
-          "mobile_img": "/img/uploads/macbook-pro-14p-mobile-home-macpremier.png",
-          "alt": "MacBook Pro de 14 Polegadas",
-          "link": "https://www.macpremier.com.br/macbook-pro-14-polegadas"
-        },
-        {
-          "start": "2022-05-15T19:37:33.060Z",
-          "end": "2024-01-01T19:37:33.099Z",
-          "img": "/img/uploads/macbook-pro-16p-desktop-home-macpremier.png",
-          "mobile_img": "/img/uploads/macbook-pro-16p-mobile-home-macpremier.png",
-          "alt": "MacBook Pro de 16 Polegadas",
-          "link": "https://www.macpremier.com.br/macbook-pro-16-polegadas"
-        }
-      ]
-    },
-    {
       "autoplay": 5000,
       "page": "",
       "title": "iPad: Sim, ele faz isso. E muito mais.",
@@ -175,13 +82,6 @@
       "limit": "",
       "collection_id": "61b397010c7c727225c54875:categories:iPad:/ipad",
       "sort": "highest_price"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/ipad-pro-desktop-home-macpremier.png",
-      "mobile_img": "/img/uploads/ipad-pro-mobile-home-macpremier.png",
-      "alt": "iPad Pro - O poderoso chip M1 da Apple está aqui",
-      "link": "https://www.macpremier.com.br/ipad-pro"
     },
     {
       "type": "collection-shelf",
@@ -194,37 +94,6 @@
       "autoplay": 5000
     },
     {
-      "type": "banner-slider",
-      "autoplay": 5000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-05-12T04:12:53.298Z",
-          "end": "2024-01-01T04:12:53.334Z",
-          "img": "/img/uploads/watch-s3-desktop-home-macpremier.png",
-          "mobile_img": "/img/uploads/watch-s3-mobile-home-macpremier.png",
-          "link": "https://www.macpremier.com.br/watch-series-3",
-          "alt": "Apple Watch Series 3"
-        },
-        {
-          "start": "2022-05-12T04:13:34.587Z",
-          "end": "2024-01-01T04:13:34.651Z",
-          "img": "/img/uploads/watch-se-desktop-home-macpremier.png",
-          "mobile_img": "/img/uploads/watch-se-mobile-home-macpremier.png",
-          "alt": "Apple Watch SE",
-          "link": "https://www.macpremier.com.br/watch-se"
-        },
-        {
-          "start": "2022-05-12T04:14:09.026Z",
-          "end": "2024-01-01T04:14:09.078Z",
-          "img": "/img/uploads/watch-s7-desktop-home-macpremier.png",
-          "mobile_img": "/img/uploads/watch-s7-mobile-home-macpremier.png",
-          "alt": "Apple Watch S7",
-          "link": "https://www.macpremier.com.br/watch-series-7"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": "",
@@ -233,33 +102,6 @@
       "sort": "views",
       "title": "Alcance lugares mais altos.",
       "autoplay": 5000
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/mavic-3-macpremier.jpg",
-      "mobile_img": "/img/uploads/mavic-3-macpremier.jpg",
-      "alt": "Drone DJI Mavic 3",
-      "link": "https://www.macpremier.com.br/dji-mavic-3"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/dji-mini-2-macpremier.png",
-          "mobile_img": "/img/uploads/dji-mini-2-macpremier.png",
-          "alt": "Drone DJI Mini 2",
-          "link": "https://www.macpremier.com.br/dji-mini-2"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/mavic-air-2-macpremier.png",
-          "mobile_img": "/img/uploads/mavic-air-2-macpremier.png"
-        }
-      ]
     },
     {
       "type": "collection-shelf",
