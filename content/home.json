@@ -36,10 +36,6 @@
       "shelfs_title": "Escolha seu Apple por categoria"
     },
     {
-      "type": "blog",
-      "enabled": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": "",
@@ -102,6 +98,10 @@
       "sort": "views",
       "title": "Alcance lugares mais altos.",
       "autoplay": 5000
+    },
+    {
+      "type": "blog",
+      "enabled": true
     },
     {
       "type": "custom-html",
