@@ -27,12 +27,12 @@
       "enabled": true
     },
     {
-      "type": "related-products",
-      "title": "Talvez te interesse também"
-    },
-    {
       "type": "product-description",
       "enabled": true
+    },
+    {
+      "type": "related-products",
+      "title": "Talvez te interesse também"
     },
     {
       "type": "recommended-products",
