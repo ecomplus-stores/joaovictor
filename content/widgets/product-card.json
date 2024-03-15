@@ -5,6 +5,6 @@
   "options": {
     "buyText": "Comprar",
     "buy": "",
-    "footer": "CONTEÚDO ADICIONAL (OPCIONAL"
+    "footer": "<div class=\"product-card__colors\">"
   }
 }
