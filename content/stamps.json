@@ -28,6 +28,14 @@
       "skus": [
         "VXL8371"
       ]
+    },
+    {
+      "id": "M3 PRO",
+      "img": "/img/uploads/mbp-m3-pro-icon-202310.png",
+      "skus": [
+        "YMQ7916",
+        "HUU1006"
+      ]
     }
   ]
 }
