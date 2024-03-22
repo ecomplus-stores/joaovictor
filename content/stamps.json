@@ -1,7 +1,20 @@
 {
   "stamps_list": [
     {
-      "id": "Chip M2",
+      "id": "M1",
+      "img": "/img/uploads/m1-1.webp",
+      "skus": [
+        "CUQ4619",
+        "NHC7411",
+        "FUN3516",
+        "RGI5557",
+        "SIN9133",
+        "XXF2397",
+        "YVV3485"
+      ]
+    },
+    {
+      "id": "M2",
       "img": "/img/uploads/apple-m2-icon-mac-202301.png",
       "skus": [
         "BFW5581",
@@ -14,19 +27,6 @@
       "img": "/img/uploads/apple-m2-pro-icon-mac-202301.png",
       "skus": [
         "JKN1967"
-      ]
-    },
-    {
-      "id": "M1",
-      "img": "/img/uploads/m1-1.webp",
-      "skus": [
-        "CUQ4619",
-        "NHC7411",
-        "FUN3516",
-        "RGI5557",
-        "SIN9133",
-        "XXF2397",
-        "YVV3485"
       ]
     },
     {
@@ -49,6 +49,13 @@
       "img": "/img/uploads/mbp-m3-max-icon-202310.png",
       "skus": [
         "OSF6337"
+      ]
+    },
+    {
+      "id": "M1 PRO",
+      "img": "https://images.versus.io/objects/apple-m1-pro-10-core.front.variety.1635345805946.jpg",
+      "skus": [
+        "TTX4885"
       ]
     }
   ]
