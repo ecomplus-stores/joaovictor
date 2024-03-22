@@ -11,7 +11,10 @@
     },
     {
       "id": "M2 PRO",
-      "img": "/img/uploads/apple-m2-pro-icon-mac-202301.png"
+      "img": "/img/uploads/apple-m2-pro-icon-mac-202301.png",
+      "skus": [
+        "JKN1967"
+      ]
     },
     {
       "id": "M1",
