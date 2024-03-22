@@ -14,6 +14,20 @@
       ]
     },
     {
+      "id": "M1 PRO",
+      "img": "https://images.versus.io/objects/apple-m1-pro-10-core.front.variety.1635345805946.jpg",
+      "skus": [
+        "TTX4885"
+      ]
+    },
+    {
+      "id": "M1 MAX",
+      "img": "https://images.versus.io/objects/apple-m1-max.front.master.1635345816964.jpg",
+      "skus": [
+        "CXW4942"
+      ]
+    },
+    {
       "id": "M2",
       "img": "/img/uploads/apple-m2-icon-mac-202301.png",
       "skus": [
@@ -49,13 +63,6 @@
       "img": "/img/uploads/mbp-m3-max-icon-202310.png",
       "skus": [
         "OSF6337"
-      ]
-    },
-    {
-      "id": "M1 PRO",
-      "img": "https://images.versus.io/objects/apple-m1-pro-10-core.front.variety.1635345805946.jpg",
-      "skus": [
-        "TTX4885"
       ]
     }
   ]
