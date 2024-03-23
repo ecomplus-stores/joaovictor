@@ -59,6 +59,18 @@
       "autoplay": 5000
     },
     {
+      "type": "banner-slider",
+      "autoplay": 5000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/frame-40.jpg"
+        }
+      ]
+    },
+    {
       "autoplay": 5000,
       "page": "",
       "title": "iPad: Sim, ele faz isso. E muito mais.",
