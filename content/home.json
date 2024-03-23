@@ -36,6 +36,19 @@
       "shelfs_title": "Escolha seu Apple por categoria"
     },
     {
+      "type": "banner-slider",
+      "autoplay": 5000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/frame-38.svg",
+          "mobile_img": "/img/uploads/frame-39.svg"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": "",
