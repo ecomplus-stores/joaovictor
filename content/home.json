@@ -72,7 +72,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/frame-42-1-.png"
+          "img": "/img/uploads/frame-42-1-.png",
+          "mobile_img": "/img/uploads/frame-41.svg"
         }
       ]
     },
