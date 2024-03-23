@@ -140,6 +140,10 @@
         {
           "mobile_img": "/img/uploads/frame-42.svg",
           "img": "/img/uploads/frame-41.png"
+        },
+        {
+          "img": "/img/uploads/frame-42.svg",
+          "mobile_img": "/img/uploads/frame-41.png"
         }
       ]
     }
