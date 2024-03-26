@@ -57,7 +57,7 @@
       "sort": "highest_price"
     },
     {
-      "autoplay": 10000,
+      "autoplay": 5000,
       "page": "",
       "title": "Potência extrema para profissionais.",
       "shuffle": false,
