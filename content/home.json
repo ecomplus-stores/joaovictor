@@ -31,8 +31,8 @@
         "61b397340c7c727225c548cc:categories:AirPods:/airpods",
         "61b397210c7c727225c548b7:categories:Watch:/watch"
       ],
-      "sort": "views",
-      "autoplay": 0,
+      "sort": "highest_price",
+      "autoplay": 5000,
       "shelfs_title": "Escolha seu Apple por categoria"
     },
     {
