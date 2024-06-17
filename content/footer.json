@@ -117,7 +117,7 @@
   },
   "contacts": {
     "title": "Informações",
-    "phone_wpp": false,
+    "phone_wpp": true,
     "socials": true,
     "email": true,
     "address": true
