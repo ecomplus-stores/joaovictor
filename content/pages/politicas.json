@@ -1,15 +1,11 @@
 {
   "title": "Políticas",
-  "body": "![](/img/uploads/accept-terms-pana.svg)\n\n<h5><span style=\"text-decoration: underline;\"><a href=\"https://www.macpremier.com.br/pages/privacidade\"><span style=\"color: blue; text-decoration: underline;\">Pol&iacute;tica de privacidade</span></a></span></h5>\n<h5><span style=\"text-decoration: underline;\"><a href=\"https://www.macpremier.com.br/pages/politica-de-cookies\"><span style=\"color: blue; text-decoration: underline;\">Pol&iacute;tica de Cookies</span></a></span></h5>\n<h5><span style=\"text-decoration: underline;\"><a href=\"https://www.macpremier.com.br/pages/termos\"><span style=\"color: blue; text-decoration: underline;\">Termos de uso</span></a></span></h5>\n<h5><span style=\"text-decoration: underline;\"><a href=\"https://www.macpremier.com.br/pages/trocas\"><span style=\"color: blue; text-decoration: underline;\">Trocas e devolu&ccedil;&otilde;es</span></a></span></h5>",
+  "body": "![Políticas](/img/uploads/accept-terms-pana.svg \"Políticas\")\n\n<h5><span style=\"text-decoration: underline;\"><a href=\"https://www.macpremier.com.br/pages/privacidade\"><span style=\"color: blue; text-decoration: underline;\">Pol&iacute;tica de privacidade</span></a></span></h5>\n<h5><span style=\"text-decoration: underline;\"><a href=\"https://www.macpremier.com.br/pages/politica-de-cookies\"><span style=\"color: blue; text-decoration: underline;\">Pol&iacute;tica de Cookies</span></a></span></h5>\n<h5><span style=\"text-decoration: underline;\"><a href=\"https://www.macpremier.com.br/pages/termos\"><span style=\"color: blue; text-decoration: underline;\">Termos de uso</span></a></span></h5>\n<h5><span style=\"text-decoration: underline;\"><a href=\"https://www.macpremier.com.br/pages/trocas\"><span style=\"color: blue; text-decoration: underline;\">Trocas e devolu&ccedil;&otilde;es</span></a></span></h5>",
   "meta_description": "Prezado cliente, ao navegar e realizar compras em nosso e-commerce, você concorda com as políticas descritas abaixo. Estas políticas foram criadas para garantir uma experiência de compra segura, justa e transparente para todos os nossos clientes.",
   "meta_title": "Políticas | MacPremier (Brasil)",
   "sections": [
     {
       "type": "info-bar",
-      "enabled": true
-    },
-    {
-      "type": "breadcrumbs",
       "enabled": true
     },
     {
