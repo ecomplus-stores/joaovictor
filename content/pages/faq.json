@@ -9,10 +9,6 @@
       "enabled": true
     },
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
       "type": "page-title",
       "description": "Criamos esta página de FAQ para reunir as perguntas mais frequentes sobre nosso e-commerce. Aqui você encontrará respostas sobre compras, produtos, entrega, troca e devolução, entre outros assuntos.",
       "title": "Perguntas frequentes"
