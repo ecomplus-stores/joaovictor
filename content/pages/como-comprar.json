@@ -9,10 +9,6 @@
       "enabled": true
     },
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
       "type": "page-title",
       "description": "Comprar na MacPremier é muito fácil. Nossa loja foi desenvolvida com o que há de melhor em tecnologia, para uma navegabilidade rápida, agradável e fácil.",
       "title": "Como comprar no MacPremier?"
@@ -20,6 +16,10 @@
     {
       "type": "extra-page",
       "enabled": true
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<!--StartFragment-->\n\n- - -\n\n<!--EndFragment-->"
     },
     {
       "type": "blog",
