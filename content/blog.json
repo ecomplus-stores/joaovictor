@@ -8,10 +8,6 @@
       "enabled": true
     },
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
       "type": "page-title",
       "description": "Blog é dedicado a trazer as últimas novidades e tendências da indústria de eletrônicos, além de guiá-lo a uma melhor experiência de compra. Aqui, você encontrará artigos informativos e análises sobre produtos eletrônicos, dicas e truques para melhorar sua experiência com tecnologia, e muito mais. Seja você um entusiasta de tecnologia ou simplesmente procurando atualizações sobre o mundo dos eletrônicos, este é o lugar certo para ficar informado."
     },
