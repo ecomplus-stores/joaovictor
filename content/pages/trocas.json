@@ -9,10 +9,6 @@
       "enabled": true
     },
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
       "type": "page-title",
       "title": "Trocas e devoluções",
       "description": "Prezado cliente, a  presente Política de Trocas e Devoluções tem como objetivo garantir sua satisfação com as compras realizadas em nosso e-commerce."
@@ -20,6 +16,10 @@
     {
       "type": "extra-page",
       "enabled": true
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<!--StartFragment-->\n\n- - -\n\n<!--EndFragment-->"
     },
     {
       "type": "blog",
