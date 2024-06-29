@@ -4,12 +4,12 @@
   "meta_title": "Teste",
   "sections": [
     {
-      "type": "extra-page",
+      "type": "info-bar",
       "enabled": true
     },
     {
-      "type": "custom-html",
-      "html": "<div formsappId=\"667f6c5d3c68b4292f7f73c9\"></div>\n<script src=\"https://forms.app/static/embed.js\" type=\"text/javascript\" async defer onload=\"new formsapp('667f6c5d3c68b4292f7f73c9', 'standard', {'width':'100vw','height':'600px','opacity':0});\"></script>"
+      "type": "extra-page",
+      "enabled": true
     }
   ]
 }
