@@ -116,9 +116,9 @@
     ]
   },
   "contacts": {
-    "title": "Informações",
-    "phone_wpp": true,
-    "socials": true,
+    "title": "Contate-nos",
+    "phone_wpp": false,
+    "socials": false,
     "email": true,
     "address": true
   },
