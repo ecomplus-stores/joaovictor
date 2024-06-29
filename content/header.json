@@ -40,8 +40,8 @@
         "link": "https://www.macpremier.com.br/pages/contato"
       }
     ],
-    "phone_wpp": true,
-    "socials": true
+    "phone_wpp": false,
+    "socials": false
   },
   "categories_list": {
     "featured": [
