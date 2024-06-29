@@ -8,36 +8,36 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Políticas",
-        "link": "https://www.macpremier.com.br/pages/politicas"
-      },
-      {
         "title": "Segurança",
         "link": "https://www.macpremier.com.br/pages/guia-de-seguranca"
-      },
-      {
-        "title": "Blog",
-        "link": "https://www.macpremier.com.br/blog"
-      },
-      {
-        "title": "F.A.Q.",
-        "link": "https://www.macpremier.com.br/pages/faq"
       },
       {
         "title": "Como comprar?",
         "link": "https://www.macpremier.com.br/pages/como-comprar"
       },
       {
-        "title": "Rastreio",
-        "link": "https://melhorrastreio.com.br"
+        "title": "F.A.Q.",
+        "link": "https://www.macpremier.com.br/pages/faq"
+      },
+      {
+        "title": "Fale conosco",
+        "link": "https://www.macpremier.com.br/pages/contato"
+      },
+      {
+        "title": "Políticas",
+        "link": "https://www.macpremier.com.br/pages/politicas"
       },
       {
         "title": "CDC",
         "link": "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.pdf"
       },
       {
-        "title": "Fale conosco",
-        "link": "https://www.macpremier.com.br/pages/contato"
+        "title": "Rastreio",
+        "link": "https://melhorrastreio.com.br"
+      },
+      {
+        "title": "Blog",
+        "link": "https://www.macpremier.com.br/blog"
       }
     ],
     "phone_wpp": false,
