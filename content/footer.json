@@ -140,11 +140,11 @@
       "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.macpremier.com.br&hl=pt-br"
     },
     {
-      "src": "/img/uploads/frame-40-1-.png",
+      "src": "/img/uploads/norton-secured.svg",
       "link": "https://safeweb.norton.com/report?url=macpremier.com.br"
     },
     {
-      "src": "/img/uploads/frame-43.png",
+      "src": "/img/uploads/ssl-labs.svg",
       "link": "https://www.ssllabs.com/ssltest/analyze.html?d=macpremier.com.br"
     }
   ],
