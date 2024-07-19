@@ -141,27 +141,12 @@
     {
       "src": "/img/uploads/ssl-shopper-logo.svg",
       "link": "https://www.sslshopper.com/ssl-checker.html#hostname=macpremier.com.br"
-    },
-    {
-      "src": "/img/uploads/pngegg.png"
-    },
-    {
-      "link": "https://www.gov.br/anac/pt-br/assuntos/drones/registros-e-certificados-de-drones",
-      "src": "/img/uploads/anac-logo-7.png"
-    },
-    {
-      "src": "/img/uploads/em-breve-app-store.png",
-      "alt": "Em breve para iPhone"
-    },
-    {
-      "src": "/img/uploads/em-breve-google-play.png",
-      "alt": "Em breve para Android"
     }
   ],
   "payment_methods": {
     "bb": false,
     "visa": true,
-    "boleto": true,
+    "boleto": false,
     "aura": false,
     "banrisul": false,
     "elo": false,
