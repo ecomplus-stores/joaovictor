@@ -128,6 +128,12 @@
   },
   "stamps": [
     {
+      "src": "/img/uploads/trustpilot.svg"
+    },
+    {
+      "src": "/img/uploads/sslshopper.svg"
+    },
+    {
       "src": "/img/uploads/0x0.png",
       "link": "https://br.trustpilot.com/review/macpremier.com.br"
     },
@@ -146,12 +152,6 @@
     {
       "src": "/img/uploads/frame-43.png",
       "link": "https://www.ssllabs.com/ssltest/analyze.html?d=macpremier.com.br"
-    },
-    {
-      "src": "/img/uploads/trustpilot.svg"
-    },
-    {
-      "src": "/img/uploads/sslshopper.svg"
     }
   ],
   "payment_methods": {
