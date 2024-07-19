@@ -8,11 +8,11 @@
       "enabled": true
     },
     {
-      "type": "search-engine",
+      "type": "info-bar",
       "enabled": true
     },
     {
-      "type": "info-bar",
+      "type": "search-engine",
       "enabled": true
     },
     {
