@@ -128,16 +128,16 @@
   },
   "stamps": [
     {
+      "src": "/img/uploads/0x0.png",
+      "link": "https://br.trustpilot.com/review/macpremier.com.br"
+    },
+    {
       "src": "/img/uploads/ssl-shopper-logo.svg",
       "link": "https://www.sslshopper.com/ssl-checker.html#hostname=macpremier.com.br"
     },
     {
       "src": "/img/uploads/safebrowser-2-300x266-1-3342087394.png",
       "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.macpremier.com.br&hl=pt-br"
-    },
-    {
-      "src": "/img/uploads/0x0.png",
-      "link": "https://br.trustpilot.com/review/macpremier.com.br"
     },
     {
       "src": "/img/uploads/frame-40-1-.png",
