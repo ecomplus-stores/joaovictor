@@ -142,6 +142,10 @@
     {
       "src": "/img/uploads/frame-40-1-.png",
       "link": "https://safeweb.norton.com/report?url=macpremier.com.br"
+    },
+    {
+      "src": "/img/uploads/frame-43.png",
+      "link": "https://www.ssllabs.com/ssltest/analyze.html?d=macpremier.com.br"
     }
   ],
   "payment_methods": {
