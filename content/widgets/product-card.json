@@ -3,7 +3,7 @@
   "active": true,
   "desktopOnly": false,
   "options": {
-    "buyText": "Quickview",
+    "buyText": "Adicionar",
     "buy": "",
     "footer": "<div class=\"product-card__colors\">"
   }
