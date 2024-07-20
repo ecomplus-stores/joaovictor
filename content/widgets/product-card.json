@@ -3,7 +3,7 @@
   "active": true,
   "desktopOnly": false,
   "options": {
-    "buyText": "Espiar",
+    "buyText": "Quickview",
     "buy": "",
     "footer": "<div class=\"product-card__colors\">"
   }
