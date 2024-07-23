@@ -19,8 +19,8 @@
       "end": "2023-09-23T18:34:35.610Z"
     },
     {
-      "type": "related-products",
-      "title": "Talvez te interesse também"
+      "type": "buy-together",
+      "enabled": false
     },
     {
       "type": "product-specifications",
@@ -29,6 +29,10 @@
     {
       "type": "product-description",
       "enabled": true
+    },
+    {
+      "type": "related-products",
+      "title": "Talvez te interesse também"
     },
     {
       "type": "recommended-products",
