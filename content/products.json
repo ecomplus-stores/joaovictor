@@ -23,10 +23,6 @@
       "title": "Talvez te interesse também"
     },
     {
-      "type": "buy-together",
-      "enabled": true
-    },
-    {
       "type": "product-specifications",
       "enabled": true
     },
