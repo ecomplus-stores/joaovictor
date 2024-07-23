@@ -23,12 +23,12 @@
       "enabled": true
     },
     {
-      "type": "product-description",
-      "enabled": true
-    },
-    {
       "type": "related-products",
       "title": "Talvez te interesse também"
+    },
+    {
+      "type": "product-description",
+      "enabled": true
     },
     {
       "type": "recommended-products",
