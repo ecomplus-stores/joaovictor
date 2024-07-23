@@ -23,10 +23,6 @@
       "enabled": true
     },
     {
-      "type": "buy-together",
-      "enabled": true
-    },
-    {
       "type": "product-description",
       "enabled": true
     },
