@@ -27,6 +27,10 @@
       "enabled": true
     },
     {
+      "type": "buy-together",
+      "enabled": true
+    },
+    {
       "type": "related-products",
       "title": "Talvez te interesse também"
     },
