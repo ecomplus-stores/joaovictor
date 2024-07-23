@@ -24,7 +24,7 @@
     },
     {
       "type": "buy-together",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "product-description",
