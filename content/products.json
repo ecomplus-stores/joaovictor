@@ -19,15 +19,15 @@
       "end": "2023-09-23T18:34:35.610Z"
     },
     {
+      "type": "buy-together",
+      "enabled": true
+    },
+    {
       "type": "product-specifications",
       "enabled": true
     },
     {
       "type": "product-description",
-      "enabled": true
-    },
-    {
-      "type": "buy-together",
       "enabled": true
     },
     {
