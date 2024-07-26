@@ -27,6 +27,10 @@
       "title": "Talvez te interesse também"
     },
     {
+      "type": "custom-html",
+      "html": "<script> \n\tdocument.addEventListener('DOMContentLoaded', function() {\n\t\tconst trustpilot_invitation = {\n   \t\t\trecipientEmail: 'john@gmail.com',\n   \t\t\trecipientName: 'John',\n   \t\t\treferenceId: 'Order_123',\n   \t\t\tsource: 'InvitationScript',\n   \t\t\tproductSkus: ['sku_1', 'sku_2'],\n   \t\t\tproducts: [{\n\t\t\t\t\tsku: 'sku_1',\n\t\t\t\t\tproductUrl: 'https://your_shop.com/product/1',\n\t\t\t\t\timageUrl: 'https://your_shop.com/product/images/1',\n\t\t\t\t\tname: 'test_product_1',\n\t\t\t\t}, {\n\t\t\t\t\tsku: 'sku_2',\n\t\t\t\t\tproductUrl: 'https://your_shop.com/product/2',\n\t\t\t\t\timageUrl: 'https://your_shop.com/product/images/2',\n\t\t\t\t\tname: 'test_product_2',\n\t\t\t\t}],\n  \t\t};\n  \t\ttp('createInvitation', trustpilot_invitation);\n\t});\n</script>"
+    },
+    {
       "type": "product-description",
       "enabled": true
     },
@@ -45,10 +49,6 @@
     {
       "type": "custom-html",
       "html": "<!-- TrustBox widget - Micro Review Count -->\n<div class=\"trustpilot-widget\" data-locale=\"en-US\" data-template-id=\"5419b6a8b0d04a076446a9ad\" data-businessunit-id=\"63e121c52ba9106ee583db9f\" data-style-height=\"24px\" data-style-width=\"100%\" data-theme=\"light\" data-min-review-count=\"10\" data-without-reviews-preferred-string-id=\"2\" data-style-alignment=\"center\">\n  <a href=\"https://www.trustpilot.com/review/macpremier.com.br\" target=\"_blank\" rel=\"noopener\">Trustpilot</a>\n</div>\n<!-- End TrustBox widget -->"
-    },
-    {
-      "type": "custom-html",
-      "html": "<script> \n\tdocument.addEventListener('DOMContentLoaded', function() {\n\t\tconst trustpilot_invitation = {\n   \t\t\trecipientEmail: 'john@gmail.com',\n   \t\t\trecipientName: 'John',\n   \t\t\treferenceId: 'Order_123',\n   \t\t\tsource: 'InvitationScript',\n   \t\t\tproductSkus: ['sku_1', 'sku_2'],\n   \t\t\tproducts: [{\n\t\t\t\t\tsku: 'sku_1',\n\t\t\t\t\tproductUrl: 'https://your_shop.com/product/1',\n\t\t\t\t\timageUrl: 'https://your_shop.com/product/images/1',\n\t\t\t\t\tname: 'test_product_1',\n\t\t\t\t}, {\n\t\t\t\t\tsku: 'sku_2',\n\t\t\t\t\tproductUrl: 'https://your_shop.com/product/2',\n\t\t\t\t\timageUrl: 'https://your_shop.com/product/images/2',\n\t\t\t\t\tname: 'test_product_2',\n\t\t\t\t}],\n  \t\t};\n  \t\ttp('createInvitation', trustpilot_invitation);\n\t});\n</script>"
     }
   ]
 }
