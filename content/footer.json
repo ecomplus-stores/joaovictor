@@ -8,28 +8,20 @@
     "title": "Institucional/links",
     "list": [
       {
-        "text": "F.A.Q.",
-        "url": "https://www.macpremier.com.br/pages/faq"
-      },
-      {
-        "text": "Como comprar?",
-        "url": "https://www.macpremier.com.br/pages/como-comprar"
-      },
-      {
-        "text": "Segurança",
-        "url": "https://www.macpremier.com.br/pages/guia-de-seguranca"
-      },
-      {
-        "text": "Blog",
-        "url": "https://www.macpremier.com.br/blog"
-      },
-      {
-        "text": "Rastreio rápido",
-        "url": "https://melhorrastreio.com.br/"
+        "text": "Sobre nós",
+        "url": "https://www.macpremier.com.br/sobre-nos"
       },
       {
         "url": "https://www.macpremier.com.br/pages/contato",
         "text": "Fale conosco"
+      },
+      {
+        "text": "Termos de serviço",
+        "url": "https://www.macpremier.com.br/pages/termos"
+      },
+      {
+        "url": "https://www.macpremier.com.br/pages/trocas",
+        "text": "Trocas, devoluções e reembolso"
       },
       {
         "text": "Política de privacidade",
@@ -44,28 +36,36 @@
         "url": "https://www.macpremier.com.br/pages/lgpd"
       },
       {
-        "text": "Termos de serviço",
-        "url": "https://www.macpremier.com.br/pages/termos"
-      },
-      {
-        "url": "https://www.macpremier.com.br/pages/trocas",
-        "text": "Trocas, devoluções e reembolso"
-      },
-      {
-        "text": "Sobre nós",
-        "url": "https://www.macpremier.com.br/sobre-nos"
+        "url": "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.pdf",
+        "text": "Código de Defesa do Consumidor"
       },
       {
         "text": "Procon-PI",
         "url": "https://www.mppi.mp.br/internet/procon/"
       },
       {
-        "url": "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.pdf",
-        "text": "Código de Defesa do Consumidor"
+        "text": "F.A.Q.",
+        "url": "https://www.macpremier.com.br/pages/faq"
+      },
+      {
+        "text": "Como comprar?",
+        "url": "https://www.macpremier.com.br/pages/como-comprar"
+      },
+      {
+        "text": "Segurança",
+        "url": "https://www.macpremier.com.br/pages/guia-de-seguranca"
       },
       {
         "text": "Como fazer pagamentos via Pix?",
         "url": "https://www.macpremier.com.br/pages/como-fazer-transferencias-via-pix"
+      },
+      {
+        "text": "Blog",
+        "url": "https://www.macpremier.com.br/blog"
+      },
+      {
+        "text": "Rastreio rápido",
+        "url": "https://melhorrastreio.com.br/"
       }
     ]
   },
