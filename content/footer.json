@@ -113,7 +113,7 @@
   },
   "contacts": {
     "title": "Contate-nos",
-    "phone_wpp": false,
+    "phone_wpp": true,
     "socials": false,
     "email": true,
     "address": true
