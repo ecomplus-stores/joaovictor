@@ -128,7 +128,7 @@
       "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.macpremier.com.br&hl=pt-br"
     },
     {
-      "src": "https://www.adequim.com.br/img/uploads/ssl-safe.png",
+      "src": "/img/uploads/ssl-encryption.svg",
       "link": "https://www.sslshopper.com/ssl-checker.html#hostname=macpremier.com.br"
     }
   ],
