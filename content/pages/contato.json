@@ -2,7 +2,7 @@
   "title": "Fale conosco",
   "meta_title": "Fale conosco | MacPremier (Brasil)",
   "meta_description": "Adoraríamos ouvir o que você tem a dizer",
-  "body": "<div formsappId=\"667f71bc0ab1f7542c246baa\"></div>\n<script src=\"https://forms.app/static/embed.js\" type=\"text/javascript\" async defer onload=\"new formsapp('667f71bc0ab1f7542c246baa', 'standard', {'width':'100vw','height':'2800px'});\"></script>",
+  "body": "<div formsappId=\"667f71bc0ab1f7542c246baa\"></div>\n<script src=\"https://forms.app/static/embed.js\" type=\"text/javascript\" async defer onload=\"new formsapp('667f71bc0ab1f7542c246baa', 'fullscreen', {'opacity':0});\"></script>",
   "sections": [
     {
       "type": "info-bar",
