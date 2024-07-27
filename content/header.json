@@ -8,12 +8,12 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Segurança",
-        "link": "https://www.macpremier.com.br/pages/guia-de-seguranca"
-      },
-      {
         "title": "Como comprar?",
         "link": "https://www.macpremier.com.br/pages/como-comprar"
+      },
+      {
+        "title": "Guia de segurança",
+        "link": "https://www.macpremier.com.br/pages/guia-de-seguranca"
       },
       {
         "title": "Fale conosco",
@@ -24,7 +24,7 @@
         "link": "https://www.macpremier.com.br/pages/faq"
       },
       {
-        "title": "Políticas",
+        "title": "Nossas políticas",
         "link": "https://www.macpremier.com.br/pages/politicas"
       },
       {
@@ -32,7 +32,7 @@
         "link": "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.pdf"
       },
       {
-        "title": "Rastreio",
+        "title": "Rastreio rápido",
         "link": "https://melhorrastreio.com.br"
       },
       {
@@ -40,7 +40,7 @@
         "link": "https://www.macpremier.com.br/blog"
       }
     ],
-    "phone_wpp": true,
+    "phone_wpp": false,
     "socials": true
   },
   "categories_list": {
