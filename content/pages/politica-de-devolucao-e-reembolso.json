@@ -1,0 +1,23 @@
+{
+  "title": "Política de devolução e reembolso",
+  "meta_title": "Política de devolução e reembolso",
+  "meta_description": "Prezado cliente, a presente Política de Trocas e Devoluções tem como objetivo garantir sua satisfação com as compras realizadas em nosso e-commerce.",
+  "sections": [
+    {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "custom-html",
+      "html": "aaa"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    }
+  ],
+  "body": "<!--StartFragment-->\n\n1. * o para aceitar devoluções\n   * Quando o cliente deve receber o reembolso\n2. Os links para a política de devolução e reembolso precisam estar acessíveis.\n3. A política precisa ser consistente em todo o site, como no rodapé, na página de devoluções e no banner da Web.\n4. Use o idioma oficial dos países que você quiser segmentar.\n\n   * A política de devolução e reembolso também deve ser escrita no mesmo idioma usado no site.\n5. A política precisa ser acessível para todos os usuários que acessarem a loja on-line sem exigir login, cadastro no site ou informações pessoais.\n\nEnvie feedback sobre este artigo\n\n<!--EndFragment-->"
+}
