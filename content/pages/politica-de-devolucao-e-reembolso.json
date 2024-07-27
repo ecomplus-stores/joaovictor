@@ -8,7 +8,9 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "description": "Prezado cliente, ao navegar e realizar compras em nosso e-commerce, você concorda com as políticas descritas abaixo. Estas políticas foram criadas para garantir uma experiência de compra segura, justa e transparente para todos os nossos clientes.",
+      "title": "Política de devolução e reembolso"
     },
     {
       "type": "custom-html",
