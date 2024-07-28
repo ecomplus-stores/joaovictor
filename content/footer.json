@@ -16,36 +16,48 @@
         "text": "Fale conosco"
       },
       {
-        "url": "https://www.macpremier.com.br/pages/politica-de-devolucao-e-reembolso",
-        "text": "Devolução e reembolso"
-      },
-      {
-        "text": "Termos de serviço",
-        "url": "https://www.macpremier.com.br/pages/termos"
-      },
-      {
-        "text": "Política de privacidade",
-        "url": "https://www.macpremier.com.br/pages/privacidade"
+        "text": "Blog",
+        "url": "https://www.macpremier.com.br/blog"
       },
       {
         "text": "Política de cookies",
         "url": "https://www.macpremier.com.br/pages/politica-de-cookies"
       },
       {
+        "text": "Política de privacidade",
+        "url": "https://www.macpremier.com.br/pages/privacidade"
+      },
+      {
+        "text": "Termos de serviço",
+        "url": "https://www.macpremier.com.br/pages/termos"
+      },
+      {
         "text": "Formas de pagamento",
         "url": "https://www.macpremier.com.br/pages/formas-de-pagamento"
       },
       {
-        "text": "Procon-PI",
-        "url": "https://www.mppi.mp.br/internet/procon/"
+        "url": "https://www.macpremier.com.br/pages/condicoes-de-entrega",
+        "text": "Condições de entrega"
+      },
+      {
+        "text": "Rastreio rápido",
+        "url": "https://melhorrastreio.com.br/"
+      },
+      {
+        "url": "https://www.macpremier.com.br/pages/politica-de-devolucao-e-reembolso",
+        "text": "Devolução e reembolso"
+      },
+      {
+        "text": "LGPD",
+        "url": "https://www.macpremier.com.br/pages/lgpd"
       },
       {
         "url": "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.pdf",
         "text": "Código de Defesa do Consumidor"
       },
       {
-        "text": "LGPD",
-        "url": "https://www.macpremier.com.br/pages/lgpd"
+        "text": "Procon-PI",
+        "url": "https://www.mppi.mp.br/internet/procon/"
       },
       {
         "text": "F.A.Q.",
@@ -62,18 +74,6 @@
       {
         "text": "Como fazer pagamentos via Pix?",
         "url": "https://www.macpremier.com.br/pages/como-fazer-transferencias-via-pix"
-      },
-      {
-        "text": "Blog",
-        "url": "https://www.macpremier.com.br/blog"
-      },
-      {
-        "text": "Rastreio rápido",
-        "url": "https://melhorrastreio.com.br/"
-      },
-      {
-        "url": "https://www.macpremier.com.br/pages/condicoes-de-entrega",
-        "text": "Condições de entrega"
       }
     ]
   },
