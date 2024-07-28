@@ -17,7 +17,7 @@
       },
       {
         "url": "https://www.macpremier.com.br/pages/politica-de-devolucao-e-reembolso",
-        "text": "Devoluções e reembolso"
+        "text": "Devolução e reembolso"
       },
       {
         "text": "Termos de serviço",
@@ -70,6 +70,10 @@
       {
         "text": "Rastreio rápido",
         "url": "https://melhorrastreio.com.br/"
+      },
+      {
+        "url": "https://www.macpremier.com.br/pages/condicoes-de-entrega",
+        "text": "Condições de entrega"
       }
     ]
   },
