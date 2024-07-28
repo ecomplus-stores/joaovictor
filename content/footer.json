@@ -16,12 +16,12 @@
         "text": "Fale conosco"
       },
       {
-        "text": "Termos de serviço",
-        "url": "https://www.macpremier.com.br/pages/termos"
+        "url": "https://www.macpremier.com.br/pages/politica-de-devolucao-e-reembolso",
+        "text": "Devoluções e reembolso"
       },
       {
-        "url": "https://www.macpremier.com.br/pages/trocas",
-        "text": "Trocas, devoluções e reembolso"
+        "text": "Termos de serviço",
+        "url": "https://www.macpremier.com.br/pages/termos"
       },
       {
         "text": "Política de privacidade",
@@ -30,6 +30,10 @@
       {
         "text": "Política de cookies",
         "url": "https://www.macpremier.com.br/pages/politica-de-cookies"
+      },
+      {
+        "text": "Formas de pagamento",
+        "url": "https://www.macpremier.com.br/pages/formas-de-pagamento"
       },
       {
         "text": "Lei Geral de Proteção de Dados (LGPD)",
