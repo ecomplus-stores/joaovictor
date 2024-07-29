@@ -9,7 +9,8 @@
     },
     {
       "type": "page-title",
-      "title": "Política de entrega"
+      "title": "Política de entrega",
+      "description": "Entendemos a importância de uma entrega eficiente e confiável. Nossa prioridade é garantir que seus produtos cheguem até você de forma rápida e segura. Esta política de entrega foi criada para fornecer informações necessárias sobre nossos processos de envio, prazos, custos e como lidar com possíveis problemas que possam surgir."
     },
     {
       "type": "custom-html",
@@ -19,5 +20,6 @@
       "type": "extra-page",
       "enabled": true
     }
-  ]
+  ],
+  "meta_description": "Entendemos a importância de uma entrega eficiente e confiável. Nossa prioridade é garantir que seus produtos cheguem até você de forma rápida e segura. Esta política de entrega foi criada para fornecer informações necessárias sobre nossos processos de envio, prazos, custos e como lidar com possíveis problemas que possam surgir."
 }
