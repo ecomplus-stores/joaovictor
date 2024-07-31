@@ -1,4 +1,17 @@
 {
   "title": "Compra segura",
-  "body": "Compra segura"
+  "body": "Compra segura",
+  "meta_title": "Compra Segura na MacPremier: Compromisso com a Sua Segurança",
+  "meta_description": "Bem-vindo a MacPremier! Sabemos que, ao realizar compras online, é importante sentir-se seguro e confiante de que suas informações estão protegidas e de que você receberá o produto desejado. Embora sejamos um e-commerce relativamente novo, estamos comprometidos em garantir uma experiência de compra segura e satisfatória para todos os nossos clientes.",
+  "sections": [
+    {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
+      "type": "page-title",
+      "description": "Bem-vindo a MacPremier! Sabemos que, ao realizar compras online, é importante sentir-se seguro e confiante de que suas informações estão protegidas e de que você receberá o produto desejado. Embora sejamos um e-commerce relativamente novo, estamos comprometidos em garantir uma experiência de compra segura e satisfatória para todos os nossos clientes.",
+      "title": "Compra Segura na MacPremier: Compromisso com a Sua Segurança"
+    }
+  ]
 }
