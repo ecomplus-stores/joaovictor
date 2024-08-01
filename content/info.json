@@ -2,7 +2,8 @@
   "shipping": {
     "show": true,
     "text": "Seu novo dispositivo com condições incrivelmente melhores!",
-    "title": "Economize mais"
+    "title": "Economize mais",
+    "link": "https://www.macpremier.com.br/pages/formas-de-pagamento"
   },
   "installments": {
     "show": true,
