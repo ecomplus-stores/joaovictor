@@ -18,6 +18,10 @@
     {
       "type": "extra-page",
       "enabled": true
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ],
   "meta_title": "Sobre nós | MacPremier",
