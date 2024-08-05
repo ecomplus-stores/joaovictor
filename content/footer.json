@@ -28,6 +28,10 @@
         "text": "Política de cookies"
       },
       {
+        "text": "LGPD",
+        "url": "https://www.macpremier.com.br/pages/lgpd"
+      },
+      {
         "url": "https://www.macpremier.com.br/pages/formas-de-pagamento",
         "text": "Formas de pagamento"
       },
@@ -38,22 +42,6 @@
       {
         "text": "Política de devolução e reembolso",
         "url": "https://www.macpremier.com.br/pages/politica-de-devolucao-e-reembolso"
-      },
-      {
-        "text": "Blog",
-        "url": "https://www.macpremier.com.br/blog"
-      },
-      {
-        "text": "Rastreio rápido",
-        "url": "https://melhorrastreio.com.br/"
-      },
-      {
-        "url": "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.pdf",
-        "text": "Código de Defesa do Consumidor"
-      },
-      {
-        "text": "Procon-PI",
-        "url": "https://www.mppi.mp.br/internet/procon/"
       },
       {
         "text": "Como comprar?",
@@ -68,8 +56,20 @@
         "url": "https://www.macpremier.com.br/pages/faq"
       },
       {
-        "text": "LGPD",
-        "url": "https://www.macpremier.com.br/pages/lgpd"
+        "url": "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.pdf",
+        "text": "Código de Defesa do Consumidor"
+      },
+      {
+        "text": "Procon-PI",
+        "url": "https://www.mppi.mp.br/internet/procon/"
+      },
+      {
+        "text": "Rastreio rápido",
+        "url": "https://melhorrastreio.com.br/"
+      },
+      {
+        "text": "Blog",
+        "url": "https://www.macpremier.com.br/blog"
       }
     ]
   },
