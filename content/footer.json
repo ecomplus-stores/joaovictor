@@ -8,6 +8,38 @@
     "title": "Institucional/links ",
     "list": [
       {
+        "url": "https://www.macpremier.com.br/pages/sobre-nos",
+        "text": "Sobre nós"
+      },
+      {
+        "url": "https://www.macpremier.com.br/pages/contato",
+        "text": "Fale conosco"
+      },
+      {
+        "url": "https://www.macpremier.com.br/pages/termos",
+        "text": "Termos de serviço"
+      },
+      {
+        "url": "https://www.macpremier.com.br/pages/privacidade",
+        "text": "Política de privacidade"
+      },
+      {
+        "url": "https://www.macpremier.com.br/pages/politica-de-cookies",
+        "text": "Política de cookies"
+      },
+      {
+        "url": "https://www.macpremier.com.br/pages/formas-de-pagamento",
+        "text": "Formas de pagamento"
+      },
+      {
+        "text": "Política de entrega",
+        "url": "https://www.macpremier.com.br/pages/politica-de-entrega"
+      },
+      {
+        "text": "Política de devolução e reembolso",
+        "url": "https://www.macpremier.com.br/pages/politica-de-devolucao-e-reembolso"
+      },
+      {
         "text": "Blog",
         "url": "https://www.macpremier.com.br/blog"
       },
@@ -24,7 +56,7 @@
         "url": "https://www.mppi.mp.br/internet/procon/"
       },
       {
-        "text": "Como comprar",
+        "text": "Como comprar?",
         "url": "https://www.macpremier.com.br/pages/como-comprar"
       },
       {
@@ -32,44 +64,12 @@
         "url": "https://www.macpremier.com.br/pages/compra-segura"
       },
       {
-        "url": "https://www.macpremier.com.br/pages/contato",
-        "text": "Fale conosco"
-      },
-      {
         "text": "Perguntas frequentes",
         "url": "https://www.macpremier.com.br/pages/faq"
       },
       {
-        "url": "https://www.macpremier.com.br/pages/formas-de-pagamento",
-        "text": "Formas de pagamento"
-      },
-      {
         "text": "LGPD",
         "url": "https://www.macpremier.com.br/pages/lgpd"
-      },
-      {
-        "url": "https://www.macpremier.com.br/pages/politica-de-cookies",
-        "text": "Política de cookies"
-      },
-      {
-        "text": "Política de devolução e reembolso",
-        "url": "https://www.macpremier.com.br/pages/politica-de-devolucao-e-reembolso"
-      },
-      {
-        "text": "Política de entrega",
-        "url": "https://www.macpremier.com.br/pages/politica-de-entrega"
-      },
-      {
-        "url": "https://www.macpremier.com.br/pages/privacidade",
-        "text": "Política de privacidade"
-      },
-      {
-        "url": "https://www.macpremier.com.br/pages/sobre-nos",
-        "text": "Sobre nós"
-      },
-      {
-        "url": "https://www.macpremier.com.br/pages/termos",
-        "text": "Termos de serviço"
       }
     ]
   },
