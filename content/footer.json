@@ -8,48 +8,12 @@
     "title": "Institucional/links ",
     "list": [
       {
-        "text": "Sobre nós",
-        "url": "https://www.macpremier.com.br/pages/sobre-nos"
-      },
-      {
-        "url": "https://www.macpremier.com.br/pages/contato",
-        "text": "Fale conosco"
-      },
-      {
         "text": "Blog",
         "url": "https://www.macpremier.com.br/blog"
       },
       {
-        "text": "Política de cookies",
-        "url": "https://www.macpremier.com.br/pages/politica-de-cookies"
-      },
-      {
-        "text": "Política de privacidade",
-        "url": "https://www.macpremier.com.br/pages/privacidade"
-      },
-      {
-        "text": "Termos de serviço",
-        "url": "https://www.macpremier.com.br/pages/termos"
-      },
-      {
-        "text": "Formas de pagamento",
-        "url": "https://www.macpremier.com.br/pages/formas-de-pagamento"
-      },
-      {
-        "url": "https://www.macpremier.com.br/pages/condicoes-de-entrega",
-        "text": "Condições de entrega"
-      },
-      {
         "text": "Rastreio rápido",
         "url": "https://melhorrastreio.com.br/"
-      },
-      {
-        "url": "https://www.macpremier.com.br/pages/politica-de-devolucao-e-reembolso",
-        "text": "Devolução e reembolso"
-      },
-      {
-        "text": "LGPD",
-        "url": "https://www.macpremier.com.br/pages/lgpd"
       },
       {
         "url": "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.pdf",
@@ -60,20 +24,36 @@
         "url": "https://www.mppi.mp.br/internet/procon/"
       },
       {
-        "text": "F.A.Q.",
-        "url": "https://www.macpremier.com.br/pages/faq"
-      },
-      {
-        "text": "Como comprar?",
+        "text": "Como comprar",
         "url": "https://www.macpremier.com.br/pages/como-comprar"
       },
       {
-        "text": "Guia de segurança",
-        "url": "https://www.macpremier.com.br/pages/guia-de-seguranca"
+        "text": "Compra segura",
+        "url": "https://www.macpremier.com.br/pages/compra-segura"
       },
       {
-        "text": "Como fazer pagamentos via Pix?",
-        "url": "https://www.macpremier.com.br/pages/como-fazer-transferencias-via-pix"
+        "url": "https://www.macpremier.com.br/pages/contato",
+        "text": "Fale conosco"
+      },
+      {
+        "text": "Perguntas frequentes",
+        "url": "https://www.macpremier.com.br/pages/faq"
+      },
+      {
+        "url": "https://www.macpremier.com.br/pages/formas-de-pagamento",
+        "text": "Formas de pagamento"
+      },
+      {
+        "text": "LGPD",
+        "url": "https://www.macpremier.com.br/pages/lgpd"
+      },
+      {
+        "url": "https://www.macpremier.com.br/pages/politica-de-cookies",
+        "text": "Política de cookies"
+      },
+      {
+        "text": "Política de devolução e reembolso",
+        "url": "https://www.macpremier.com.br/pages/politica-de-devolucao-e-reembolso"
       }
     ]
   },
