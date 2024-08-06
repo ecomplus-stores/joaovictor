@@ -1,25 +1,25 @@
 {
   "shipping": {
     "show": true,
-    "text": "Seu novo dispositivo com condições incrivelmente melhores!",
+    "text": "Seu novo dispositivo com condições extraordinárias!",
     "title": "Economize mais",
     "link": "https://www.macpremier.com.br/pages/formas-de-pagamento"
   },
   "installments": {
     "show": true,
     "text": "Privacidade e segurança fazem parte do nosso DNA.",
-    "title": "Compra segura? Check!",
+    "title": "Compra segura? Check!Compra segura? Check!",
     "link": "https://www.macpremier.com.br/pages/compra-segura"
   },
   "exchange": {
     "show": true,
-    "text": "Aproveite o frete grátis para todo o Brasil.",
-    "title": "Envio",
+    "text": "Os custos de envio já estão incluídos no preço listado. Aproveite!",
+    "title": "Envio grátis",
     "link": "https://www.macpremier.com.br/pages/politica-de-entrega"
   },
   "promo": {
     "show": true,
-    "text": "Os custos adicionais já estão incluídos no preço listado.",
-    "title": "Sem surpresinhas! "
+    "text": "",
+    "title": ""
   }
 }
