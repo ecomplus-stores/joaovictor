@@ -28,6 +28,10 @@
         "link": "https://www.macpremier.com.br/pages/politicas"
       },
       {
+        "title": "Formas de pagamento",
+        "link": "https://www.macpremier.com.br/pages/formas-de-pagamento"
+      },
+      {
         "title": "Devolução e reembolso",
         "link": "https://www.macpremier.com.br/pages/politica-de-devolucao-e-reembolso"
       },
@@ -42,6 +46,10 @@
       {
         "title": "Blog",
         "link": "https://www.macpremier.com.br/blog"
+      },
+      {
+        "link": "https://www.macpremier.com.br/pages/sobre-nos",
+        "title": "Sobre nós"
       }
     ],
     "phone_wpp": false,
