@@ -19,19 +19,15 @@
       "end": "2023-09-23T18:34:35.610Z"
     },
     {
-      "type": "product-specifications",
-      "enabled": true
-    },
-    {
       "type": "related-products",
       "title": "Talvez te interesse também"
     },
     {
-      "type": "custom-html",
-      "html": "<script> \n\tdocument.addEventListener('DOMContentLoaded', function() {\n\t\tconst trustpilot_invitation = {\n   \t\t\trecipientEmail: 'john@gmail.com',\n   \t\t\trecipientName: 'John',\n   \t\t\treferenceId: 'Order_123',\n   \t\t\tsource: 'InvitationScript',\n   \t\t\tproductSkus: ['sku_1', 'sku_2'],\n   \t\t\tproducts: [{\n\t\t\t\t\tsku: 'sku_1',\n\t\t\t\t\tproductUrl: 'https://your_shop.com/product/1',\n\t\t\t\t\timageUrl: 'https://your_shop.com/product/images/1',\n\t\t\t\t\tname: 'test_product_1',\n\t\t\t\t}, {\n\t\t\t\t\tsku: 'sku_2',\n\t\t\t\t\tproductUrl: 'https://your_shop.com/product/2',\n\t\t\t\t\timageUrl: 'https://your_shop.com/product/images/2',\n\t\t\t\t\tname: 'test_product_2',\n\t\t\t\t}],\n  \t\t};\n  \t\ttp('createInvitation', trustpilot_invitation);\n\t});\n</script>"
+      "type": "product-description",
+      "enabled": true
     },
     {
-      "type": "product-description",
+      "type": "product-specifications",
       "enabled": true
     },
     {
