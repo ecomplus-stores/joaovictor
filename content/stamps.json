@@ -77,29 +77,6 @@
         "AUR4083",
         "TRU6326"
       ]
-    },
-    {
-      "id": "GALAXY AI",
-      "img": "/img/uploads/galaxy-ai-1-.svg",
-      "skus": [
-        "JIR1482",
-        "KFC3183",
-        "ZBV1013",
-        "FCA8895",
-        "RCJ2810"
-      ]
-    },
-    {
-      "id": "Marca: GoPro",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/GoPro_logo.svg",
-      "skus": [
-        "ZHU8516",
-        "GBH9400",
-        "QJW8801",
-        "FDM7258",
-        "GZN3091",
-        "LFX1479"
-      ]
     }
   ]
 }
