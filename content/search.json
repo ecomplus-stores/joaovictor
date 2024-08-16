@@ -1,13 +1,13 @@
 {
   "sections": [
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "page-title",
       "title": "Título (H1)",
       "description": "Descrição curta"
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     },
     {
       "type": "search-engine",
