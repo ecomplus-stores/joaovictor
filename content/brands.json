@@ -9,6 +9,11 @@
       "enabled": true
     },
     {
+      "type": "page-title",
+      "description": "Descrição curta (opcional) brands",
+      "title": "Título (H1) (opcional) brands"
+    },
+    {
       "type": "document-description",
       "enabled": true
     },
