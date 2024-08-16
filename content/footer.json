@@ -76,44 +76,7 @@
   "links_2": {
     "list_categories": true,
     "title": "Categorias",
-    "list": [
-      {
-        "text": "Acessórios",
-        "url": "https://macpremier.com.br/acessorios"
-      },
-      {
-        "text": "Áudio e vídeo",
-        "url": "https://www.macpremier.com.br/audio-e-video"
-      },
-      {
-        "text": "Desktops",
-        "url": "https://macpremier.com.br/desktops"
-      },
-      {
-        "text": "Drones",
-        "url": "https://macpremier.com.br/drones"
-      },
-      {
-        "text": "Notebooks",
-        "url": "https://macpremier.com.br/notebooks"
-      },
-      {
-        "text": "Smartphones",
-        "url": "https://macpremier.com.br/smartphones"
-      },
-      {
-        "text": "Smartwatches",
-        "url": "https://macpremier.com.br/smartwatches"
-      },
-      {
-        "text": "Tablets",
-        "url": "https://macpremier.com.br/tablets"
-      },
-      {
-        "text": "TV & Casa",
-        "url": "https://macpremier.com.br/tv-e-casa"
-      }
-    ]
+    "list": []
   },
   "contacts": {
     "title": "Atendimento",
