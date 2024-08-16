@@ -9,7 +9,9 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "description": "Descrição curta (opcional) SEO",
+      "title": "Título (H1) (opcional) SEO"
     },
     {
       "type": "document-description",
