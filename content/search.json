@@ -1,7 +1,9 @@
 {
   "sections": [
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "Título (H1)",
+      "description": "Descrição curta"
     },
     {
       "type": "info-bar",
