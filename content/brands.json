@@ -20,7 +20,7 @@
     {
       "type": "brand-retail",
       "enabled": true,
-      "sort": "highest_price"
+      "sort": "views"
     },
     {
       "type": "brands-carousel",
