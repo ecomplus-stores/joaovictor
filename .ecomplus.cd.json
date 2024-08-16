@@ -1,5 +1,5 @@
 {
-  "trigger": "66bfadad86679971c647c752",
-  "resource": "products",
-  "slug": "apple/airpods,apple/ipad,apple/iphone,apple/mac,samsung/galaxy"
+  "trigger": "66bfafe686679971c647ca26",
+  "resource": "categories",
+  "slug": "apple/iphone,apple/ipad,apple/watch,apple/airpods,apple/mac/macbook,samsung/galaxy,apple/mac,gopro/hero,garmin/forerunner,microsoft/xbox,apple/iphone/iphone-15,dji/mini,sony/playstation"
 }
