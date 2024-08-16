@@ -9,6 +9,11 @@
       "enabled": true
     },
     {
+      "type": "page-title",
+      "description": "Descrição curta (opcional)",
+      "title": "Título (H1) (opcional)"
+    },
+    {
       "type": "document-description",
       "enabled": true
     },
