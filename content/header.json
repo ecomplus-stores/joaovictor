@@ -53,6 +53,7 @@
   },
   "categories_list": {
     "featured": [
+      "/categorias?Especiais",
       "/mac?Mac",
       "/iphone?iPhone",
       "/macbook?MacBook",
