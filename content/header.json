@@ -53,22 +53,7 @@
   },
   "categories_list": {
     "featured": [
-      "/categorias?Especiais",
-      "/mac?Mac",
-      "/iphone?iPhone",
-      "/macbook?MacBook",
-      "/ipad?iPad",
-      "/mac-mini?Mac mini",
-      "/imac?iMac",
-      "/watch?Watch",
-      "/airpods?AirPods",
-      "/tv-e-casa?TV & Casa",
-      "/acessorios?Acessórios",
-      "/lancamentos?Lançamentos",
-      "/seminovos?Seminovos",
-      "/apple-computer?Apple Computer",
-      "/audio-e-video?Áudio e vídeo",
-      "/drones?Drones"
+      "/categorias?Especiais"
     ],
     "random": 0,
     "full_width": true
