@@ -53,20 +53,20 @@
   },
   "categories_list": {
     "featured": [
-      "/categorias?Especiais",
+      "/categorias?Categorias",
       "/apple/iphone?iPhone",
-      "/apple/ipad?iPad",
-      "/apple/watch?Watch",
-      "/apple/airpods?AirPods",
-      "/apple/mac/macbook?MacBook",
       "/samsung/galaxy?Galaxy",
-      "/apple/mac?Mac ",
-      "/gopro/hero?GoPro Hero",
       "/garmin/forerunner?Forerunner®",
+      "/apple/ipad?iPad",
+      "/sony/playstation?Playstation",
+      "/apple/mac/macbook?MacBook",
       "/microsoft/xbox?Xbox",
       "/dji/mini?DJI Mini",
-      "/sony/playstation?Playstation",
-      "/nintendo/switch?Nintendo Switch"
+      "/gopro/hero?GoPro Hero",
+      "/nintendo/switch?Nintendo Switch",
+      "/apple/watch?Watch",
+      "/apple/airpods?AirPods",
+      "/apple/acessorios?Acessórios Apple"
     ],
     "random": 0,
     "full_width": true
