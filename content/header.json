@@ -56,8 +56,17 @@
       "/categorias?Especiais",
       "/apple/iphone?iPhone",
       "/apple/ipad?iPad",
+      "/apple/watch?Watch",
+      "/apple/airpods?AirPods",
+      "/apple/mac/macbook?MacBook",
+      "/samsung/galaxy?Galaxy",
+      "/apple/mac?Mac ",
+      "/gopro/hero?GoPro Hero",
+      "/garmin/forerunner?Forerunner®",
       "/microsoft/xbox?Xbox",
-      "/apple/watch?Watch"
+      "/dji/mini?DJI Mini",
+      "/sony/playstation?Playstation",
+      "/nintendo/switch?Nintendo Switch"
     ],
     "random": 0,
     "full_width": true
