@@ -68,7 +68,7 @@
       "/sony/playstation?Playstation",
       "/nintendo/switch?Nintendo Switch"
     ],
-    "random": 0,
+    "random": 15,
     "full_width": true
   },
   "search_input": true,
