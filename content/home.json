@@ -28,103 +28,13 @@
       "autoplay": 5000
     },
     {
-      "type": "shelfs-nav",
+      "type": "collection-shelf",
       "shuffle": false,
       "limit": "",
       "page": 1,
-      "collection_ids": [
-        "6285b2d2df4d8071c9146d53:collections:Mac:/mac",
-        "61b396cd0c7c727225c54820:categories:iPhone:/iphone",
-        "61b397010c7c727225c54875:categories:iPad:/ipad",
-        "61b397340c7c727225c548cc:categories:AirPods:/airpods",
-        "61b397210c7c727225c548b7:categories:Watch:/watch"
-      ],
-      "sort": "highest_price",
-      "autoplay": 5000,
-      "shelfs_title": "Escolha seu Apple por categoria"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "650e1f412cd6b6595959fb4e:categories:Lançamentos:/lancamentos",
+      "collection_id": "66bfaae886679971c647c42f:categories:Forerunner®:/garmin/forerunner",
       "sort": "views",
-      "title": "O que há de novo?",
-      "autoplay": 5000
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": "",
-      "page": "",
-      "title": "Superpoderes na palma da mão.",
-      "collection_id": "61b396cd0c7c727225c54820:categories:iPhone:/iphone",
-      "sort": "highest_price",
-      "autoplay": 5000
-    },
-    {
-      "autoplay": 5000,
-      "page": "",
-      "title": "iPad: Sim, ele faz isso. E muito mais.",
-      "shuffle": false,
-      "headless": false,
-      "type": "collection-shelf",
-      "limit": "",
-      "collection_id": "61b397010c7c727225c54875:categories:iPad:/ipad",
-      "sort": "highest_price"
-    },
-    {
-      "autoplay": 5000,
-      "page": "",
-      "title": "Potência extrema para profissionais.",
-      "shuffle": false,
-      "headless": false,
-      "type": "collection-shelf",
-      "link": "",
-      "limit": "",
-      "collection_id": "61be335d0c7c727225d58200:categories:MacBook:/macbook",
-      "sort": "highest_price"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 8,
-      "page": 1,
-      "collection_id": "61b397210c7c727225c548b7:categories:Watch:/watch",
-      "sort": "sales",
-      "title": "Usá-lo é amá-lo.",
-      "autoplay": 5000
-    },
-    {
-      "autoplay": 5000,
-      "page": "",
-      "title": "Fácil de usar, potente e pronto para trabalhar",
-      "shuffle": false,
-      "type": "collection-shelf",
-      "link": "",
-      "limit": "",
-      "collection_id": "626da8733da6d37bc217629b:collections:Mac desktops:/mac-desktops",
-      "sort": "views"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": "",
-      "page": "",
-      "collection_id": "61b397700c7c727225c54929:categories:Acessórios:/acessorios",
-      "sort": "views",
-      "title": "Feitos especialmente para seus aparelhos favoritos.",
-      "autoplay": 5000
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": "",
-      "page": "",
-      "collection_id": "6255d46b2e405e04ff3b7781:categories:Drones:/drones",
-      "sort": "views",
-      "title": "Alcance lugares mais altos.",
+      "title": "Corra em um nível superior!",
       "autoplay": 5000
     },
     {
