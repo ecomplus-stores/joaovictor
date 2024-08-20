@@ -7,6 +7,19 @@
       "enabled": true
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/main-banner-desktop-home-macpremier.svg",
+          "mobile_img": "/img/uploads/main-banner-mobile-home-macpremier-2-.svg"
+        }
+      ]
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
