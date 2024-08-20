@@ -7,25 +7,15 @@
       "enabled": true
     },
     {
-      "type": "banner-slider",
-      "autoplay": 10000,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/main-banner-desktop-home-macpremier.svg",
-          "mobile_img": "/img/uploads/main-banner-mobile-home-macpremier-2-.svg",
-          "link": "https://www.macpremier.com.br/pages/sobre-nos "
-        }
-      ],
-      "full_width": true
-    },
-    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
       "sort": "name",
       "autoplay": 5000
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<div><strong style=\"color: rgb(49, 57, 68); font-size: 23px; letter-spacing: 0.5px;\">Capture a Aventura em Alta Definição!</strong><br></div>\n<hr>\n<p>Se você é apaixonado por aventuras e quer registrar cada momento com perfeição, a GoPro Hero é sua melhor companheira. Compacta, resistente e com qualidade de imagem impressionante, ela está pronta para acompanhar você em qualquer desafio, seja na água, na montanha ou nas ruas. Leve a GoPro Hero e compartilhe suas histórias com o mundo, como elas realmente são: cheias de adrenalina e emoção!</p><p><video controls=\"\" src=\" https://static.gopro.com/assets/blta2b8522e5372af40/bltbdc028bb222d7e25/64ddb9ce7eee3d0b46ae4fc0/13-CE_NextLevelProductionValue_1500x800.mp4\" width=\"640\" height=\"360\" class=\"note-video-clip\" loop=\"\" autoplay=\"\" playsinline=\"\"></video><br></p>"
     },
     {
       "type": "banner-slider",
