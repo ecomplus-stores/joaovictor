@@ -16,7 +16,7 @@
     {
       "type": "shelfs-nav",
       "shuffle": false,
-      "limit": 8,
+      "limit": "",
       "page": 1,
       "collection_ids": [
         "66bf99ea86679971c647ad40:categories:Mac :/apple/mac",
@@ -24,7 +24,9 @@
         "61b397010c7c727225c54875:categories:iPad:/apple/ipad",
         "61b397340c7c727225c548cc:categories:AirPods:/apple/airpods",
         "61b397210c7c727225c548b7:categories:Watch:/apple/watch"
-      ]
+      ],
+      "shelfs_title": "Seu Apple por categoria",
+      "autoplay": 5000
     },
     {
       "type": "custom-content",
