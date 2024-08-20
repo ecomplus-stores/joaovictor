@@ -32,9 +32,9 @@
       "shuffle": false,
       "limit": "",
       "page": 1,
-      "collection_id": "66bfaae886679971c647c42f:categories:Forerunner®:/garmin/forerunner",
+      "collection_id": "61b2655f0c7c727225c2cbcb:categories:Smartwatches:/smartwatches",
       "sort": "views",
-      "title": "Corra em um nível superior!",
+      "title": "Tecnologia no Seu Pulso!",
       "autoplay": 5000
     },
     {
@@ -44,8 +44,17 @@
       "page": 1,
       "collection_id": "66b7adf686679971c63f69de:categories:Galaxy:/samsung/galaxy",
       "sort": "views",
-      "title": "Inovação e estilo em cada toque",
+      "title": "Inovação e Estilo em Cada Toque!",
       "autoplay": 5000
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": "",
+      "page": 2,
+      "collection_id": "66b7f6a386679971c63fa668:categories:Filmadoras:/filmadoras",
+      "sort": "views",
+      "title": "Capture Cada Momento com Qualidade Profissional!"
     },
     {
       "type": "custom-html",
