@@ -33,19 +33,6 @@
       "markdown": "<div><strong style=\"color: rgb(49, 57, 68); font-size: 23px; letter-spacing: 0.5px;\">Capture a Aventura em Alta Definição!</strong><br></div>\n<hr>\n<p>Se você é apaixonado por aventuras e quer registrar cada momento com perfeição, a GoPro Hero é sua melhor companheira. Compacta, resistente e com qualidade de imagem impressionante, ela está pronta para acompanhar você em qualquer desafio, seja na água, na montanha ou nas ruas. Leve a GoPro Hero e compartilhe suas histórias com o mundo, como elas realmente são: cheias de adrenalina e emoção!</p><p><video controls=\"\" src=\" https://static.gopro.com/assets/blta2b8522e5372af40/bltbdc028bb222d7e25/64ddb9ce7eee3d0b46ae4fc0/13-CE_NextLevelProductionValue_1500x800.mp4\" width=\"640\" height=\"360\" class=\"note-video-clip\" loop=\"\" autoplay=\"\" playsinline=\"\"></video><br></p>"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "https://media.insta360.com/static/a1ca5c8ecb748b9f024d7749e9927f31/X4_EN.mp4",
-          "mobile_img": "https://media.insta360.com/static/a1ca5c8ecb748b9f024d7749e9927f31/X4_EN.mp4"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": "",
