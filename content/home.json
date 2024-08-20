@@ -28,14 +28,17 @@
       "autoplay": 5000
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": "",
-      "page": 1,
-      "collection_id": "61b2655f0c7c727225c2cbcb:categories:Smartwatches:/smartwatches",
-      "sort": "views",
-      "title": "Tecnologia no Seu Pulso!",
-      "autoplay": 5000
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "https://media.insta360.com/static/a1ca5c8ecb748b9f024d7749e9927f31/X4_EN.mp4",
+          "mobile_img": "https://media.insta360.com/static/a1ca5c8ecb748b9f024d7749e9927f31/X4_EN.mp4"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -45,6 +48,16 @@
       "collection_id": "66b7f6a386679971c63fa668:categories:Filmadoras:/filmadoras",
       "sort": "views",
       "title": "Capture Cada Momento com Qualidade Profissional!",
+      "autoplay": 5000
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": "",
+      "page": 1,
+      "collection_id": "61b2655f0c7c727225c2cbcb:categories:Smartwatches:/smartwatches",
+      "sort": "views",
+      "title": "Tecnologia no Seu Pulso!",
       "autoplay": 5000
     },
     {
