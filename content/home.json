@@ -41,20 +41,20 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": "",
-      "page": 1,
-      "collection_id": "66b7adf686679971c63f69de:categories:Galaxy:/samsung/galaxy",
+      "page": 2,
+      "collection_id": "66b7f6a386679971c63fa668:categories:Filmadoras:/filmadoras",
       "sort": "views",
-      "title": "Inovação e Estilo em Cada Toque!",
-      "autoplay": 5000
+      "title": "Capture Cada Momento com Qualidade Profissional!"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": "",
-      "page": 2,
-      "collection_id": "66b7f6a386679971c63fa668:categories:Filmadoras:/filmadoras",
+      "page": 1,
+      "collection_id": "66b7adf686679971c63f69de:categories:Galaxy:/samsung/galaxy",
       "sort": "views",
-      "title": "Capture Cada Momento com Qualidade Profissional!"
+      "title": "Inovação e Estilo em Cada Toque!",
+      "autoplay": 5000
     },
     {
       "type": "custom-html",
