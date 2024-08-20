@@ -81,6 +81,11 @@
     {
       "type": "custom-html",
       "html": "<!-- TrustBox widget - Micro Review Count -->\n<div class=\"trustpilot-widget\" data-locale=\"en-US\" data-template-id=\"5419b6a8b0d04a076446a9ad\" data-businessunit-id=\"63e121c52ba9106ee583db9f\" data-style-height=\"24px\" data-style-width=\"100%\" data-theme=\"light\" data-min-review-count=\"10\" data-without-reviews-preferred-string-id=\"2\" data-style-alignment=\"center\">\n  <a href=\"https://www.trustpilot.com/review/macpremier.com.br\" target=\"_blank\" rel=\"noopener\">Trustpilot</a>\n</div>\n<!-- End TrustBox widget -->"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "https://media.insta360.com/static/a1ca5c8ecb748b9f024d7749e9927f31/X4_EN.mp4",
+      "mobile_img": "https://media.insta360.com/static/a1ca5c8ecb748b9f024d7749e9927f31/X4_EN.mp4"
     }
   ]
 }
