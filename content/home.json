@@ -32,7 +32,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<h4><strong>Lançamentos</strong></h4>\n<div style=\"border-radius:0px;box-shadow:0 2px 8px 0 rgba(63,69,81,0.16);height:0;margin-bottom:0.9em;margin-top:1.6em;overflow:hidden;padding-bottom:0;padding-top:75.0000%;position:relative;width:100%;will-change:transform;\"><iframe style=\"border-style:none;height:100%;left:0;margin:0;padding:0;position:absolute;top:0;width:100%;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAGOg7aD5_0/yoEKMOhHvm2OYv2xoQriBg/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n    </iframe></div> "
+      "html": "<div style=\"border-radius:0px;box-shadow:0 2px 8px 0 rgba(63,69,81,0.16);height:0;margin-bottom:0.9em;margin-top:1.6em;overflow:hidden;padding-bottom:0;padding-top:75.0000%;position:relative;width:100%;will-change:transform;\"><iframe style=\"border-style:none;height:100%;left:0;margin:0;padding:0;position:absolute;top:0;width:100%;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAGOg7aD5_0/yoEKMOhHvm2OYv2xoQriBg/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n    </iframe></div> "
     },
     {
       "type": "custom-content",
