@@ -59,6 +59,19 @@
       "autoplay": 5000
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/frame-1.jpg",
+          "mobile_img": "/img/uploads/frame-2.jpg"
+        }
+      ]
+    },
+    {
       "type": "blog",
       "enabled": true
     },
