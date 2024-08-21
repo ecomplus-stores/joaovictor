@@ -45,6 +45,10 @@
       "title": "Luz, câmera, ação"
     },
     {
+      "type": "custom-html",
+      "html": "<div style=\"position: relative; width: 100%; height: 0; padding-top: 50.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\">  <iframe loading=\"lazy\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"    src=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGOgUF82lI&#x2F;IsotHGP1O01dLxqY28MGMQ&#x2F;view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">  </iframe></div><a href=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGOgUF82lI&#x2F;IsotHGP1O01dLxqY28MGMQ&#x2F;view?utm_content=DAGOgUF82lI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">iPhone</a> de MacPremier"
+    },
+    {
       "type": "custom-content",
       "markdown": "<hr><h4><span style=\"background-color:hsl(213,91%,58%);color:#fafafa;\"><strong>&nbsp;NEW&nbsp;</strong></span><strong> DJI Mini 4 Pro</strong></h4>\n<p>Tudo ou nada com o Mini</p>\n<p><video class=\"note-video-clip\" controls=\"\" src=\" https://terra-1-g.djicdn.com/851d20f7b9f64838a34cd02351370894/140%20shot%20on/F30_WA140_DJI%20home%20page%20Shot%20on%20Banner%20Video_CLEAN_%E2%89%A410s_V4_2400-1440.mp4\" width=\"640\" height=\"360\" loop=\"\" autoplay=\"\" playsinline=\"\"></video></p>\n<p>O <strong>DJI Mini 4 Pro</strong> é o mini drone com câmera mais avançado da DJI até o momento. Conta com poderosos recursos de imagem, detecção de obstáculos omnidirecional, ActiveTrack em 360° com o novo Modo Rastreio e transmissão de vídeos em FHD a até 20 km, trazendo ainda mais novidades para profissionais e iniciantes.</p>\n<p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.macpremier.com.br/filmadora-gopro-hero-12-black-creator-edition\"><span style=\"background-color:hsl(213,91%,58%);color:#fafafa;\"><strong>&nbsp; &nbsp;Comprar &nbsp;&nbsp;</strong></span></a></p>"
     },
@@ -65,20 +69,6 @@
     {
       "type": "custom-html",
       "html": "<!-- TrustBox widget - Micro Review Count -->\n<div class=\"trustpilot-widget\" data-locale=\"en-US\" data-template-id=\"5419b6a8b0d04a076446a9ad\" data-businessunit-id=\"63e121c52ba9106ee583db9f\" data-style-height=\"24px\" data-style-width=\"100%\" data-theme=\"light\" data-min-review-count=\"10\" data-without-reviews-preferred-string-id=\"2\" data-style-alignment=\"center\">\n  <a href=\"https://www.trustpilot.com/review/macpremier.com.br\" target=\"_blank\" rel=\"noopener\">Trustpilot</a>\n</div>\n<!-- End TrustBox widget -->"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/frame-2.jpg",
-      "mobile_img": "/img/uploads/frame-1.jpg"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "https://www.canva.com/design/DAGOgdCa0dI/yQFhGJ3IYacY-1KBpI4IIQ/view",
-      "mobile_img": "https://www.canva.com/design/DAGOgdCa0dI/yQFhGJ3IYacY-1KBpI4IIQ/view"
-    },
-    {
-      "type": "custom-html",
-      "html": "<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2225%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\">  <iframe loading=\"lazy\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"    src=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGOgdCa0dI&#x2F;yQFhGJ3IYacY-1KBpI4IIQ&#x2F;view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">  </iframe></div><a href=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGOgdCa0dI&#x2F;yQFhGJ3IYacY-1KBpI4IIQ&#x2F;view?utm_content=DAGOgdCa0dI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">Design</a> de João Victor Assunção"
     }
   ]
 }
