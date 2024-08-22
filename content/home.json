@@ -56,23 +56,6 @@
     {
       "type": "custom-html",
       "html": "<!-- TrustBox widget - Micro Review Count -->\n<div class=\"trustpilot-widget\" data-locale=\"en-US\" data-template-id=\"5419b6a8b0d04a076446a9ad\" data-businessunit-id=\"63e121c52ba9106ee583db9f\" data-style-height=\"24px\" data-style-width=\"100%\" data-theme=\"light\" data-min-review-count=\"10\" data-without-reviews-preferred-string-id=\"2\" data-style-alignment=\"center\">\n  <a href=\"https://www.trustpilot.com/review/macpremier.com.br\" target=\"_blank\" rel=\"noopener\">Trustpilot</a>\n</div>\n<!-- End TrustBox widget -->"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/main-banner-desktop-home-macpremier.svg",
-          "mobile_img": "/img/uploads/main-banner-mobile-home-macpremier-2-.svg"
-        }
-      ]
-    },
-    {
-      "type": "custom-content",
-      "markdown": "<div style=\"border-radius:0px;height:0;margin-bottom:0px;margin-top:0px;overflow:hidden;padding-bottom:0;padding-top:75.0000%;position:relative;width:100%;will-change:transform;\"><iframe style=\"border-style:none;height:100%;left:0;margin:0;padding:0;position:absolute;top:0;width:100%;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAGOg7aD5_0/yoEKMOhHvm2OYv2xoQriBg/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n    </iframe></div>"
     }
   ]
 }
