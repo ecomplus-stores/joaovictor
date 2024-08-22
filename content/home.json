@@ -7,10 +7,6 @@
       "enabled": true
     },
     {
-      "type": "custom-content",
-      "markdown": "<div style=\"border-radius:0px;height:0;margin-bottom:0px;margin-top:0px;overflow:hidden;padding-bottom:0;padding-top:75.0000%;position:relative;width:100%;will-change:transform;\"><iframe style=\"border-style:none;height:100%;left:0;margin:0;padding:0;position:absolute;top:0;width:100%;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAGOg7aD5_0/yoEKMOhHvm2OYv2xoQriBg/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n    </iframe></div>"
-    },
-    {
       "type": "custom-html",
       "html": "<div style=\"border-radius:0px;height:0;margin-bottom:0px;margin-top:0px;overflow:hidden;padding-bottom:0;padding-top:75.0000%;position:relative;width:100%;will-change:transform;\"><iframe style=\"border-style:none;height:100%;left:0;margin:0;padding:0;position:absolute;top:0;width:100%;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAGOg7aD5_0/yoEKMOhHvm2OYv2xoQriBg/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n    </iframe></div>"
     },
@@ -73,6 +69,10 @@
           "mobile_img": "/img/uploads/main-banner-mobile-home-macpremier-2-.svg"
         }
       ]
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<div style=\"border-radius:0px;height:0;margin-bottom:0px;margin-top:0px;overflow:hidden;padding-bottom:0;padding-top:75.0000%;position:relative;width:100%;will-change:transform;\"><iframe style=\"border-style:none;height:100%;left:0;margin:0;padding:0;position:absolute;top:0;width:100%;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAGOg7aD5_0/yoEKMOhHvm2OYv2xoQriBg/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n    </iframe></div>"
     }
   ]
 }
