@@ -92,6 +92,16 @@
     {
       "type": "custom-content",
       "markdown": "<div class=\"mobile\" style=\"position: relative; width: 100%; height: 0; padding-top: 140.0000%;\n padding-bottom: 0; overflow: hidden; will-change: transform;\">\n  <iframe loading=\"lazy\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"\n    src=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGOs0iB6QM&#x2F;98Kbw9WQsrpj0wl1br3jNA&#x2F;view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe>\n</div>\n\n<div class=\"desktop\" style=\"position: relative; width: 100%; height: 0; padding-top: 50.0000%;\n padding-bottom: 0; overflow: hidden; border-radius: 8px; will-change: transform;\">\n  <iframe loading=\"lazy\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"\n    src=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGOszWAc_c&#x2F;6NMIiu91C6zwaS5jw_ntpA&#x2F;view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe>\n</div>"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": "",
+      "page": 1,
+      "collection_id": "66bf99ea86679971c647ad40:categories:Mac :/apple/mac",
+      "sort": "views",
+      "title": "Você imagina. O Mac faz.",
+      "autoplay": 5000
     }
   ]
 }
