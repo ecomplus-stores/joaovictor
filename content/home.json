@@ -37,20 +37,6 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<div class=\"mobile\" style=\"position: relative; width: 100%; height: 0; padding-top: 140.0000%;\n padding-bottom: 0; overflow: hidden; will-change: transform;\">\n  <iframe loading=\"lazy\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"\n    src=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGOrrX3l_U&#x2F;A0vKJ8ofJQwAXJ07AugcBw&#x2F;view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe>\n</div>\n\n<div class=\"desktop\" style=\"position: relative; width: 100%; height: 0; padding-top: 50.0000%;\n padding-bottom: 0; overflow: hidden;\n border-radius: 8px; will-change: transform;\">\n  <iframe loading=\"lazy\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"\n    src=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGOrlORiOI&#x2F;HZ59g7TxJQSG4Zcr9HTKdA&#x2F;view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe>\n</div>"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": "",
-      "page": 1,
-      "collection_id": "6255d46b2e405e04ff3b7781:categories:Drones:/drones",
-      "sort": "views",
-      "title": "Alcance lugares mais altos",
-      "autoplay": 5000
-    },
-    {
-      "type": "custom-content",
       "markdown": "<div class=\"mobile\" style=\"position: relative; width: 100%; height: 0; padding-top: 140.0000%;\n padding-bottom: 0; overflow: hidden; will-change: transform;\">\n  <iframe loading=\"lazy\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"\n    src=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGOrugCS_M&#x2F;bYhaE8p8gipZgxA57Z6yaQ&#x2F;view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe>\n</div>\n\n<div class=\"desktop\" style=\"position: relative; width: 100%; height: 0; padding-top: 50.0000%;\n padding-bottom: 0; overflow: hidden;\n border-radius: 8px; will-change: transform;\">\n  <iframe loading=\"lazy\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"\n    src=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGOrlJrnlU&#x2F;ls9lYSso0f537YSB1QoMRw&#x2F;view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe>\n</div>"
     },
     {
@@ -61,6 +47,20 @@
       "collection_id": "61b264b20c7c727225c2c793:categories:Tablets:/tablets",
       "sort": "views",
       "title": "Poder e versatilidade",
+      "autoplay": 5000
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<div class=\"mobile\" style=\"position: relative; width: 100%; height: 0; padding-top: 140.0000%;\n padding-bottom: 0; overflow: hidden; will-change: transform;\">\n  <iframe loading=\"lazy\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"\n    src=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGOrrX3l_U&#x2F;A0vKJ8ofJQwAXJ07AugcBw&#x2F;view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe>\n</div>\n\n<div class=\"desktop\" style=\"position: relative; width: 100%; height: 0; padding-top: 50.0000%;\n padding-bottom: 0; overflow: hidden;\n border-radius: 8px; will-change: transform;\">\n  <iframe loading=\"lazy\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"\n    src=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGOrlORiOI&#x2F;HZ59g7TxJQSG4Zcr9HTKdA&#x2F;view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe>\n</div>"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": "",
+      "page": 1,
+      "collection_id": "6255d46b2e405e04ff3b7781:categories:Drones:/drones",
+      "sort": "views",
+      "title": "Alcance lugares mais altos",
       "autoplay": 5000
     },
     {
