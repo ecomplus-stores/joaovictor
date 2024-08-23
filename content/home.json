@@ -60,6 +60,10 @@
     {
       "type": "custom-html",
       "html": "<div class= \"mobile\" style=\"position: relative; width: 100%; height: 0; padding-top: 125.0000%;\n padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16) overflow: hidden; will-change: transform;\">\n  <iframe  style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"\n    src=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGOoe_ouUw&#x2F;3eFK5sntucwglNptwFuNKw&#x2F;view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe>\n</div>"
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<div class= \"mobile\" style=\"position: relative; width: 100%; height: 0; padding-top: 125.0000%;\n padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16) overflow: hidden; will-change: transform;\">\n  <iframe  style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"\n    src=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGOoe_ouUw&#x2F;3eFK5sntucwglNptwFuNKw&#x2F;view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe>\n</div>"
     }
   ]
 }
