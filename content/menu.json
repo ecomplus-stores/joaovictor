@@ -1,5 +1,7 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "categorias"
+  ],
   "phone_wpp": false,
   "socials": false,
   "alphabetical_order": true
