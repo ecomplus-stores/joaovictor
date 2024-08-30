@@ -74,9 +74,30 @@
     ]
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categorias",
-    "list": []
+    "list": [
+      {
+        "url": "https://www.macpremier.com.br/acessorios",
+        "text": "Acessórios"
+      },
+      {
+        "text": "Caixa de som",
+        "url": "https://www.macpremier.com.br/caixa-de-som"
+      },
+      {
+        "url": "https://www.macpremier.com.br/consoles",
+        "text": "Consoles"
+      },
+      {
+        "url": "https://www.macpremier.com.br/cameras-digitais",
+        "text": "Câmeras digitais"
+      },
+      {
+        "url": "https://www.macpremier.com.br/desktops",
+        "text": "Desktops"
+      }
+    ]
   },
   "contacts": {
     "title": "Atendimento",
