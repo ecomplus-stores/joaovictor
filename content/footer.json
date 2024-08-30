@@ -96,6 +96,22 @@
       {
         "url": "https://www.macpremier.com.br/desktops",
         "text": "Desktops"
+      },
+      {
+        "text": "Drones",
+        "url": "https://www.macpremier.com.br/drones"
+      },
+      {
+        "url": "https://www.macpremier.com.br/filmadoras",
+        "text": "Filmadoras"
+      },
+      {
+        "url": "https://www.macpremier.com.br/fones-de-ouvido",
+        "text": "Fones de ouvido"
+      },
+      {
+        "text": "Notebooks",
+        "url": "https://www.macpremier.com.br/notebooks"
       }
     ]
   },
