@@ -112,6 +112,30 @@
       {
         "text": "Notebooks",
         "url": "https://www.macpremier.com.br/notebooks"
+      },
+      {
+        "url": "https://www.macpremier.com.br/vr",
+        "text": "Realidade Virtual (VR)"
+      },
+      {
+        "url": "https://www.macpremier.com.br/robo-de-limpeza",
+        "text": "Robô de limpeza"
+      },
+      {
+        "text": "Smartphones",
+        "url": "https://www.macpremier.com.br/smartphones"
+      },
+      {
+        "url": "https://www.macpremier.com.br/smartwatches",
+        "text": "Smartwatches"
+      },
+      {
+        "url": "https://www.macpremier.com.br/streaming",
+        "text": "Streaming"
+      },
+      {
+        "url": "https://www.macpremier.com.br/tablets",
+        "text": "Tablets"
       }
     ]
   },
