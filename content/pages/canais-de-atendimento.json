@@ -1,0 +1,16 @@
+{
+  "title": "Canais de Atendimento",
+  "meta_title": "Canais de Atendimento",
+  "meta_description": "Canais de Atendimento",
+  "body": "Canais de Atendimento",
+  "sections": [
+    {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    }
+  ]
+}
