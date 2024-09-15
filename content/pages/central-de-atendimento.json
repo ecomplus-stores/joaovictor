@@ -1,0 +1,15 @@
+{
+  "title": "Central de Atendimento",
+  "sections": [
+    {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    }
+  ],
+  "meta_title": "Central de Atendimento | MacPremier",
+  "body": "Central de Atendimento"
+}
