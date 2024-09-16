@@ -35,15 +35,15 @@
       "html": "<!-- TrustBox widget - Micro Review Count -->\n<div class=\"trustpilot-widget\" data-locale=\"en-US\" data-template-id=\"5419b6a8b0d04a076446a9ad\" data-businessunit-id=\"63e121c52ba9106ee583db9f\" data-style-height=\"24px\" data-style-width=\"100%\" data-theme=\"light\" data-min-review-count=\"10\" data-without-reviews-preferred-string-id=\"2\" data-style-alignment=\"center\">\n  <a href=\"https://www.trustpilot.com/review/macpremier.com.br\" target=\"_blank\" rel=\"noopener\">Trustpilot</a>\n</div>\n<!-- End TrustBox widget -->"
     },
     {
+      "type": "custom-html",
+      "html": "<div class= \"mobile\" style=\"position: relative; width: 100%; height: 0; padding-top: 140.0000%;\n padding-bottom: 0; overflow: hidden; border-radius: 0px; will-change: transform;\">\n  <iframe style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"\n    src=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGQ37plsOo&#x2F;He3Neys04LMQZNv7vnakhg&#x2F;view?embed\" >\n  </iframe>\n</div>\n\n<div class=\"desktop\" style=\"position: relative; width: 100%; height: 0; padding-top: 50.0000%;\n padding-bottom: 0; overflow: hidden; border-radius: 0px; will-change: transform;\">\n  <iframe style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"\n    src=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGQ32zQ-6k&#x2F;eaF1lIWIT2ESbXCqdT84NA&#x2F;view?embed\">\n  </iframe>\n</div>"
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
       "autoplay": 5000,
       "sort": "name"
-    },
-    {
-      "type": "custom-html",
-      "html": "<div class= \"mobile\" style=\"position: relative; width: 100%; height: 0; padding-top: 140.0000%;\n padding-bottom: 0; overflow: hidden; border-radius: 0px; will-change: transform;\">\n  <iframe style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"\n    src=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGQ37plsOo&#x2F;He3Neys04LMQZNv7vnakhg&#x2F;view?embed\" >\n  </iframe>\n</div>\n\n<div class=\"desktop\" style=\"position: relative; width: 100%; height: 0; padding-top: 50.0000%;\n padding-bottom: 0; overflow: hidden; border-radius: 0px; will-change: transform;\">\n  <iframe style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"\n    src=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGQ32zQ-6k&#x2F;eaF1lIWIT2ESbXCqdT84NA&#x2F;view?embed\">\n  </iframe>\n</div>"
     }
   ]
 }
