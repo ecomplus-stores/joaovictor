@@ -44,24 +44,6 @@
       "offset": 0,
       "autoplay": 5000,
       "sort": "name"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 5000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/canais-de-atendimento.jpg",
-          "link": "macpremier.com.br"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/canais-de-atendimento2.jpg"
-        }
-      ]
     }
   ]
 }
