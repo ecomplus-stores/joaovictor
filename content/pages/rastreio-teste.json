@@ -1,0 +1,6 @@
+{
+  "body": "<!--StartFragment-->\n\n<form action=\"https://www2.correios.com.br/sistemas/rastreamento/resultado.cfm\" method=\"post\" target=\"_blank\"> <label for=\"codigo\">Código de Rastreamento:</label> <input type=\"text\" id=\"codigo\" name=\"objetos\" placeholder=\"Insira o código de rastreio\" required> <button type=\"submit\">Rastrear</button> </form>\n\n<!--EndFragment-->",
+  "title": "Rastreio / teste",
+  "meta_title": "Rastreio",
+  "meta_description": "Rastreio"
+}
