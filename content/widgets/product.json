@@ -3,7 +3,7 @@
   "active": true,
   "desktopOnly": false,
   "options": {
-    "buyText": "Colocar na sacola",
+    "buyText": "Colocar no carrinho",
     "buy": "",
     "strHasQuantitySelector": "true",
     "strHasPromotionTimer": "true",
