@@ -81,6 +81,13 @@
         "AUR4083",
         "TRU6326"
       ]
+    },
+    {
+      "id": "GALAXY AI",
+      "img": "/img/uploads/galaxyai-galaxy-ai.gif",
+      "skus": [
+        "ZBV1013"
+      ]
     }
   ]
 }
