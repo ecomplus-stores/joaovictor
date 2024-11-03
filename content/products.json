@@ -31,6 +31,10 @@
       "enabled": true
     },
     {
+      "type": "product-specifications",
+      "enabled": true
+    },
+    {
       "type": "blog",
       "enabled": true
     },
