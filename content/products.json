@@ -9,14 +9,6 @@
       "enabled": true
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2023-09-23T18:34:35.563Z",
-      "end": "2023-09-23T18:34:35.610Z",
-      "offers": [],
-      "notes": "***"
-    },
-    {
       "type": "product-block",
       "enabled": true
     },
