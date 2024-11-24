@@ -8,24 +8,24 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Como comprar?",
-        "link": "https://www.macpremier.com.br/pages/como-comprar"
-      },
-      {
-        "title": "Compra segura",
-        "link": "https://www.macpremier.com.br/pages/compra-segura"
-      },
-      {
-        "title": "Atendimento",
-        "link": "https://www.macpremier.com.br/pages/canais-de-atendimento"
+        "title": "Políticas",
+        "link": "https://www.macpremier.com.br/pages/politicas"
       },
       {
         "title": "Help Center",
         "link": "https://macpremier.tawk.help"
       },
       {
-        "title": "Políticas",
-        "link": "https://www.macpremier.com.br/pages/politicas"
+        "title": "Compra segura",
+        "link": "https://www.macpremier.com.br/pages/compra-segura"
+      },
+      {
+        "title": "Como comprar?",
+        "link": "https://www.macpremier.com.br/pages/como-comprar"
+      },
+      {
+        "title": "Atendimento",
+        "link": "https://www.macpremier.com.br/pages/canais-de-atendimento"
       },
       {
         "title": "Devolução e reembolso",
