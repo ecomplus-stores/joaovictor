@@ -7,6 +7,10 @@
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "page-title",
+      "description": "Atendimento de segunda a sexta-feira, das 9h às 17h, exceto feriados."
     }
   ]
 }
