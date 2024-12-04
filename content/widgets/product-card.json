@@ -4,7 +4,7 @@
   "desktopOnly": false,
   "options": {
     "buyText": "Adicionar",
-    "buy": "<div class=\"center\">\n      <div class=\"circle pulse\"></div>\n </div>",
+    "buy": "<div class=\"button.btn.btn-lg.btn-primary\">\n      <div class=\"circle pulse\"></div>\n </div>",
     "footer": "<div class=\"product-card__colors\">\n  "
   }
 }
