@@ -94,6 +94,13 @@
         "PRG8254",
         "HDW2106"
       ]
+    },
+    {
+      "id": "APPLE INTELLIGENCE",
+      "img": "/img/uploads/apple-intelligence-96x96_2x.png",
+      "skus": [
+        "XBH8875"
+      ]
     }
   ]
 }
