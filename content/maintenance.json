@@ -1,6 +1,6 @@
 {
   "active": false,
   "title": "Loja em manutenção",
-  "body": "Página indisponível temporariamente.",
+  "body": "<!--StartFragment-->\n\nOlá!\n\nEstamos realizando melhorias no nosso site para oferecer uma experiência ainda melhor para você! Durante esse período, algumas funcionalidades podem estar temporariamente indisponíveis.\n\n**O que está acontecendo?**\n\n* Atualizações e ajustes para aprimorar nossos serviços.\n* Implementação de novos recursos.\n\n**Quando voltaremos?**\\\nEstamos trabalhando para que tudo esteja pronto o mais rápido possível. Por favor, volte mais tarde para conferir as novidades!\n\nAgradecemos a sua paciência e compreensão.\n\n<!--EndFragment-->",
   "unlock_key": "01020304"
 }
