@@ -1,6 +1,6 @@
 {
   "active": true,
-  "title": "Loja em manutenção",
+  "title": "Ops, estamos em manutenção!",
   "body": "<figure class=\"image\"><img style=\"aspect-ratio:500/500;\" src=\"https://www.macpremier.com.br/img/uploads/phone-maintenance-rafiki.svg\" alt=\"\" width=\"500\" height=\"500\"></figure>\n<p><span style=\"color:#fafafa;font-size:22px;\"><strong>Prezado cliente</strong></span><span style=\"color:#fafafa;font-size:20px;\">, informamos que nossa loja está temporariamente em manutenção para melhorias e atualizações. Estamos trabalhando para oferecer uma experiência ainda melhor para você. Pedimos desculpas por qualquer inconveniente e agradecemos pela sua compreensão.</span></p>",
   "unlock_key": "01020304"
 }
