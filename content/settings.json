@@ -6,7 +6,7 @@
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#032c7d",
+  "bg_color": "#0034a4",
   "repository": "ecomplus-stores/joaovictor",
   "logo": "/img/uploads/900-x-285.svg",
   "name": "MacPremier",
@@ -14,7 +14,7 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "Inter",
+  "font_family": "_",
   "favicon": "/img/uploads/app2.png",
   "icons_font": "line-awesome",
   "country_code": "BR",
