@@ -9,16 +9,12 @@
       "enabled": true
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "product-block",
       "enabled": true
     },
     {
       "type": "related-products",
-      "title": "Talvez te interesse também"
+      "title": "Talvez te interesse também "
     },
     {
       "type": "product-description",
