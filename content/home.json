@@ -117,7 +117,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<hr> "
+      "html": "<hr>"
     }
   ]
 }
