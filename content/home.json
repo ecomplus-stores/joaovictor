@@ -110,6 +110,14 @@
     {
       "type": "custom-html",
       "html": "<hr>"
+    },
+    {
+      "type": "custom-html",
+      "html": "<hr>"
+    },
+    {
+      "type": "custom-html",
+      "html": "<hr> "
     }
   ]
 }
