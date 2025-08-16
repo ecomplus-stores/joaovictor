@@ -14,7 +14,7 @@
       "enabled": true
     }
   ],
-  "body": "<iframe data-testid=\"embed-iframe\" style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/show/3zBhtk8busxAk2mKcmCKrY?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>2px",
+  "body": "<iframe data-testid=\"embed-iframe\" style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/show/3zBhtk8busxAk2mKcmCKrY?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
   "meta_title": "MacPremier's Reviews",
   "meta_description": "Olá, seja bem-vindo ao MacPremier's Reviews — aqui você encontra uma análise sincera sobre o produto que você está de olho."
 }
