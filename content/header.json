@@ -12,20 +12,20 @@
         "link": "https://www.macpremier.com.br/pages/politicas"
       },
       {
+        "title": "Podcast",
+        "link": "https://www.macpremier.com.br/pages/macpremiers-reviews"
+      },
+      {
         "title": "Help Center",
         "link": "https://macpremier.tawk.help"
       },
       {
-        "title": "Compra segura",
-        "link": "https://www.macpremier.com.br/pages/compra-segura"
+        "title": "Atendimento",
+        "link": "https://www.macpremier.com.br/pages/canais-de-atendimento"
       },
       {
         "title": "Devolução e reembolso",
         "link": "https://www.macpremier.com.br/pages/politica-de-devolucao-e-reembolso"
-      },
-      {
-        "title": "Atendimento",
-        "link": "https://www.macpremier.com.br/pages/canais-de-atendimento"
       },
       {
         "title": "CDC",
@@ -38,6 +38,10 @@
       {
         "title": "Como comprar?",
         "link": "https://www.macpremier.com.br/pages/como-comprar"
+      },
+      {
+        "title": "Compra segura",
+        "link": "https://www.macpremier.com.br/pages/compra-segura"
       },
       {
         "title": "Blog",
