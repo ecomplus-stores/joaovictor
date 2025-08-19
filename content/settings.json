@@ -1,7 +1,7 @@
 {
   "domain": "www.macpremier.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#0b58ff",
+  "primary_color": "",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/app2.svg",
   "icons_font": "line-awesome",
   "country_code": "BR",
-  "secondary_color": "#0b58ff",
+  "secondary_color": "",
   "icon": "/img/uploads/app2.svg",
   "store_id": 19130,
   "description": "Somos apaixonados por tecnologia, dedicados a oferecer aos nossos clientes uma experiência de compra online segura, prática e inovadora. A MacPremier nasceu com o propósito de tornar a tecnologia mais acessível às pessoas, oferecendo uma gama de produtos de tecnologia de alta qualidade, desde acessórios mais recentes até computadores para uso profissional.",
