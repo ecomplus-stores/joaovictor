@@ -71,18 +71,6 @@
       ]
     },
     {
-      "id": "SEMINOVO EXCELENTE",
-      "img": "/img/uploads/frame-26.svg",
-      "skus": [
-        "BUN7882",
-        "LKG8795",
-        "VNO3640",
-        "SWT7628",
-        "AUR4083",
-        "TRU6326"
-      ]
-    },
-    {
       "id": "GALAXY AI",
       "img": "/img/uploads/output-onlinegiftools-1-.gif",
       "skus": [
@@ -101,7 +89,16 @@
       "skus": [
         "XBH8875",
         "WMI8552",
-        "OFG8561"
+        "OFG8561",
+        "WXQ1326"
+      ]
+    },
+    {
+      "id": "Chip M4",
+      "img": "/img/uploads/ipad-compare-icon-chip-m4-202405.jfif",
+      "skus": [
+        "KOC8943",
+        "WXQ1326"
       ]
     }
   ]
