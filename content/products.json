@@ -37,6 +37,10 @@
       "offset": 0,
       "sort": "name",
       "autoplay": 5000
+    },
+    {
+      "type": "custom-html",
+      "html": "<div style=\"position:relative;width:100%;padding-top:53%;overflow:hidden;border-radius:0px;\">\n  \n  <iframe\n    src=\"https://shy-work-746879.framer.app/\"\n    loading=\"lazy\"\n    style=\"\n      position:absolute;\n      top:0;\n      left:0;\n      width:100%;\n      height:100%;\n      border:none;\n    \">\n  </iframe>3\n\n</div>"
     }
   ]
 }
