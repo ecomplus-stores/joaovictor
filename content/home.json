@@ -46,19 +46,20 @@
       "shuffle": false,
       "limit": "",
       "page": 1,
-      "collection_id": "66b7f6a386679971c63fa668:categories:Filmadoras:/filmadoras",
-      "sort": "views",
+      "collection_id": "61b396cd0c7c727225c54820:categories:iPhone:/apple/iphone",
+      "sort": "lowest_price",
       "autoplay": 5000,
-      "title": "Luz, câmera, ação"
+      "title": "Potência de sobra. Eficiência na medida."
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": "",
       "page": 1,
-      "collection_id": "61b396cd0c7c727225c54820:categories:iPhone:/apple/iphone",
-      "sort": "lowest_price",
-      "autoplay": 5000
+      "collection_id": "66b7f6a386679971c63fa668:categories:Filmadoras:/filmadoras",
+      "sort": "views",
+      "autoplay": 5000,
+      "title": "Luz, câmera, ação"
     },
     {
       "type": "collection-shelf",
