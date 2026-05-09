@@ -23,7 +23,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<div style=\"width:100%;\">\n\n  <iframe\n    src=\"https://fuchsia-fancy-467512.framer.app/\"\n    title=\"Banner Responsivo\"\n    loading=\"lazy\"\n    style=\"\n      width:100%;\n      aspect-ratio: 16 / 5;\n      border:none;\n      display:block;\n    \">\n  </iframe>\n\n</div>"
+      "markdown": "<iframe src=\"https://wonderful-lake-963267.framer.app/\" style=\"width:100%; height:600px; border:none;\" title=\"Banner Responsivo\"> </iframe>"
     },
     {
       "type": "custom-content",
