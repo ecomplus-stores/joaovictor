@@ -23,7 +23,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<iframe src=\"https://wonderful-lake-963267.framer.app/\" style=\"width:100%; height:600px; border:none;\" title=\"BResponsivo\"> </iframe>"
+      "markdown": "<iframe\n  id=\"framer-banner\"\n  src=\"https://wonderful-lake-963267.framer.app/\"\n  style=\"\n    width:100%;\n    border:none;\n    display:block;\n  \"\n  scrolling=\"no\">\n</iframe>\n\n<script>\nwindow.addEventListener(\"message\", function(event) {\n\n  // segurança\n  if (!event.origin.includes(\"framer.app\")) return;\n\n  // recebe altura enviada\n  if (event.data.type === \"setHeight\") {\n    document.getElementById(\"framer-banner\").style.height =\n      event.data.height + \"px\";\n  }\n});\n</script>"
     },
     {
       "type": "collection-shelf",
