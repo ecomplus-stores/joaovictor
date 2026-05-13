@@ -1,26 +1,26 @@
 {
   "shipping": {
     "show": true,
+    "text": " Use MACPREMIER10 para frete grátis na primeira compra.",
+    "title": "Envio grátis*",
+    "link": "https://www.macpremier.com.br/pages/politica-de-entrega"
+  },
+  "installments": {
+    "show": true,
     "text": "Privacidade e segurança fazem parte do nosso DNA.",
     "title": "Compra segura? Check!",
     "link": "https://www.macpremier.com.br/pages/compra-segura"
   },
-  "installments": {
-    "show": true,
-    "text": "Use o cupom MACPREMIER10 para frete grátis na primeira compra.",
-    "title": "Envio grátis*",
-    "link": "https://www.macpremier.com.br/pages/politica-de-entrega"
-  },
   "exchange": {
+    "show": true,
+    "text": " Em até 7 dias corridos a partir do recebimento do produto",
+    "title": " Trocas e devoluções",
+    "link": " https://www.macpremier.com.br/pages/politica-de-devolucao-e-reembolso"
+  },
+  "promo": {
     "show": true,
     "text": "Confira nossas formas de pagamento e descontos.",
     "title": "Economize hoje",
     "link": "https://www.macpremier.com.br/pages/formas-de-pagamento"
-  },
-  "promo": {
-    "show": true,
-    "text": "Em até 7 dias corridos a partir do recebimento do produto",
-    "title": "Trocas e devoluções",
-    "link": "https://www.macpremier.com.br/pages/politica-de-devolucao-e-reembolso"
   }
 }
