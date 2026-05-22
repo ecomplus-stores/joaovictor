@@ -120,6 +120,13 @@
         "PSY4962",
         "WGI9029"
       ]
+    },
+    {
+      "id": "Produto novo",
+      "img": "/img/uploads/selo-produto-novo-1-.png",
+      "skus": [
+        "CUQ4619"
+      ]
     }
   ]
 }
