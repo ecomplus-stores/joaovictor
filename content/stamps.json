@@ -130,7 +130,10 @@
     },
     {
       "id": "Lançamento",
-      "img": "/img/uploads/0b58ff-2-.gif"
+      "img": "/img/uploads/0b58ff-2-.gif",
+      "skus": [
+        "OFR3551"
+      ]
     }
   ]
 }
